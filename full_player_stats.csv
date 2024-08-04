@@ -1,0 +1,856 @@
+,agents_played,assists_per_round,average_combat_score,average_damage_per_round,clutch_success_percentage,first_deaths_per_round,first_kills_per_round,headshot_percentage,kill_assists_survived_traded,kill_deaths,kills_per_round,org,player,rating,region,event
+0,['jett'],0.19,237.0,156.1,8,0.17,0.18,25,71,1.21,0.82,FUR,mwzera,1.19,NA,KICKOFF
+1,['viper'],0.25,213.3,142.9,12,0.07,0.08,31,76,1.25,0.76,LOUD,Less,1.15,NA,KICKOFF
+2,"['raze', 'jett']",0.20,249.0,161.8,9,0.16,0.22,25,72,1.21,0.86,SEN,zekken,1.15,NA,KICKOFF
+3,"['raze', 'reyna', 'jett']",0.20,242.1,162.5,25,0.13,0.15,28,73,1.23,0.85,LEV,aspas,1.15,NA,KICKOFF
+4,"['omen', 'brimstone', 'harbor']",0.47,190.8,127.8,21,0.04,0.05,31,75,1.11,0.68,LOUD,tuyz,1.10,NA,KICKOFF
+5,"['omen', 'yoru', 'kayo']",0.42,212.9,139.8,8,0.09,0.13,26,76,1.11,0.75,SEN,TenZ,1.10,NA,KICKOFF
+6,"['viper', 'kayo', 'killjoy']",0.41,195.1,123.9,16,0.07,0.08,17,77,1.05,0.68,SEN,Zellsis,1.09,NA,KICKOFF
+7,"['jett', 'chamber']",0.14,251.2,165.8,,0.10,0.23,35,68,1.25,0.91,KRÜ,keznit,1.09,NA,KICKOFF
+8,"['jett', 'raze', 'yoru']",0.19,237.3,155.0,20,0.21,0.20,28,69,1.16,0.81,G2,leaf,1.08,NA,KICKOFF
+9,"['cypher', 'killjoy', 'viper']",0.27,187.5,123.0,21,0.06,0.06,26,75,1.10,0.66,SEN,johnqt,1.08,NA,KICKOFF
+10,"['jett', 'omen']",0.15,215.3,145.6,7,0.17,0.20,33,71,1.08,0.76,NRG,Demon1,1.08,NA,KICKOFF
+11,"['cypher', 'killjoy', 'raze']",0.19,211.0,140.3,20,0.11,0.11,25,74,1.24,0.76,NRG,Victor,1.08,NA,KICKOFF
+12,"['fade', 'gekko', 'sova']",0.17,219.0,140.2,18,0.05,0.12,37,69,1.11,0.76,EG,Derrek,1.08,NA,KICKOFF
+13,"['killjoy', 'viper']",0.22,190.4,140.1,54,0.06,0.05,23,69,1.10,0.69,KRÜ,Shyy,1.07,NA,KICKOFF
+14,"['omen', 'viper']",0.31,190.6,124.6,21,0.08,0.11,33,72,1.00,0.65,EG,supamen,1.07,NA,KICKOFF
+15,"['skye', 'sova', 'fade']",0.45,200.2,134.9,21,0.06,0.07,26,74,0.99,0.66,SEN,Sacy,1.06,NA,KICKOFF
+16,"['raze', 'skye', 'fade']",0.44,211.1,134.0,15,0.12,0.08,23,80,0.98,0.72,C9,Xeppaa,1.05,NA,KICKOFF
+17,['viper'],0.29,197.0,136.7,20,0.09,0.07,29,74,1.00,0.67,G2,trent,1.04,NA,KICKOFF
+18,"['kayo', 'skye']",0.48,210.7,135.3,23,0.08,0.06,21,78,1.00,0.69,NRG,Ethan,1.04,NA,KICKOFF
+19,"['skye', 'viper', 'gekko']",0.34,198.6,132.2,23,0.08,0.06,22,76,1.03,0.69,C9,vanity,1.03,NA,KICKOFF
+20,"['cypher', 'killjoy']",0.20,217.0,153.7,13,0.19,0.07,33,61,1.08,0.77,EG,Apoth,1.03,NA,KICKOFF
+21,"['brimstone', 'astra', 'jett']",0.17,206.3,137.3,40,0.12,0.11,25,70,1.13,0.78,100T,Cryocells,1.02,NA,KICKOFF
+22,"['sova', 'kayo', 'breach']",0.34,178.6,121.0,24,0.09,0.04,29,75,0.98,0.65,G2,JonahP,1.01,NA,KICKOFF
+23,"['breach', 'sova']",0.32,195.5,120.7,,0.08,0.14,30,74,1.03,0.71,LOUD,cauanzin,1.01,NA,KICKOFF
+24,"['brimstone', 'astra', 'omen']",0.40,187.8,129.3,16,0.05,0.04,30,77,1.05,0.68,MIBR,RgLMeister,1.01,NA,KICKOFF
+25,"['viper', 'killjoy', 'cypher']",0.17,192.2,126.1,26,0.10,0.08,29,67,1.09,0.69,MIBR,frz,1.01,NA,KICKOFF
+26,"['raze', 'skye', 'sova']",0.21,216.3,144.3,5,0.14,0.15,30,75,1.07,0.77,MIBR,jzz,1.00,NA,KICKOFF
+27,"['viper', 'breach', 'kayo']",0.30,207.4,136.2,15,0.07,0.03,31,73,1.05,0.73,LEV,kiNgg,1.00,NA,KICKOFF
+28,"['sova', 'viper', 'breach']",0.31,167.9,110.3,10,0.07,0.06,25,74,1.00,0.60,NRG,crashies,0.99,NA,KICKOFF
+29,"['viper', 'killjoy']",0.22,179.0,119.7,7,0.07,0.07,21,73,0.98,0.60,C9,wippie,0.98,NA,KICKOFF
+30,"['sova', 'fade', 'skye']",0.35,182.8,126.0,13,0.05,0.11,22,71,0.83,0.59,KRÜ,Klaus,0.98,NA,KICKOFF
+31,"['jett', 'raze']",0.16,216.3,138.8,27,0.15,0.14,25,72,1.00,0.74,MIBR,artzin,0.98,NA,KICKOFF
+32,"['raze', 'phoenix', 'jett']",0.19,203.0,135.7,7,0.15,0.18,28,67,0.99,0.73,LOUD,Quick,0.96,NA,KICKOFF
+33,"['gekko', 'killjoy', 'omen']",0.25,201.8,141.2,10,0.13,0.13,28,72,0.93,0.71,100T,Boostio,0.96,NA,KICKOFF
+34,"['brimstone', 'astra', 'omen']",0.39,170.7,113.4,14,0.06,0.04,28,74,0.88,0.60,C9,jakee,0.96,NA,KICKOFF
+35,"['killjoy', 'cypher']",0.18,198.5,131.1,8,0.06,0.07,39,68,1.00,0.70,G2,neT,0.96,NA,KICKOFF
+36,"['skye', 'sova']",0.45,187.6,120.9,9,0.10,0.08,21,71,0.89,0.63,LEV,C0M,0.96,NA,KICKOFF
+37,"['fade', 'sova']",0.29,170.0,110.9,4,0.04,0.03,25,71,0.89,0.62,100T,eeiu,0.95,NA,KICKOFF
+38,"['viper', 'omen']",0.40,193.0,123.0,8,0.10,0.06,27,75,0.88,0.66,NRG,Marved,0.95,NA,KICKOFF
+39,"['raze', 'deadlock', 'jett']",0.26,206.0,138.7,,0.15,0.15,21,64,0.92,0.70,EG,jawgemo,0.95,NA,KICKOFF
+40,"['sova', 'skye']",0.32,170.0,113.7,7,0.02,0.07,18,76,0.84,0.57,FUR,kon4n,0.95,NA,KICKOFF
+41,"['yoru', 'raze', 'jett']",0.16,227.9,147.9,7,0.19,0.23,33,67,0.96,0.79,C9,OXY,0.94,NA,KICKOFF
+42,"['brimstone', 'omen', 'harbor']",0.37,180.8,114.2,11,0.07,0.10,22,76,0.90,0.63,G2,valyn,0.94,NA,KICKOFF
+43,"['cypher', 'killjoy', 'viper']",0.18,170.5,119.5,10,0.06,0.03,27,64,0.84,0.60,FUR,Khalil,0.93,NA,KICKOFF
+44,['viper'],0.26,192.5,124.2,21,0.09,0.09,29,71,0.92,0.65,100T,bang,0.92,NA,KICKOFF
+45,"['skye', 'kayo', 'killjoy']",0.39,186.9,122.0,5,0.12,0.08,17,75,0.82,0.61,LOUD,saadhak,0.89,NA,KICKOFF
+46,"['viper', 'omen', 'astra']",0.33,167.0,106.4,8,0.07,0.06,35,70,0.83,0.56,FUR,liazzi,0.89,NA,KICKOFF
+47,['kayo'],0.46,179.4,111.7,,0.13,0.11,39,67,0.76,0.58,KRÜ,mta,0.89,NA,KICKOFF
+48,"['raze', 'gekko']",0.27,189.5,117.0,22,0.15,0.11,17,71,0.76,0.60,100T,Asuna,0.88,NA,KICKOFF
+49,"['skye', 'viper', 'kayo']",0.38,161.6,109.1,14,0.09,0.07,29,66,0.79,0.54,MIBR,mazin,0.88,NA,KICKOFF
+50,"['harbor', 'omen', 'astra']",0.35,163.6,112.8,28,0.12,0.06,26,67,0.78,0.56,LEV,Mazino,0.84,NA,KICKOFF
+51,"['breach', 'kayo']",0.41,148.4,94.0,13,0.02,0.06,27,72,0.66,0.50,EG,NaturE,0.80,NA,KICKOFF
+52,"['gekko', 'cypher', 'killjoy']",0.25,167.0,115.5,,0.15,0.11,27,70,0.73,0.58,LEV,tex,0.76,NA,KICKOFF
+53,"['kayo', 'raze']",0.29,171.3,111.6,,0.22,0.13,27,56,0.72,0.56,FUR,havoc,0.75,NA,KICKOFF
+54,"['viper', 'omen', 'astra']",0.28,137.4,87.3,6,0.12,0.05,30,66,0.67,0.49,KRÜ,Melser,0.73,NA,KICKOFF
+55,"['jett', 'phoenix', 'raze']",0.17,260.3,175.1,11,0.11,0.16,31,75,1.51,0.95,LEV,aspas,1.25,NA,STAGE 1
+56,"['jett', 'raze']",0.22,291.1,185.6,18,0.17,0.24,29,75,1.26,1.01,C9,OXY,1.22,NA,STAGE 1
+57,"['jett', 'astra', 'brimstone']",0.27,243.0,161.1,12,0.06,0.14,24,77,1.35,0.88,100T,Cryocells,1.22,NA,STAGE 1
+58,"['kayo', 'omen', 'gekko']",0.52,224.2,138.9,22,0.08,0.12,26,76,1.11,0.75,SEN,TenZ,1.18,NA,STAGE 1
+59,"['sova', 'fade']",0.31,195.4,133.8,12,0.04,0.06,32,78,1.26,0.72,100T,eeiu,1.16,NA,STAGE 1
+60,"['viper', 'omen']",0.32,210.1,132.1,7,0.09,0.10,33,78,1.24,0.74,100T,bang,1.15,NA,STAGE 1
+61,"['fade', 'kayo', 'gekko']",0.38,211.5,139.7,19,0.09,0.07,36,76,1.18,0.78,KRÜ,heat,1.14,NA,STAGE 1
+62,"['omen', 'brimstone', 'harbor']",0.34,212.2,136.3,20,0.09,0.11,27,76,1.15,0.77,G2,valyn,1.13,NA,STAGE 1
+63,"['gekko', 'raze', 'kayo']",0.35,230.1,145.4,15,0.15,0.14,20,74,1.13,0.78,100T,Asuna,1.10,NA,STAGE 1
+64,"['raze', 'reyna', 'jett']",0.19,251.2,167.8,10,0.17,0.20,29,70,1.20,0.87,KRÜ,keznit,1.10,NA,STAGE 1
+65,"['viper', 'cypher']",0.31,187.5,124.9,19,0.07,0.06,27,76,1.12,0.67,SEN,johnqt,1.09,NA,STAGE 1
+66,"['viper', 'omen']",0.38,205.1,136.6,14,0.07,0.10,30,76,1.14,0.73,LEV,kiNgg,1.08,NA,STAGE 1
+67,"['killjoy', 'viper', 'cypher']",0.20,221.8,147.8,19,0.10,0.11,24,72,1.15,0.78,G2,leaf,1.08,NA,STAGE 1
+68,"['jett', 'raze']",0.16,243.4,154.0,19,0.15,0.23,23,72,1.10,0.81,SEN,zekken,1.08,NA,STAGE 1
+69,"['fade', 'sova', 'viper']",0.32,195.5,131.5,20,0.08,0.08,28,72,1.05,0.68,G2,trent,1.08,NA,STAGE 1
+70,"['sova', 'viper']",0.27,187.7,133.8,18,0.06,0.08,35,73,1.08,0.69,C9,runi,1.07,NA,STAGE 1
+71,"['cypher', 'viper']",0.21,205.2,140.3,12,0.07,0.06,28,72,1.16,0.73,LOUD,Less,1.07,NA,STAGE 1
+72,"['killjoy', 'viper', 'brimstone']",0.26,184.0,128.8,18,0.09,0.07,21,72,0.99,0.63,SEN,Zellsis,1.05,NA,STAGE 1
+73,"['killjoy', 'cypher', 'viper']",0.20,189.4,130.5,13,0.06,0.06,26,73,1.09,0.68,KRÜ,Shyy,1.04,NA,STAGE 1
+74,"['harbor', 'breach', 'kayo']",0.40,209.5,134.2,15,0.10,0.07,29,74,1.02,0.73,LEV,Mazino,1.03,NA,STAGE 1
+75,"['sage', 'skye', 'kayo']",0.48,190.3,124.1,21,0.07,0.07,27,77,0.93,0.65,C9,Xeppaa,1.02,NA,STAGE 1
+76,"['omen', 'viper']",0.28,174.0,119.9,15,0.08,0.08,32,71,1.00,0.63,KRÜ,Melser,1.02,NA,STAGE 1
+77,"['viper', 'killjoy', 'breach']",0.37,199.7,132.5,12,0.06,0.05,32,69,0.98,0.69,EG,NaturE,1.01,NA,STAGE 1
+78,"['yoru', 'kayo', 'omen']",0.43,191.1,122.0,17,0.10,0.07,21,72,0.96,0.65,NRG,Ethan,1.01,NA,STAGE 1
+79,"['sova', 'gekko', 'skye']",0.27,182.3,118.8,21,0.06,0.04,35,72,1.03,0.68,NRG,crashies,1.01,NA,STAGE 1
+80,"['killjoy', 'cypher']",0.19,176.5,120.3,14,0.06,0.07,24,72,1.04,0.63,C9,moose,1.00,NA,STAGE 1
+81,"['viper', 'kayo', 'breach']",0.45,183.6,118.9,10,0.09,0.05,27,74,0.89,0.61,G2,JonahP,1.00,NA,STAGE 1
+82,"['viper', 'omen', 'brimstone']",0.35,166.3,110.9,13,0.07,0.06,33,70,0.91,0.60,LOUD,tuyz,0.98,NA,STAGE 1
+83,"['sova', 'breach', 'kayo']",0.32,201.8,129.9,18,0.08,0.10,27,74,0.95,0.69,LOUD,cauanzin,0.97,NA,STAGE 1
+84,"['cypher', 'raze', 'brimstone']",0.17,212.9,139.4,,0.09,0.12,27,67,1.01,0.75,NRG,Victor,0.96,NA,STAGE 1
+85,"['killjoy', 'cypher', 'sage']",0.17,184.8,122.4,12,0.12,0.11,35,71,0.97,0.65,LEV,tex,0.96,NA,STAGE 1
+86,"['jett', 'raze', 'brimstone']",0.20,204.4,139.6,12,0.17,0.16,36,71,0.91,0.70,NRG,Demon1,0.95,NA,STAGE 1
+87,"['fade', 'sova', 'skye']",0.27,183.2,124.6,20,0.04,0.05,33,68,0.95,0.66,EG,Derrek,0.95,NA,STAGE 1
+88,"['viper', 'omen', 'cypher']",0.24,189.6,125.3,27,0.11,0.08,28,67,0.93,0.65,NRG,Marved,0.95,NA,STAGE 1
+89,"['skye', 'kayo', 'sova']",0.28,191.6,125.7,11,0.03,0.03,26,67,0.94,0.68,FUR,nzr,0.94,NA,STAGE 1
+90,"['gekko', 'skye', 'fade']",0.30,161.9,111.0,12,0.07,0.06,32,71,0.90,0.58,SEN,Sacy,0.94,NA,STAGE 1
+91,"['sova', 'viper', 'fade']",0.29,160.8,109.2,15,0.07,0.09,22,71,0.80,0.54,LEV,C0M,0.92,NA,STAGE 1
+92,"['raze', 'jett']",0.15,217.4,146.2,14,0.14,0.16,20,63,0.94,0.73,EG,jawgemo,0.92,NA,STAGE 1
+93,"['raze', 'gekko', 'yoru']",0.19,187.0,125.3,15,0.15,0.14,26,68,0.89,0.66,G2,icy,0.91,NA,STAGE 1
+94,"['viper', 'gekko', 'sova']",0.29,177.7,116.7,15,0.08,0.11,25,73,0.82,0.59,KRÜ,Klaus,0.90,NA,STAGE 1
+95,"['viper', 'omen', 'brimstone']",0.38,163.9,107.3,15,0.10,0.08,22,73,0.79,0.57,C9,vanity,0.90,NA,STAGE 1
+96,"['killjoy', 'cypher', 'viper']",0.21,186.1,126.4,14,0.14,0.08,26,65,0.84,0.65,MIBR,frz,0.89,NA,STAGE 1
+97,"['kayo', 'sova', 'breach']",0.34,193.2,130.9,13,0.13,0.09,26,67,0.84,0.62,LOUD,saadhak,0.89,NA,STAGE 1
+98,"['omen', 'viper']",0.29,184.2,122.5,7,0.11,0.11,37,69,0.87,0.64,EG,supamen,0.87,NA,STAGE 1
+99,"['killjoy', 'gekko', 'cypher']",0.21,169.5,110.7,26,0.12,0.09,24,70,0.87,0.61,100T,Boostio,0.87,NA,STAGE 1
+100,"['cypher', 'harbor', 'astra']",0.21,174.5,119.0,17,0.15,0.11,37,61,0.84,0.60,EG,Apoth,0.84,NA,STAGE 1
+101,"['jett', 'raze', 'sage']",0.19,204.2,137.0,11,0.18,0.14,26,62,0.82,0.70,MIBR,artzin,0.84,NA,STAGE 1
+102,"['omen', 'killjoy', 'cypher']",0.25,164.4,112.4,21,0.09,0.04,29,69,0.77,0.57,FUR,Khalil,0.82,NA,STAGE 1
+103,"['sova', 'skye', 'raze']",0.20,196.2,135.7,19,0.11,0.14,32,66,0.83,0.68,MIBR,jzz,0.82,NA,STAGE 1
+104,"['jett', 'phoenix', 'raze']",0.11,172.8,111.9,6,0.20,0.15,23,61,0.79,0.60,LOUD,Quick,0.80,NA,STAGE 1
+105,"['harbor', 'omen', 'brimstone']",0.28,156.2,105.6,19,0.04,0.06,27,64,0.73,0.57,MIBR,RgLMeister,0.77,NA,STAGE 1
+106,"['raze', 'omen', 'jett']",0.21,191.5,125.1,,0.17,0.10,20,63,0.77,0.66,FUR,mwzera,0.75,NA,STAGE 1
+107,"['viper', 'kayo']",0.25,154.4,102.2,13,0.13,0.07,27,64,0.69,0.53,FUR,kon4n,0.72,NA,STAGE 1
+108,"['killjoy', 'gekko', 'kayo']",0.17,178.3,124.4,23,0.22,0.13,39,59,0.72,0.61,FUR,havoc,0.71,NA,STAGE 1
+109,"['viper', 'kayo', 'skye']",0.35,127.6,83.9,10,0.09,0.04,26,61,0.55,0.42,MIBR,mazin,0.66,NA,STAGE 1
+110,"['jett', 'raze', 'neon']",0.20,269.0,169.8,13,0.11,0.22,27,77,1.52,0.94,LEV,aspas,1.35,NA,STAGE 2
+111,"['omen', 'viper']",0.40,209.8,134.0,17,0.07,0.10,28,81,1.31,0.76,LEV,kiNgg,1.20,NA,STAGE 2
+112,"['kayo', 'harbor', 'brimstone']",0.45,228.6,150.9,6,0.07,0.09,28,79,1.23,0.82,LEV,Mazino,1.16,NA,STAGE 2
+113,"['raze', 'jett']",0.25,273.7,178.4,9,0.18,0.24,27,71,1.15,0.90,SEN,zekken,1.13,NA,STAGE 2
+114,"['sova', 'fade']",0.35,200.5,135.7,16,0.02,0.05,31,77,1.17,0.71,100T,eeiu,1.13,NA,STAGE 2
+115,"['clove', 'omen', 'brimstone']",0.45,224.7,143.6,19,0.07,0.09,27,78,1.13,0.77,NRG,s0m,1.12,NA,STAGE 2
+116,"['breach', 'kayo', 'yoru']",0.43,222.5,136.2,11,0.06,0.12,22,79,1.08,0.76,NRG,Ethan,1.10,NA,STAGE 2
+117,"['omen', 'gekko']",0.37,204.2,132.8,7,0.11,0.09,26,74,1.08,0.71,SEN,TenZ,1.08,NA,STAGE 2
+118,"['kayo', 'viper', 'breach']",0.39,205.7,129.3,23,0.08,0.09,24,71,1.07,0.73,G2,JonahP,1.08,NA,STAGE 2
+119,"['killjoy', 'gekko', 'cypher']",0.21,204.6,135.7,16,0.10,0.09,32,74,1.17,0.75,LEV,tex,1.06,NA,STAGE 2
+120,"['viper', 'omen', 'brimstone']",0.31,206.7,138.1,14,0.06,0.07,32,75,1.16,0.77,FUR,Khalil,1.06,NA,STAGE 2
+121,"['sova', 'fade']",0.36,180.0,125.1,16,0.07,0.08,20,79,1.04,0.62,LEV,C0M,1.06,NA,STAGE 2
+122,"['fade', 'sova', 'gekko']",0.34,199.3,135.3,7,0.03,0.06,37,76,1.08,0.74,EG,Derrek,1.06,NA,STAGE 2
+123,"['omen', 'harbor', 'brimstone']",0.39,202.4,123.0,24,0.09,0.10,22,79,1.01,0.70,G2,valyn,1.05,NA,STAGE 2
+124,"['cypher', 'breach', 'viper']",0.36,179.8,114.3,15,0.06,0.02,21,75,1.10,0.65,SEN,Zellsis,1.04,NA,STAGE 2
+125,"['jett', 'brimstone', 'astra']",0.20,223.8,138.7,21,0.12,0.15,26,71,1.13,0.82,100T,Cryocells,1.04,NA,STAGE 2
+126,"['omen', 'clove']",0.27,214.6,136.3,21,0.15,0.09,45,73,1.08,0.79,EG,supamen,1.04,NA,STAGE 2
+127,"['killjoy', 'viper']",0.26,219.1,148.4,22,0.09,0.11,19,69,1.06,0.76,G2,leaf,1.04,NA,STAGE 2
+128,"['gekko', 'kayo', 'raze']",0.43,205.6,132.5,15,0.12,0.13,19,76,0.96,0.70,100T,Asuna,1.03,NA,STAGE 2
+129,"['sova', 'fade', 'gekko']",0.39,186.1,126.0,17,0.09,0.07,23,74,0.95,0.64,G2,trent,1.02,NA,STAGE 2
+130,"['sova', 'breach', 'gekko']",0.31,198.4,140.3,17,0.04,0.03,27,73,1.02,0.69,FUR,nzr,1.02,NA,STAGE 2
+131,"['raze', 'jett', 'neon']",0.21,233.0,155.2,13,0.17,0.19,23,70,1.05,0.79,KRÜ,keznit,1.02,NA,STAGE 2
+132,"['viper', 'omen']",0.36,202.2,127.4,13,0.12,0.10,33,73,1.04,0.70,100T,bang,1.02,NA,STAGE 2
+133,"['omen', 'viper', 'brimstone']",0.34,192.1,128.9,19,0.08,0.07,37,71,1.06,0.69,LOUD,pANcada,1.02,NA,STAGE 2
+134,"['iso', 'neon', 'raze']",0.26,243.4,159.9,10,0.15,0.18,24,71,1.01,0.81,EG,jawgemo,1.01,NA,STAGE 2
+135,"['fade', 'breach', 'kayo']",0.26,220.0,144.2,13,0.09,0.12,29,71,1.05,0.77,LOUD,cauanzin,1.00,NA,STAGE 2
+136,"['killjoy', 'viper', 'cypher']",0.23,202.1,142.1,18,0.08,0.06,29,69,1.06,0.74,KRÜ,Shyy,1.00,NA,STAGE 2
+137,"['omen', 'viper']",0.35,185.3,121.5,18,0.10,0.08,33,74,0.97,0.66,KRÜ,Melser,0.99,NA,STAGE 2
+138,"['fade', 'skye', 'kayo']",0.37,185.7,122.4,12,0.10,0.07,30,73,0.97,0.69,KRÜ,heat,0.99,NA,STAGE 2
+139,"['cypher', 'killjoy', 'omen']",0.21,191.1,130.0,5,0.07,0.09,30,65,1.03,0.71,LOUD,Less,0.99,NA,STAGE 2
+140,"['yoru', 'gekko', 'killjoy']",0.25,212.7,141.7,13,0.09,0.12,27,67,1.05,0.76,MIBR,artzin,0.99,NA,STAGE 2
+141,"['deadlock', 'cypher', 'killjoy']",0.20,172.4,113.5,11,0.06,0.05,29,71,0.96,0.62,SEN,johnqt,0.98,NA,STAGE 2
+142,"['sova', 'fade', 'gekko']",0.25,192.3,130.3,12,0.07,0.08,31,72,0.91,0.68,MIBR,rich,0.97,NA,STAGE 2
+143,"['killjoy', 'viper', 'cypher']",0.19,198.3,138.8,16,0.14,0.12,36,65,0.96,0.70,FUR,havoc,0.97,NA,STAGE 2
+144,"['jett', 'neon', 'raze']",0.23,236.4,152.8,7,0.15,0.18,18,74,0.99,0.82,FUR,mwzera,0.97,NA,STAGE 2
+145,"['fade', 'gekko', 'skye']",0.34,170.4,119.9,5,0.12,0.06,29,74,0.93,0.59,SEN,Sacy,0.96,NA,STAGE 2
+146,"['omen', 'viper', 'brimstone']",0.30,168.5,110.3,19,0.04,0.07,31,65,0.86,0.58,MIBR,mazin,0.95,NA,STAGE 2
+147,"['gekko', 'sova', 'fade']",0.33,171.4,113.4,12,0.06,0.04,24,75,0.92,0.59,NRG,crashies,0.94,NA,STAGE 2
+148,"['neon', 'gekko', 'raze']",0.20,194.2,131.2,10,0.15,0.12,23,71,0.97,0.70,G2,icy,0.93,NA,STAGE 2
+149,"['jett', 'reyna', 'raze']",0.16,232.7,152.1,17,0.19,0.18,27,69,0.99,0.82,C9,OXY,0.93,NA,STAGE 2
+150,"['killjoy', 'cypher']",0.12,165.9,115.1,17,0.06,0.09,25,65,0.92,0.60,C9,moose,0.93,NA,STAGE 2
+151,"['neon', 'clove', 'raze']",0.17,214.7,139.6,17,0.24,0.20,25,67,0.98,0.75,NRG,Victor,0.92,NA,STAGE 2
+152,"['killjoy', 'gekko', 'breach']",0.28,187.7,131.5,13,0.11,0.08,24,70,0.84,0.63,100T,Boostio,0.90,NA,STAGE 2
+153,"['kayo', 'gekko', 'skye']",0.39,175.4,120.3,24,0.09,0.05,26,73,0.78,0.56,C9,Xeppaa,0.90,NA,STAGE 2
+154,"['breach', 'killjoy', 'skye']",0.36,163.5,107.4,14,0.06,0.06,32,72,0.78,0.57,EG,NaturE,0.89,NA,STAGE 2
+155,"['killjoy', 'kayo', 'breach']",0.25,172.1,115.0,12,0.07,0.05,32,70,0.87,0.61,MIBR,liazzi,0.89,NA,STAGE 2
+156,"['gekko', 'omen', 'jett']",0.23,175.5,117.3,6,0.13,0.08,27,70,0.90,0.64,LOUD,tuyz,0.89,NA,STAGE 2
+157,"['jett', 'raze']",0.15,221.1,142.3,18,0.20,0.22,27,63,0.85,0.73,MIBR,Palla,0.88,NA,STAGE 2
+158,"['neon', 'gekko', 'kayo']",0.37,192.8,126.8,23,0.15,0.10,22,69,0.80,0.61,LOUD,saadhak,0.88,NA,STAGE 2
+159,"['omen', 'viper']",0.31,177.4,118.5,10,0.13,0.10,21,66,0.84,0.62,C9,vanity,0.87,NA,STAGE 2
+160,"['sova', 'breach', 'viper']",0.30,162.0,107.7,9,0.05,0.05,32,70,0.78,0.55,C9,runi,0.87,NA,STAGE 2
+161,['sova'],0.33,172.5,124.2,17,0.10,0.07,24,74,0.79,0.55,MIBR,ShahZaM,0.85,NA,STAGE 2
+162,"['cypher', 'sova', 'viper']",0.22,162.9,111.8,7,0.08,0.07,33,67,0.78,0.57,KRÜ,mta,0.85,NA,STAGE 2
+163,"['cypher', 'deadlock', 'viper']",0.28,158.1,105.5,12,0.04,0.08,19,64,0.71,0.54,NRG,FiNESSE,0.81,NA,STAGE 2
+164,"['cypher', 'harbor', 'brimstone']",0.26,150.6,102.4,16,0.14,0.07,32,62,0.68,0.50,EG,Apoth,0.78,NA,STAGE 2
+165,"['sage', 'gekko', 'fade']",0.34,139.4,94.7,8,0.13,0.07,29,70,0.65,0.49,FUR,xand,0.73,NA,STAGE 2
+166,"['viper', 'cypher']",0.23,127.0,92.6,,0.13,0.09,27,64,0.59,0.43,KRÜ,Klaus,0.70,NA,STAGE 2
+167,"['iso', 'jett']",0.29,140.5,101.3,,0.21,0.10,24,64,0.54,0.45,MIBR,Pa1nt,0.61,NA,STAGE 2
+168,"['gekko', 'fade', 'raze']",0.41,245.7,163.7,21,0.10,0.12,26,73,1.27,0.84,KC,N4RRATE,1.27,INT,MASTERS MADRID
+169,"['viper', 'cypher']",0.32,213.2,155.1,3,0.08,0.09,30,80,1.32,0.78,LOUD,Less,1.21,INT,MASTERS MADRID
+170,"['harbor', 'viper', 'omen']",0.32,190.4,128.0,11,0.05,0.05,30,74,1.29,0.74,LOUD,tuyz,1.18,INT,MASTERS MADRID
+171,"['neon', 'yoru', 'raze']",0.28,245.0,153.6,25,0.14,0.17,31,77,1.24,0.88,TH,MiniBoo,1.16,INT,MASTERS MADRID
+172,"['gekko', 'sova', 'breach']",0.34,230.3,157.3,,0.05,0.11,36,78,1.14,0.79,TH,RieNs,1.15,INT,MASTERS MADRID
+173,"['raze', 'jett']",0.21,259.5,167.1,17,0.19,0.23,22,74,1.21,0.90,SEN,zekken,1.13,INT,MASTERS MADRID
+174,"['viper', 'cypher', 'killjoy']",0.28,198.1,130.9,18,0.04,0.09,24,79,1.17,0.70,SEN,johnqt,1.12,INT,MASTERS MADRID
+175,"['sova', 'breach']",0.29,223.3,143.1,7,0.10,0.10,25,74,1.10,0.78,LOUD,cauanzin,1.08,INT,MASTERS MADRID
+176,"['kayo', 'viper']",0.40,189.6,125.5,13,0.08,0.06,22,71,1.09,0.67,GEN,Munchkin,1.08,INT,MASTERS MADRID
+177,"['omen', 'gekko', 'kayo']",0.54,208.2,131.2,27,0.08,0.09,29,77,1.05,0.75,SEN,TenZ,1.07,INT,MASTERS MADRID
+178,"['viper', 'astra', 'omen']",0.36,207.3,140.4,16,0.06,0.10,29,74,1.06,0.74,GEN,Karon,1.05,INT,MASTERS MADRID
+179,"['gekko', 'reyna', 'jett']",0.22,212.6,136.6,14,0.11,0.15,25,70,1.08,0.75,PRX,something,1.05,INT,MASTERS MADRID
+180,"['killjoy', 'yoru', 'jett']",0.19,230.0,152.0,13,0.13,0.12,29,73,1.14,0.82,GEN,Meteor,1.05,INT,MASTERS MADRID
+181,"['jett', 'raze']",0.16,224.1,144.3,17,0.13,0.16,24,71,1.07,0.80,GEN,t3xture,1.04,INT,MASTERS MADRID
+182,"['killjoy', 'fade', 'skye']",0.29,195.1,129.3,7,0.08,0.10,23,69,1.00,0.68,KC,MAGNUM,1.03,INT,MASTERS MADRID
+183,"['killjoy', 'cypher', 'viper']",0.23,216.8,140.4,13,0.09,0.11,29,72,1.12,0.78,TH,benjyfishy,1.03,INT,MASTERS MADRID
+184,"['killjoy', 'kayo', 'sova']",0.38,191.3,128.1,17,0.13,0.09,17,73,0.99,0.65,LOUD,saadhak,1.02,INT,MASTERS MADRID
+185,"['kayo', 'harbor', 'yoru']",0.36,216.5,140.4,20,0.10,0.12,30,69,1.02,0.75,PRX,f0rsakeN,1.02,INT,MASTERS MADRID
+186,"['jett', 'raze', 'yoru']",0.20,214.6,138.4,13,0.18,0.16,24,73,1.02,0.75,KC,marteen,1.01,INT,MASTERS MADRID
+187,"['killjoy', 'kayo', 'brimstone']",0.41,188.4,121.9,14,0.08,0.06,19,72,0.93,0.62,SEN,Zellsis,1.01,INT,MASTERS MADRID
+188,"['jett', 'raze', 'phoenix']",0.19,231.8,154.5,33,0.08,0.22,28,69,0.96,0.79,FPX,Autumn,1.00,INT,MASTERS MADRID
+189,"['raze', 'kayo', 'jett']",0.25,252.0,164.3,14,0.11,0.19,25,69,1.08,0.88,EDG,ZmjjKK,1.00,INT,MASTERS MADRID
+190,"['kayo', 'raze', 'breach']",0.36,194.4,127.9,11,0.06,0.09,29,73,0.99,0.71,EDG,Smoggy,0.98,INT,MASTERS MADRID
+191,"['sage', 'fade', 'viper']",0.39,182.3,121.5,13,0.05,0.04,28,70,0.90,0.64,PRX,d4v41,0.98,INT,MASTERS MADRID
+192,"['fade', 'gekko', 'skye']",0.40,173.8,113.6,10,0.09,0.06,24,73,0.86,0.59,SEN,Sacy,0.97,INT,MASTERS MADRID
+193,"['sage', 'omen', 'astra']",0.36,178.0,109.9,11,0.06,0.06,30,81,0.98,0.64,KC,sh1n,0.97,INT,MASTERS MADRID
+194,"['jett', 'yoru', 'phoenix']",0.16,218.5,140.6,19,0.15,0.16,31,67,1.03,0.77,LOUD,Quick,0.96,INT,MASTERS MADRID
+195,"['reyna', 'chamber', 'jett']",0.12,230.8,157.6,33,0.15,0.15,39,64,1.04,0.83,FPX,Life,0.92,INT,MASTERS MADRID
+196,"['omen', 'astra']",0.36,162.3,104.4,12,0.12,0.04,32,68,0.87,0.61,TH,Boo,0.90,INT,MASTERS MADRID
+197,"['omen', 'raze', 'astra']",0.30,199.6,129.9,19,0.17,0.12,24,66,0.87,0.68,PRX,Monyet,0.89,INT,MASTERS MADRID
+198,"['sova', 'skye']",0.26,173.1,124.1,11,0.16,0.07,33,66,0.82,0.60,EDG,nobody,0.88,INT,MASTERS MADRID
+199,"['gekko', 'sova', 'skye']",0.27,153.1,104.1,32,0.09,0.06,24,68,0.78,0.54,GEN,Lakia,0.86,INT,MASTERS MADRID
+200,"['cypher', 'brimstone', 'viper']",0.23,169.0,119.6,,0.07,0.07,29,66,0.81,0.60,EDG,CHICHOO,0.85,INT,MASTERS MADRID
+201,"['viper', 'kayo']",0.48,149.8,100.1,,0.08,0.09,16,71,0.65,0.47,TH,paTiTek,0.84,INT,MASTERS MADRID
+202,"['viper', 'brimstone', 'omen']",0.23,162.8,108.4,4,0.10,0.03,37,66,0.84,0.59,PRX,mindfreak,0.84,INT,MASTERS MADRID
+203,['viper'],0.20,152.8,110.8,,0.05,0.06,30,57,0.72,0.51,FPX,Lysoar,0.82,INT,MASTERS MADRID
+204,"['viper', 'omen', 'fade']",0.29,138.7,98.5,27,0.09,0.04,32,63,0.66,0.46,KC,tomaszy,0.80,INT,MASTERS MADRID
+205,"['omen', 'cypher', 'viper']",0.27,152.3,110.2,36,0.10,0.06,27,69,0.72,0.54,EDG,Haodong,0.79,INT,MASTERS MADRID
+206,"['omen', 'harbor', 'astra']",0.31,150.0,99.0,8,0.13,0.13,36,65,0.70,0.53,FPX,BerLIN,0.76,INT,MASTERS MADRID
+207,"['gekko', 'sova']",0.27,161.0,112.1,7,0.02,0.01,31,66,0.69,0.56,FPX,AAAAY,0.74,INT,MASTERS MADRID
+208,"['viper', 'omen', 'brimstone']",0.42,177.6,110.2,,0.06,0.09,,,1.05,0.65,TH,Boo,,INT,MASTERS SHANGHAI
+209,"['gekko', 'skye']",0.29,159.0,102.9,,0.14,0.06,,,0.70,0.56,EDG,nobody,,INT,MASTERS SHANGHAI
+210,"['killjoy', 'yoru', 'cypher']",0.13,230.8,150.8,,0.09,0.11,,,1.22,0.84,GEN,Meteor,,INT,MASTERS SHANGHAI
+211,"['viper', 'omen', 'astra']",0.45,193.2,125.9,,0.07,0.06,,,1.13,0.70,GEN,Karon,,INT,MASTERS SHANGHAI
+212,"['sova', 'fade', 'cypher']",0.26,146.0,96.0,,0.09,0.07,,,0.73,0.50,LEV,C0M,,INT,MASTERS SHANGHAI
+213,"['killjoy', 'cypher', 'gekko']",0.23,219.8,145.7,,0.07,0.07,,,1.16,0.77,LEV,tex,,INT,MASTERS SHANGHAI
+214,"['harbor', 'omen', 'kayo']",0.36,199.3,135.8,,0.08,0.09,,,1.01,0.73,LEV,Mazino,,INT,MASTERS SHANGHAI
+215,"['jett', 'raze']",0.17,237.8,158.0,,0.12,0.21,,,1.17,0.85,LEV,aspas,,INT,MASTERS SHANGHAI
+216,"['viper', 'omen']",0.32,210.1,140.7,,0.10,0.09,,,1.05,0.75,LEV,kiNgg,,INT,MASTERS SHANGHAI
+217,"['raze', 'reyna', 'sage']",0.21,217.5,151.7,,0.10,0.09,,,0.99,0.77,PRX,Jinggg,,INT,MASTERS SHANGHAI
+218,"['omen', 'brimstone', 'viper']",0.32,180.4,120.7,,0.05,0.06,,,0.91,0.64,PRX,mindfreak,,INT,MASTERS SHANGHAI
+219,"['skye', 'breach', 'harbor']",0.43,189.0,122.0,,0.13,0.08,,,0.89,0.67,PRX,f0rsakeN,,INT,MASTERS SHANGHAI
+220,"['viper', 'skye', 'sage']",0.32,182.5,128.4,,0.06,0.05,,,1.03,0.68,PRX,d4v41,,INT,MASTERS SHANGHAI
+221,"['jett', 'gekko', 'reyna']",0.29,237.8,152.2,,0.19,0.20,,,1.12,0.81,PRX,something,,INT,MASTERS SHANGHAI
+222,['raze'],0.15,243.0,154.1,,0.17,0.17,,,0.91,0.81,EDG,ZmjjKK,,INT,MASTERS SHANGHAI
+223,"['kayo', 'viper']",0.39,177.6,119.5,,0.09,0.06,,,0.98,0.62,GEN,Munchkin,,INT,MASTERS SHANGHAI
+224,"['cypher', 'gekko']",0.21,136.0,83.6,,0.12,0.12,,,0.54,0.45,EDG,Haodong,,INT,MASTERS SHANGHAI
+225,['omen'],0.26,237.0,156.4,,0.04,0.09,,,1.10,0.82,EDG,Smoggy,,INT,MASTERS SHANGHAI
+226,"['astra', 'viper']",0.26,186.5,122.4,,0.05,0.05,,,0.88,0.65,EDG,CHICHOO,,INT,MASTERS SHANGHAI
+227,"['gekko', 'raze', 'kayo']",0.30,202.8,135.3,,0.15,0.12,,,0.98,0.70,100T,Asuna,,INT,MASTERS SHANGHAI
+228,"['killjoy', 'gekko', 'cypher']",0.20,183.0,125.1,,0.12,0.10,,,0.91,0.66,100T,Boostio,,INT,MASTERS SHANGHAI
+229,"['sova', 'fade']",0.25,188.9,124.5,,0.05,0.05,,,1.00,0.66,100T,eeiu,,INT,MASTERS SHANGHAI
+230,"['viper', 'omen']",0.25,200.2,133.8,,0.06,0.10,,,1.01,0.70,100T,bang,,INT,MASTERS SHANGHAI
+231,"['jett', 'brimstone', 'gekko']",0.26,219.2,140.2,,0.14,0.12,,,1.07,0.78,100T,Cryocells,,INT,MASTERS SHANGHAI
+232,"['omen', 'brimstone', 'viper']",0.31,137.0,95.4,,0.11,0.08,,,0.65,0.47,FNC,Boaster,,INT,MASTERS SHANGHAI
+233,"['viper', 'skye', 'kayo']",0.33,172.5,118.1,,0.11,0.06,,,0.81,0.59,FNC,Chronicle,,INT,MASTERS SHANGHAI
+234,"['fade', 'gekko', 'sova']",0.36,186.3,124.6,,0.05,0.03,,,1.01,0.65,FNC,Leo,,INT,MASTERS SHANGHAI
+235,"['raze', 'yoru', 'jett']",0.23,258.5,165.3,,0.12,0.18,,,1.17,0.86,FNC,Derke,,INT,MASTERS SHANGHAI
+236,"['jett', 'raze']",0.14,241.2,148.2,,0.17,0.22,,,1.21,0.85,GEN,t3xture,,INT,MASTERS SHANGHAI
+237,"['gekko', 'fade', 'sova']",0.34,188.9,126.3,,0.05,0.08,,,1.05,0.66,GEN,Lakia,,INT,MASTERS SHANGHAI
+238,"['sova', 'breach', 'skye']",0.39,207.8,137.5,,0.04,0.06,,,1.14,0.74,TH,RieNs,,INT,MASTERS SHANGHAI
+239,"['omen', 'killjoy']",0.22,148.4,104.1,,0.09,0.06,,,0.75,0.52,FPX,Lysoar,,INT,MASTERS SHANGHAI
+240,"['kayo', 'fade', 'skye']",0.41,198.6,131.4,,0.07,0.09,,,1.05,0.69,TH,paTiTek,,INT,MASTERS SHANGHAI
+241,"['jett', 'raze', 'viper']",0.17,248.0,158.5,,0.16,0.24,,,1.21,0.87,TH,Wo0t,,INT,MASTERS SHANGHAI
+242,"['killjoy', 'cypher', 'viper']",0.20,196.0,131.2,,0.09,0.09,,,1.11,0.72,TH,benjyfishy,,INT,MASTERS SHANGHAI
+243,"['killjoy', 'cypher']",0.31,223.5,156.2,,0.08,0.06,,,1.00,0.74,DRG,vo0kashu,,INT,MASTERS SHANGHAI
+244,"['viper', 'omen', 'brimstone']",0.25,209.3,141.0,,0.06,0.07,,,1.05,0.79,DRG,nizhaoTZH,,INT,MASTERS SHANGHAI
+245,"['jett', 'raze']",0.18,202.0,154.6,,0.20,0.18,,,0.74,0.65,DRG,TvirusLuke,,INT,MASTERS SHANGHAI
+246,"['sova', 'kayo', 'skye']",0.28,183.0,121.1,,0.11,0.06,,,0.79,0.59,DRG,Nicc,,INT,MASTERS SHANGHAI
+247,"['harbor', 'gekko', 'sova']",0.21,122.5,93.7,,0.15,0.04,,,0.55,0.42,DRG,Shion7,,INT,MASTERS SHANGHAI
+248,"['cypher', 'viper', 'kayo']",0.34,193.6,130.8,,0.08,0.06,,,0.99,0.66,FPX,Autumn,,INT,MASTERS SHANGHAI
+249,"['yoru', 'raze', 'clove']",0.21,239.2,154.5,,0.22,0.16,,,1.01,0.82,FPX,Life,,INT,MASTERS SHANGHAI
+250,"['harbor', 'astra', 'omen']",0.33,212.0,141.9,,0.10,0.14,,,1.02,0.73,FPX,BerLIN,,INT,MASTERS SHANGHAI
+251,"['fade', 'gekko']",0.19,191.2,130.1,,0.02,0.08,,,1.09,0.74,FPX,AAAAY,,INT,MASTERS SHANGHAI
+252,"['raze', 'jett', 'chamber']",0.20,216.0,148.4,,0.16,0.15,,,1.01,0.77,FUT,cNed,,INT,MASTERS SHANGHAI
+253,"['sova', 'fade', 'omen']",0.28,196.2,131.9,,0.10,0.08,,,1.03,0.71,T1,Carpe,,INT,MASTERS SHANGHAI
+254,"['gekko', 'breach', 'kayo']",0.38,181.2,118.4,,0.06,0.06,,,0.89,0.65,FUT,qRaxs,,INT,MASTERS SHANGHAI
+255,"['omen', 'viper']",0.34,192.5,120.8,,0.14,0.07,,,0.91,0.69,FUT,AtaKaptan,,INT,MASTERS SHANGHAI
+256,"['breach', 'omen', 'sova']",0.41,173.9,116.5,,0.10,0.06,,,0.84,0.61,FUT,MrFaliN,,INT,MASTERS SHANGHAI
+257,"['cypher', 'killjoy', 'viper']",0.21,189.4,127.2,,0.11,0.10,,,1.00,0.67,FUT,yetujey,,INT,MASTERS SHANGHAI
+258,"['astra', 'harbor', 'omen']",0.36,178.4,117.1,,0.10,0.06,,,0.92,0.65,G2,valyn,,INT,MASTERS SHANGHAI
+259,"['viper', 'skye', 'breach']",0.35,203.3,128.9,,0.12,0.07,,,1.00,0.72,G2,JonahP,,INT,MASTERS SHANGHAI
+260,"['cypher', 'killjoy', 'viper']",0.23,208.2,140.3,,0.13,0.11,,,0.98,0.72,G2,leaf,,INT,MASTERS SHANGHAI
+261,"['yoru', 'gekko', 'raze']",0.24,196.1,131.5,,0.11,0.16,,,0.90,0.67,G2,icy,,INT,MASTERS SHANGHAI
+262,"['sova', 'fade', 'gekko']",0.32,184.1,120.0,,0.05,0.09,,,0.85,0.62,G2,trent,,INT,MASTERS SHANGHAI
+263,"['viper', 'breach']",0.27,217.6,130.8,,0.06,0.06,,,1.15,0.75,T1,Rossy,,INT,MASTERS SHANGHAI
+264,"['jett', 'sage', 'raze']",0.17,173.6,121.3,,0.14,0.07,,,0.83,0.62,T1,Sayaplayer,,INT,MASTERS SHANGHAI
+265,"['harbor', 'chamber', 'sage']",0.18,180.2,114.9,,0.12,0.09,,,0.88,0.67,T1,xccurate,,INT,MASTERS SHANGHAI
+266,"['yoru', 'reyna', 'omen']",0.29,210.8,134.0,,0.13,0.17,,,0.83,0.72,T1,iZu,,INT,MASTERS SHANGHAI
+267,"['killjoy', 'viper', 'cypher']",0.22,221.5,150.3,,0.14,0.12,,,1.10,0.78,FNC,Alfajer,,INT,MASTERS SHANGHAI
+268,"['sova', 'fade']",0.32,251.7,172.9,20,0.04,0.12,27,71,1.56,0.90,VIT,trexx,1.38,INT,CHAMPIONS
+269,['fade'],0.38,218.0,138.5,67,0.10,0.05,41,77,1.45,0.74,FNC,hiro,1.36,INT,CHAMPIONS
+270,"['brimstone', 'omen']",0.33,230.0,143.5,33,0.07,0.11,31,78,1.71,0.91,LEV,kiNgg,1.34,INT,CHAMPIONS
+271,"['sova', 'gekko', 'viper']",0.25,259.7,173.3,20,0.03,0.11,36,70,1.61,0.93,TH,RieNs,1.34,INT,CHAMPIONS
+272,['jett'],0.20,256.5,159.6,100,0.15,0.17,30,83,1.65,0.93,GEN,t3xture,1.34,INT,CHAMPIONS
+273,['viper'],0.26,243.5,159.4,25,0.05,0.21,28,74,1.52,0.90,FNC,Chronicle,1.32,INT,CHAMPIONS
+274,['sova'],0.41,247.5,162.6,,0.02,0.10,23,78,1.26,0.83,SEN,Sacy,1.32,INT,CHAMPIONS
+275,"['omen', 'harbor', 'brimstone']",0.36,213.3,133.4,25,0.09,0.09,27,70,1.09,0.68,KRÜ,Melser,1.31,INT,CHAMPIONS
+276,"['raze', 'jett']",0.22,243.5,163.5,,0.07,0.24,29,76,1.28,0.82,LEV,aspas,1.29,INT,CHAMPIONS
+277,['killjoy'],0.23,241.0,167.3,33,0.05,0.12,20,81,1.37,0.86,G2,leaf,1.28,INT,CHAMPIONS
+278,['omen'],0.64,231.0,152.4,50,0.05,0.09,33,91,1.33,0.73,EDG,CHICHOO,1.27,INT,CHAMPIONS
+279,['clove'],0.32,283.0,180.4,50,0.18,0.05,24,77,1.53,1.05,EDG,Smoggy,1.26,INT,CHAMPIONS
+280,['omen'],0.56,224.5,138.2,25,0.07,0.05,33,88,1.48,0.83,GEN,Karon,1.24,INT,CHAMPIONS
+281,['killjoy'],0.15,227.0,156.0,40,0.15,0.07,30,80,1.75,0.85,GEN,Meteor,1.23,INT,CHAMPIONS
+282,"['neon', 'omen', 'raze']",0.30,277.3,175.7,,0.09,0.21,27,64,1.20,0.91,KRÜ,keznit,1.21,INT,CHAMPIONS
+283,['raze'],0.21,227.0,148.2,,0.10,0.15,15,67,1.38,0.85,FNC,Derke,1.20,INT,CHAMPIONS
+284,"['yoru', 'sage']",0.33,249.5,148.8,,0.07,0.07,39,78,1.48,0.89,TLN,primmie,1.19,INT,CHAMPIONS
+285,"['astra', 'omen']",0.46,166.0,110.3,25,0.08,0.08,31,85,1.21,0.59,FNC,Boaster,1.18,INT,CHAMPIONS
+286,"['omen', 'brimstone']",0.28,253.0,162.0,,0.04,0.09,36,79,1.45,0.94,TE,LuoK1ng,1.18,INT,CHAMPIONS
+287,"['sova', 'fade']",0.40,230.5,148.3,13,0.07,0.16,25,70,1.17,0.79,G2,trent,1.18,INT,CHAMPIONS
+288,"['viper', 'chamber']",0.34,205.3,137.3,21,0.08,0.12,30,75,1.17,0.71,FPX,Autumn,1.15,INT,CHAMPIONS
+289,['viper'],0.26,223.5,148.8,,0.12,0.14,28,70,1.10,0.79,G2,JonahP,1.15,INT,CHAMPIONS
+290,"['gekko', 'raze']",0.21,213.5,133.7,,0.02,0.16,32,74,1.21,0.81,G2,icy,1.15,INT,CHAMPIONS
+291,['breach'],0.32,189.0,129.0,,0.05,0.00,30,73,1.07,0.68,FUT,qRaxs,1.14,INT,CHAMPIONS
+292,['cypher'],0.27,235.0,141.0,,0.09,0.14,27,82,1.27,0.86,FUT,yetujey,1.13,INT,CHAMPIONS
+293,"['fade', 'gekko']",0.14,222.3,142.4,13,0.05,0.11,35,68,1.25,0.86,FPX,AAAAY,1.10,INT,CHAMPIONS
+294,['fade'],0.27,213.0,136.8,33,0.09,0.14,27,77,1.20,0.82,EDG,nobody,1.09,INT,CHAMPIONS
+295,"['harbor', 'omen']",0.56,201.5,122.3,33,0.09,0.07,15,77,1.07,0.70,G2,valyn,1.08,INT,CHAMPIONS
+296,"['viper', 'sova']",0.33,205.0,142.5,25,0.13,0.09,16,71,0.89,0.56,LEV,C0M,1.07,INT,CHAMPIONS
+297,"['cypher', 'viper']",0.17,237.7,154.1,20,0.04,0.11,24,83,1.50,0.96,DRX,Flashback,1.07,INT,CHAMPIONS
+298,"['jett', 'cypher']",0.18,203.0,141.3,,0.12,0.13,32,68,1.16,0.75,TE,Kai,1.04,INT,CHAMPIONS
+299,"['viper', 'kayo']",0.51,203.5,131.5,,0.05,0.12,23,83,0.96,0.66,GEN,Munchkin,1.04,INT,CHAMPIONS
+300,"['cypher', 'viper']",0.34,179.0,115.4,44,0.15,0.15,24,60,0.84,0.60,KRÜ,Shyy,1.03,INT,CHAMPIONS
+301,"['gekko', 'fade', 'omen']",0.42,185.3,119.2,13,0.09,0.08,34,80,0.96,0.66,TH,Wo0t,1.03,INT,CHAMPIONS
+302,"['cypher', 'viper', 'killjoy']",0.26,195.7,139.3,10,0.17,0.07,35,68,0.96,0.68,TH,benjyfishy,1.02,INT,CHAMPIONS
+303,['viper'],0.36,187.0,118.9,,0.00,0.00,18,73,0.76,0.59,FUT,AtaKaptan,1.02,INT,CHAMPIONS
+304,"['cypher', 'viper', 'omen']",0.38,217.3,145.9,13,0.04,0.07,19,76,0.98,0.72,FPX,Lysoar,1.01,INT,CHAMPIONS
+305,"['raze', 'neon']",0.13,259.0,161.5,,0.21,0.15,21,74,1.13,0.90,BLG,whzy,1.01,INT,CHAMPIONS
+306,"['skye', 'phoenix']",0.27,160.0,101.6,,0.07,0.07,37,71,1.08,0.62,TLN,ban,1.01,INT,CHAMPIONS
+307,"['sova', 'kayo']",0.44,210.5,134.6,,0.09,0.02,37,70,0.97,0.77,PRX,f0rsakeN,0.99,INT,CHAMPIONS
+308,['omen'],0.36,216.0,123.4,,0.09,0.05,24,77,0.94,0.73,FUT,MrFaliN,0.98,INT,CHAMPIONS
+309,"['kayo', 'breach', 'deadlock']",0.41,159.3,102.4,,0.03,0.06,26,81,0.84,0.54,TE,heybay,0.97,INT,CHAMPIONS
+310,"['jett', 'raze']",0.23,246.7,162.4,,0.17,0.17,15,68,1.05,0.81,DRX,BuZz,0.97,INT,CHAMPIONS
+311,"['breach', 'sova', 'fade']",0.30,172.7,115.9,,0.04,0.04,27,74,0.92,0.68,KRÜ,heat,0.96,INT,CHAMPIONS
+312,"['viper', 'omen']",0.40,225.0,129.0,25,0.09,0.05,31,77,1.06,0.79,PRX,mindfreak,0.96,INT,CHAMPIONS
+313,"['omen', 'astra']",0.36,162.7,110.5,13,0.08,0.11,27,72,0.92,0.59,FPX,BerLIN,0.95,INT,CHAMPIONS
+314,"['gekko', 'cypher']",0.24,175.5,117.3,50,0.13,0.07,32,60,0.88,0.62,LEV,tex,0.94,INT,CHAMPIONS
+315,['omen'],0.28,148.7,98.3,,0.12,0.06,30,63,0.85,0.60,VIT,ceNder,0.94,INT,CHAMPIONS
+316,"['jett', 'neon', 'raze']",0.28,188.3,131.5,14,0.16,0.10,30,69,0.84,0.62,VIT,Sayf,0.94,INT,CHAMPIONS
+317,"['killjoy', 'raze']",0.06,183.3,119.8,33,0.13,0.16,28,65,1.10,0.68,TE,FengF,0.94,INT,CHAMPIONS
+318,"['breach', 'kayo', 'gekko']",0.38,190.0,128.6,,0.13,0.04,32,66,0.97,0.68,DRX,Foxy9,0.93,INT,CHAMPIONS
+319,"['skye', 'fade']",0.33,199.0,122.3,,0.08,0.08,22,62,0.90,0.67,BLG,nephh,0.91,INT,CHAMPIONS
+320,"['killjoy', 'cypher', 'viper']",0.26,202.7,138.7,,0.13,0.15,21,65,0.85,0.66,VIT,runneR,0.91,INT,CHAMPIONS
+321,"['omen', 'brimstone']",0.40,153.7,103.9,,0.09,0.08,22,70,0.71,0.47,DRX,MaKo,0.91,INT,CHAMPIONS
+322,"['sova', 'skye']",0.35,168.7,114.9,50,0.13,0.10,17,65,0.84,0.56,TE,Biank,0.91,INT,CHAMPIONS
+323,['jett'],0.14,193.0,130.6,,0.27,0.32,32,68,0.82,0.64,FUT,cNed,0.90,INT,CHAMPIONS
+324,"['kayo', 'gekko']",0.53,145.7,95.6,,0.09,0.03,15,65,0.62,0.43,VIT,Kicks,0.89,INT,CHAMPIONS
+325,"['neon', 'sova']",0.29,194.0,126.3,,0.11,0.11,17,64,0.85,0.62,TLN,Governor,0.89,INT,CHAMPIONS
+326,"['viper', 'clove']",0.18,192.5,124.8,,0.13,0.18,39,71,0.80,0.62,TLN,JitBoyS,0.88,INT,CHAMPIONS
+327,"['breach', 'cypher']",0.37,141.5,88.9,,0.10,0.15,26,63,0.70,0.51,SEN,Zellsis,0.86,INT,CHAMPIONS
+328,"['astra', 'brimstone', 'fade']",0.38,171.7,107.3,,0.05,0.03,28,71,0.84,0.62,TH,Boo,0.86,INT,CHAMPIONS
+329,"['sova', 'fade']",0.19,169.3,114.2,38,0.09,0.08,27,66,0.97,0.66,DRX,BeYN,0.86,INT,CHAMPIONS
+330,"['skye', 'deadlock']",0.24,151.5,104.6,,0.04,0.04,30,78,0.77,0.53,LEV,Mazino,0.86,INT,CHAMPIONS
+331,"['cypher', 'breach']",0.33,153.0,102.7,,0.08,0.05,28,64,0.76,0.56,BLG,Knight,0.85,INT,CHAMPIONS
+332,['omen'],0.34,182.0,118.5,,0.17,0.12,23,73,0.78,0.61,SEN,TenZ,0.85,INT,CHAMPIONS
+333,"['skye', 'sova']",0.15,140.5,99.7,,0.07,0.10,23,73,0.84,0.51,GEN,Lakia,0.85,INT,CHAMPIONS
+334,"['gekko', 'killjoy']",0.23,190.5,133.0,,0.10,0.08,32,69,0.90,0.67,FNC,Alfajer,0.84,INT,CHAMPIONS
+335,"['sova', 'kayo', 'gekko']",0.32,162.0,119.2,,0.09,0.04,27,75,0.78,0.58,KRÜ,mta,0.82,INT,CHAMPIONS
+336,"['cypher', 'deadlock']",0.17,128.5,84.7,,0.00,0.05,32,61,0.63,0.46,SEN,johnqt,0.81,INT,CHAMPIONS
+337,"['sage', 'neon']",0.40,183.0,125.4,20,0.26,0.09,19,67,0.71,0.58,PRX,Jinggg,0.81,INT,CHAMPIONS
+338,['jett'],0.14,196.0,132.6,17,0.12,0.14,22,58,0.88,0.67,PRX,something,0.79,INT,CHAMPIONS
+339,"['yoru', 'raze']",0.16,184.7,122.7,25,0.20,0.16,30,63,0.82,0.62,FPX,Life,0.79,INT,CHAMPIONS
+340,"['jett', 'raze']",0.18,155.3,109.1,,0.21,0.17,30,57,0.67,0.53,TH,MiniBoo,0.75,INT,CHAMPIONS
+341,['neon'],0.36,195.0,118.9,,0.18,0.23,19,68,0.74,0.64,EDG,ZmjjKK,0.72,INT,CHAMPIONS
+342,"['killjoy', 'fade']",0.23,170.0,117.2,,0.09,0.05,26,70,0.64,0.53,PRX,d4v41,0.70,INT,CHAMPIONS
+343,"['viper', 'cypher']",0.28,117.5,83.2,,0.15,0.08,25,56,0.50,0.36,BLG,Yosemite,0.69,INT,CHAMPIONS
+344,"['brimstone', 'omen']",0.33,138.5,94.8,,0.05,0.08,32,67,0.60,0.46,BLG,Flex1n,0.69,INT,CHAMPIONS
+345,['breach'],0.55,128.0,90.8,,0.00,0.00,19,77,0.56,0.41,EDG,S1Mon,0.67,INT,CHAMPIONS
+346,"['omen', 'kayo']",0.22,129.5,92.7,,0.18,0.02,12,60,0.59,0.44,TLN,Crws,0.60,INT,CHAMPIONS
+347,['jett'],0.17,145.5,95.7,,0.22,0.07,12,54,0.53,0.46,SEN,zekken,0.55,INT,CHAMPIONS
+348,"['sova', 'raze', 'cypher']",0.29,253.2,,,,,,,1.18,0.84,TE,FengF,,CHINA,KICKOFF
+349,"['sova', 'fade', 'skye']",0.30,191.4,,,,,,,0.88,0.62,BLG,Biank,,CHINA,KICKOFF
+350,"['breach', 'kayo', 'gekko']",0.44,195.9,,,,,,,1.04,0.71,DRG,Nicc,,CHINA,KICKOFF
+351,"['neon', 'jett', 'raze']",0.20,205.9,,,,,,,0.79,0.66,DRG,TvirusLuke,,CHINA,KICKOFF
+352,"['cypher', 'killjoy']",0.28,248.9,,,,,,,1.18,0.87,DRG,vo0kashu,,CHINA,KICKOFF
+353,"['sova', 'skye', 'viper']",0.30,160.1,,,,,,,0.77,0.54,DRG,Dingwei,,CHINA,KICKOFF
+354,"['omen', 'viper', 'brimstone']",0.38,192.1,,,,,,,1.06,0.72,DRG,nizhaoTZH,,CHINA,KICKOFF
+355,"['sova', 'kayo']",0.31,161.0,,,,,,,0.75,0.53,AG,sword9,,CHINA,KICKOFF
+356,"['omen', 'viper']",0.34,240.5,,,,,,,1.17,0.87,AG,bunt,,CHINA,KICKOFF
+357,"['breach', 'killjoy', 'harbor']",0.19,189.3,,,,,,,0.83,0.66,AG,monk,,CHINA,KICKOFF
+358,"['raze', 'reyna']",0.17,188.5,,,,,,,0.83,0.64,AG,deLb,,CHINA,KICKOFF
+359,"['cypher', 'jett', 'killjoy']",0.16,176.5,,,,,,,0.84,0.66,AG,Spitfires,,CHINA,KICKOFF
+360,"['jett', 'raze']",0.19,244.8,,,,,,,1.15,0.85,BLG,whzy,,CHINA,KICKOFF
+361,"['kayo', 'killjoy', 'breach']",0.36,223.2,,,,,,,1.15,0.78,BLG,Knight,,CHINA,KICKOFF
+362,"['raze', 'jett']",0.15,197.2,,,,,,,0.92,0.69,TEC,Abo,,CHINA,KICKOFF
+363,"['killjoy', 'viper', 'cypher']",0.30,222.3,,,,,,,1.20,0.77,BLG,Yosemite,,CHINA,KICKOFF
+364,"['omen', 'harbor', 'brimstone']",0.44,132.4,,,,,,,0.74,0.47,BLG,B3ar,,CHINA,KICKOFF
+365,"['kayo', 'viper', 'yoru']",0.35,216.0,,,,,,,1.04,0.75,WOL,pl1xx,,CHINA,KICKOFF
+366,"['jett', 'omen', 'raze']",0.21,201.0,,,,,,,1.05,0.71,WOL,Spring,,CHINA,KICKOFF
+367,"['omen', 'killjoy', 'skye']",0.38,189.1,,,,,,,0.99,0.66,WOL,aluba,,CHINA,KICKOFF
+368,"['sova', 'viper']",0.22,183.4,,,,,,,1.12,0.69,WOL,coldfish,,CHINA,KICKOFF
+369,"['cypher', 'raze']",0.30,211.0,,,,,,,1.01,0.72,WOL,Yuicaw,,CHINA,KICKOFF
+370,"['cypher', 'omen', 'viper']",0.35,151.7,,,,,,,0.79,0.53,EDG,Haodong,,CHINA,KICKOFF
+371,"['kayo', 'jett', 'raze']",0.22,267.8,,,,,,,1.15,0.90,EDG,ZmjjKK,,CHINA,KICKOFF
+372,"['sova', 'skye']",0.25,213.2,,,,,,,1.09,0.75,EDG,nobody,,CHINA,KICKOFF
+373,"['brimstone', 'viper', 'cypher']",0.23,211.9,,,,,,,1.11,0.76,EDG,CHICHOO,,CHINA,KICKOFF
+374,"['omen', 'brimstone', 'viper']",0.38,193.7,,,,,,,0.98,0.70,TEC,kawaii,,CHINA,KICKOFF
+375,"['viper', 'sova']",0.27,181.6,,,,,,,0.86,0.62,TEC,LockM,,CHINA,KICKOFF
+376,"['omen', 'viper']",0.39,205.1,,,,,,,1.03,0.71,TE,Flex1n,,CHINA,KICKOFF
+377,"['raze', 'phoenix', 'jett']",0.18,215.5,,,,,,,1.09,0.74,FPX,Autumn,,CHINA,KICKOFF
+378,"['killjoy', 'sova', 'skye']",0.32,189.5,,,,,,,1.03,0.67,TE,YOU,,CHINA,KICKOFF
+379,"['kayo', 'breach', 'brimstone']",0.44,190.1,,,,,,,1.02,0.66,TE,heybay,,CHINA,KICKOFF
+380,"['jett', 'cypher', 'killjoy']",0.15,221.7,,,,,,,1.26,0.82,TE,Kai,,CHINA,KICKOFF
+381,['omen'],0.30,208.5,,,,,,,1.02,0.75,TYL,LuoK1ng,,CHINA,KICKOFF
+382,"['phoenix', 'raze']",0.38,232.3,,,,,,,1.03,0.78,TYL,Ninebody,,CHINA,KICKOFF
+383,"['cypher', 'kayo', 'viper']",0.31,208.5,,,,,,,0.89,0.69,TYL,ICEKING,,CHINA,KICKOFF
+384,"['jett', 'cypher']",0.19,173.0,,,,,,,0.83,0.67,TYL,AAK,,CHINA,KICKOFF
+385,"['sova', 'gekko', 'skye']",0.26,152.5,,,,,,,0.62,0.51,TYL,hfmi0dzjc9z7,,CHINA,KICKOFF
+386,"['gekko', 'sova', 'fade']",0.20,216.6,,,,,,,1.16,0.80,FPX,AAAAY,,CHINA,KICKOFF
+387,"['omen', 'harbor', 'astra']",0.34,185.8,,,,,,,1.00,0.66,FPX,BerLIN,,CHINA,KICKOFF
+388,"['viper', 'cypher']",0.25,169.4,,,,,,,0.92,0.59,FPX,Lysoar,,CHINA,KICKOFF
+389,"['chamber', 'yoru', 'jett']",0.17,235.5,,,,,,,1.14,0.84,FPX,Life,,CHINA,KICKOFF
+390,"['fade', 'cypher', 'killjoy']",0.24,233.9,,,,,,,1.20,0.84,TEC,Rb,,CHINA,KICKOFF
+391,"['killjoy', 'jett', 'raze']",0.13,156.3,,,,,,,0.69,0.54,NOVA,PangH,,CHINA,KICKOFF
+392,"['raze', 'breach', 'viper']",0.27,186.7,,,,,,,0.87,0.69,NOVA,o0o0o,,CHINA,KICKOFF
+393,['omen'],0.34,162.8,,,,,,,0.75,0.56,NOVA,OBONE,,CHINA,KICKOFF
+394,"['breach', 'fade', 'sova']",0.38,173.7,,,,,,,0.73,0.56,NOVA,CB,,CHINA,KICKOFF
+395,"['jett', 'neon', 'killjoy']",0.22,243.3,,,,,,,1.03,0.82,NOVA,GuanG,,CHINA,KICKOFF
+396,"['raze', 'jett']",0.18,265.9,,,,,,,1.32,0.93,JDG,stew,,CHINA,KICKOFF
+397,"['viper', 'sova']",0.23,214.1,,,,,,,1.21,0.75,JDG,Viva,,CHINA,KICKOFF
+398,"['fade', 'skye', 'viper']",0.23,180.6,,,,,,,0.87,0.64,JDG,jkuro,,CHINA,KICKOFF
+399,"['astra', 'brimstone', 'harbor']",0.35,155.9,,,,,,,0.82,0.56,JDG,YiHao,,CHINA,KICKOFF
+400,"['killjoy', 'viper']",0.13,199.1,,,,,,,0.93,0.67,JDG,MarT1n,,CHINA,KICKOFF
+401,"['killjoy', 'skye', 'harbor']",0.30,166.4,,,,,,,0.74,0.57,TEC,QiuYe,,CHINA,KICKOFF
+402,"['raze', 'breach', 'kayo']",0.46,188.2,,,,,,,0.99,0.66,EDG,Smoggy,,CHINA,KICKOFF
+403,"['yoru', 'jett', 'raze']",0.21,246.8,,,,,,,1.14,0.86,BLG,whzy,,CHINA,STAGE 1
+404,"['fade', 'sova', 'skye']",0.31,205.7,,,,,,,0.96,0.69,NOVA,CB,,CHINA,STAGE 1
+405,"['sova', 'skye', 'gekko']",0.28,202.8,,,,,,,1.10,0.74,EDG,nobody,,CHINA,STAGE 1
+406,"['killjoy', 'brimstone', 'viper']",0.24,193.3,,,,,,,1.12,0.72,EDG,CHICHOO,,CHINA,STAGE 1
+407,"['jett', 'raze', 'omen']",0.36,202.0,,,,,,,1.20,0.74,EDG,Smoggy,,CHINA,STAGE 1
+408,"['jett', 'raze']",0.21,206.0,,,,,,,0.98,0.72,JDG,stew,,CHINA,STAGE 1
+409,"['sova', 'skye', 'jett']",0.28,216.5,,,,,,,1.16,0.75,JDG,Viva,,CHINA,STAGE 1
+410,"['kayo', 'gekko', 'skye']",0.36,180.8,,,,,,,0.88,0.62,JDG,YHchen,,CHINA,STAGE 1
+411,"['omen', 'brimstone']",0.47,159.7,,,,,,,0.84,0.55,JDG,YiHao,,CHINA,STAGE 1
+412,"['killjoy', 'viper']",0.24,194.7,,,,,,,0.94,0.66,JDG,MarT1n,,CHINA,STAGE 1
+413,"['raze', 'jett', 'killjoy']",0.24,241.7,,,,,,,1.09,0.82,NOVA,SWERL,,CHINA,STAGE 1
+414,"['viper', 'breach', 'kayo']",0.34,159.3,,,,,,,0.74,0.54,NOVA,o0o0o,,CHINA,STAGE 1
+415,"['omen', 'viper', 'astra']",0.32,168.8,,,,,,,0.86,0.61,NOVA,OBONE,,CHINA,STAGE 1
+416,"['killjoy', 'neon', 'gekko']",0.16,187.3,,,,,,,1.00,0.69,NOVA,GuanG,,CHINA,STAGE 1
+417,"['omen', 'cypher', 'gekko']",0.36,158.2,,,,,,,0.83,0.56,EDG,Haodong,,CHINA,STAGE 1
+418,"['raze', 'sova', 'cypher']",0.19,243.5,,,,,,,1.16,0.83,TE,FengF,,CHINA,STAGE 1
+419,"['omen', 'viper']",0.38,193.8,,,,,,,0.93,0.67,TE,LuoK1ng,,CHINA,STAGE 1
+420,"['fade', 'killjoy', 'skye']",0.30,184.2,,,,,,,0.97,0.65,TE,YOU,,CHINA,STAGE 1
+421,"['viper', 'kayo', 'yoru']",0.38,186.0,,,,,,,0.90,0.64,TE,heybay,,CHINA,STAGE 1
+422,"['killjoy', 'jett', 'cypher']",0.21,207.5,,,,,,,1.12,0.76,TE,Kai,,CHINA,STAGE 1
+423,"['fade', 'gekko', 'astra']",0.23,197.1,,,,,,,1.12,0.74,FPX,AAAAY,,CHINA,STAGE 1
+424,"['omen', 'astra', 'sova']",0.39,184.9,,,,,,,0.89,0.61,FPX,BerLIN,,CHINA,STAGE 1
+425,"['killjoy', 'omen', 'viper']",0.29,214.9,,,,,,,1.35,0.81,FPX,Lysoar,,CHINA,STAGE 1
+426,"['viper', 'yoru', 'jett']",0.32,214.2,,,,,,,1.18,0.76,FPX,Autumn,,CHINA,STAGE 1
+427,"['yoru', 'raze', 'jett']",0.25,246.3,,,,,,,1.11,0.84,FPX,Life,,CHINA,STAGE 1
+428,"['yoru', 'harbor', 'brimstone']",0.30,218.6,,,,,,,1.20,0.84,JDG,jkuro,,CHINA,STAGE 1
+429,"['fade', 'skye', 'killjoy']",0.24,149.9,,,,,,,0.75,0.54,BLG,Levius,,CHINA,STAGE 1
+430,"['kayo', 'raze', 'jett']",0.24,282.7,,,,,,,1.35,0.98,EDG,ZmjjKK,,CHINA,STAGE 1
+431,"['raze', 'cypher']",0.15,215.4,,,,,,,0.99,0.75,AG,Spitfires,,CHINA,STAGE 1
+432,"['gekko', 'sova', 'fade']",0.41,173.0,,,,,,,0.86,0.59,BLG,Biank,,CHINA,STAGE 1
+433,"['cypher', 'yoru', 'gekko']",0.19,213.4,,,,,,,1.02,0.76,WOL,Yuicaw,,CHINA,STAGE 1
+434,"['cypher', 'killjoy', 'omen']",0.22,197.3,,,,,,,1.05,0.70,BLG,Knight,,CHINA,STAGE 1
+435,"['viper', 'cypher']",0.27,209.7,,,,,,,1.08,0.73,BLG,Yosemite,,CHINA,STAGE 1
+436,"['brimstone', 'harbor', 'omen']",0.40,137.6,,,,,,,0.72,0.48,BLG,B3ar,,CHINA,STAGE 1
+437,"['viper', 'reyna', 'sova']",0.24,200.4,,,,,,,0.95,0.68,TYL,Eren,,CHINA,STAGE 1
+438,"['skye', 'killjoy', 'fade']",0.40,158.5,,,,,,,0.75,0.55,TYL,ICEKING,,CHINA,STAGE 1
+439,"['raze', 'jett']",0.18,228.8,,,,,,,1.12,0.80,TYL,AAK,,CHINA,STAGE 1
+440,"['brimstone', 'viper', 'omen']",0.42,192.9,,,,,,,1.04,0.66,TYL,Flex1n,,CHINA,STAGE 1
+441,"['cypher', 'gekko', 'killjoy']",0.23,220.6,,,,,,,1.18,0.78,TYL,hfmi0dzjc9z7,,CHINA,STAGE 1
+442,"['skye', 'fade', 'kayo']",0.37,154.3,,,,,,,0.74,0.54,WOL,pl1xx,,CHINA,STAGE 1
+443,"['raze', 'jett']",0.14,205.8,,,,,,,0.99,0.74,WOL,Spring,,CHINA,STAGE 1
+444,"['omen', 'viper', 'killjoy']",0.34,197.6,,,,,,,0.91,0.70,WOL,aluba,,CHINA,STAGE 1
+445,"['viper', 'sova', 'cypher']",0.33,188.9,,,,,,,0.88,0.61,WOL,coldfish,,CHINA,STAGE 1
+446,"['raze', 'cypher', 'yoru']",0.28,219.1,,,,,,,1.08,0.77,TEC,Rb,,CHINA,STAGE 1
+447,"['killjoy', 'cypher', 'yoru']",0.20,222.1,,,,,,,1.15,0.79,AG,deLb,,CHINA,STAGE 1
+448,"['omen', 'viper', 'killjoy']",0.29,193.6,,,,,,,1.00,0.70,TEC,AC,,CHINA,STAGE 1
+449,"['viper', 'raze', 'jett']",0.22,201.2,,,,,,,0.83,0.68,TEC,Abo,,CHINA,STAGE 1
+450,"['cypher', 'brimstone', 'killjoy']",0.22,175.4,,,,,,,0.84,0.61,TEC,kawaii,,CHINA,STAGE 1
+451,"['skye', 'fade', 'sova']",0.28,158.5,,,,,,,0.76,0.56,TEC,LockM,,CHINA,STAGE 1
+452,"['sova', 'breach', 'kayo']",0.39,186.7,,,,,,,1.03,0.68,DRG,Nicc,,CHINA,STAGE 1
+453,"['jett', 'yoru', 'raze']",0.20,212.9,,,,,,,0.87,0.70,DRG,TvirusLuke,,CHINA,STAGE 1
+454,"['killjoy', 'cypher']",0.20,231.6,,,,,,,1.19,0.85,DRG,vo0kashu,,CHINA,STAGE 1
+455,"['harbor', 'sova', 'omen']",0.32,183.7,,,,,,,0.85,0.63,DRG,Shion7,,CHINA,STAGE 1
+456,"['viper', 'omen', 'brimstone']",0.32,179.9,,,,,,,0.95,0.64,DRG,nizhaoTZH,,CHINA,STAGE 1
+457,"['kayo', 'sova', 'fade']",0.40,159.9,,,,,,,0.74,0.53,AG,sword9,,CHINA,STAGE 1
+458,"['viper', 'omen', 'brimstone']",0.33,189.9,,,,,,,1.02,0.69,AG,bunt,,CHINA,STAGE 1
+459,"['harbor', 'breach', 'viper']",0.34,185.8,,,,,,,0.89,0.65,AG,monk,,CHINA,STAGE 1
+460,['omen'],0.34,180.0,,,,,,,0.72,0.56,NOVA,PangH,,CHINA,STAGE 1
+461,"['jett', 'viper', 'fade']",0.19,212.5,141.5,,0.17,0.16,,,1.07,0.77,TEC,Abo,,CHINA,CHINA
+462,"['cypher', 'viper', 'yoru']",0.25,201.6,135.1,,0.06,0.10,,,1.02,0.72,FPX,Autumn,,CHINA,CHINA
+463,"['cypher', 'omen', 'sova']",0.27,252.0,162.8,,0.06,0.15,,,1.33,0.93,DRG,vo0kashu,,CHINA,CHINA
+464,"['sova', 'killjoy']",0.17,181.9,126.8,,0.12,0.07,,,0.80,0.62,DRG,Shion7,,CHINA,CHINA
+465,"['omen', 'viper']",0.47,155.3,103.0,,0.08,0.04,,,0.78,0.54,DRG,nizhaoTZH,,CHINA,CHINA
+466,"['kayo', 'viper', 'breach']",0.46,158.8,106.9,,0.09,0.06,,,0.73,0.54,NOVA,o0o0o,,CHINA,CHINA
+467,"['omen', 'astra', 'viper']",0.35,184.0,118.1,,0.09,0.05,,,0.93,0.64,NOVA,Ezeir,,CHINA,CHINA
+468,"['sova', 'fade', 'phoenix']",0.32,187.3,130.4,,0.12,0.07,,,0.95,0.66,NOVA,CB,,CHINA,CHINA
+469,"['cypher', 'killjoy', 'chamber']",0.23,209.0,146.3,,0.08,0.13,,,1.10,0.78,NOVA,GuanG,,CHINA,CHINA
+470,"['jett', 'raze']",0.16,222.6,143.5,,0.19,0.13,,,0.97,0.77,NOVA,SWERL,,CHINA,CHINA
+471,"['breach', 'gekko', 'sova']",0.32,192.1,130.1,,0.06,0.06,,,1.03,0.70,FPX,AAAAY,,CHINA,CHINA
+472,"['kayo', 'astra', 'viper']",0.39,186.7,124.8,,0.11,0.08,,,0.89,0.63,FPX,BerLIN,,CHINA,CHINA
+473,"['omen', 'killjoy', 'cypher']",0.37,196.6,129.3,,0.05,0.05,,,1.03,0.68,FPX,Lysoar,,CHINA,CHINA
+474,"['jett', 'raze', 'yoru']",0.14,217.7,136.3,,0.22,0.22,,,1.00,0.75,FPX,Life,,CHINA,CHINA
+475,"['kayo', 'fade', 'breach']",0.49,172.1,116.2,,0.11,0.04,,,0.84,0.59,DRG,Nicc,,CHINA,CHINA
+476,"['killjoy', 'raze']",0.18,217.4,150.5,,0.12,0.14,,,1.09,0.77,TE,FengF,,CHINA,CHINA
+477,"['breach', 'viper', 'brimstone']",0.43,166.2,108.5,,0.06,0.06,,,0.83,0.58,TE,heybay,,CHINA,CHINA
+478,"['jett', 'killjoy', 'cypher']",0.19,220.1,142.4,,0.13,0.15,,,1.12,0.81,TE,Kai,,CHINA,CHINA
+479,"['omen', 'viper', 'brimstone']",0.38,179.3,113.3,,0.07,0.06,,,0.91,0.64,TE,LuoK1ng,,CHINA,CHINA
+480,"['sova', 'fade', 'skye']",0.31,198.8,125.9,,0.12,0.10,,,0.93,0.68,TE,Biank,,CHINA,CHINA
+481,"['cypher', 'fade', 'kayo']",0.38,123.3,82.1,,0.12,0.06,,,0.53,0.39,EDG,Haodong,,CHINA,CHINA
+482,"['raze', 'jett', 'neon']",0.22,259.4,162.8,,0.19,0.21,,,1.25,0.91,EDG,ZmjjKK,,CHINA,CHINA
+483,"['skye', 'sova', 'gekko']",0.32,203.2,136.3,,0.11,0.10,,,0.99,0.70,EDG,nobody,,CHINA,CHINA
+484,"['viper', 'brimstone', 'killjoy']",0.28,203.6,131.6,,0.06,0.05,,,1.16,0.75,EDG,CHICHOO,,CHINA,CHINA
+485,"['omen', 'raze', 'viper']",0.31,201.1,135.2,,0.11,0.08,,,1.09,0.71,EDG,Smoggy,,CHINA,CHINA
+486,"['viper', 'neon', 'gekko']",0.19,194.8,132.4,,0.10,0.06,,,0.96,0.72,TYL,Eren,,CHINA,CHINA
+487,"['breach', 'fade', 'kayo']",0.41,173.4,115.6,,0.05,0.04,,,1.00,0.64,EDG,S1Mon,,CHINA,CHINA
+488,"['jett', 'neon']",0.26,225.6,146.7,,0.14,0.20,,,0.90,0.73,DRG,TvirusLuke,,CHINA,CHINA
+489,"['breach', 'gekko', 'viper']",0.35,160.9,107.4,,0.04,0.04,,,0.98,0.58,WOL,SiuFatBB,,CHINA,CHINA
+490,"['killjoy', 'cypher']",0.17,172.8,121.4,,0.07,0.07,,,0.86,0.61,TEC,kawaii,,CHINA,CHINA
+491,"['gekko', 'sova', 'fade']",0.26,185.8,119.9,,0.11,0.06,,,0.92,0.64,AG,sword9,,CHINA,CHINA
+492,"['sova', 'fade', 'breach']",0.32,163.2,110.8,,0.06,0.04,,,0.83,0.56,TEC,LockM,,CHINA,CHINA
+493,"['kayo', 'raze', 'neon']",0.23,227.7,147.3,,0.18,0.13,,,0.99,0.78,TEC,Rb,,CHINA,CHINA
+494,"['viper', 'omen', 'brimstone']",0.43,210.2,133.4,,0.07,0.06,,,1.08,0.74,TEC,AC,,CHINA,CHINA
+495,"['jett', 'raze', 'neon']",0.13,230.5,151.8,,0.15,0.16,,,1.36,0.85,JDG,stew,,CHINA,CHINA
+496,"['viper', 'sova', 'gekko']",0.28,218.2,140.0,,0.06,0.09,,,1.31,0.77,JDG,Viva,,CHINA,CHINA
+497,"['killjoy', 'cypher']",0.23,175.7,119.8,,0.10,0.12,,,0.86,0.62,JDG,jkuro,,CHINA,CHINA
+498,"['kayo', 'omen', 'viper']",0.37,212.2,136.6,,0.07,0.09,,,1.09,0.75,JDG,Z1yan,,CHINA,CHINA
+499,"['deadlock', 'fade', 'omen']",0.37,203.2,127.9,,0.07,0.08,,,1.02,0.69,JDG,YHchen,,CHINA,CHINA
+500,"['omen', 'viper']",0.34,182.0,117.6,,0.07,0.09,,,0.96,0.65,AG,bunt,,CHINA,CHINA
+501,"['breach', 'kayo', 'deadlock']",0.51,194.5,125.9,,0.05,0.07,,,0.88,0.66,AG,monk,,CHINA,CHINA
+502,"['cypher', 'killjoy']",0.17,182.0,122.3,,0.06,0.06,,,1.01,0.68,AG,deLb,,CHINA,CHINA
+503,"['raze', 'jett']",0.14,229.1,149.0,,0.18,0.25,,,1.03,0.80,AG,Spitfires,,CHINA,CHINA
+504,"['gekko', 'jett', 'raze']",0.24,251.6,165.3,,0.15,0.21,,,1.19,0.87,TYL,Ninebody,,CHINA,CHINA
+505,"['gekko', 'brimstone', 'cypher']",0.38,254.0,167.5,,0.07,0.14,,,1.29,0.92,WOL,Yuicaw,,CHINA,CHINA
+506,['viper'],0.18,162.5,109.0,,0.13,0.05,,,0.68,0.53,TYL,AAK,,CHINA,CHINA
+507,"['kayo', 'skye', 'breach']",0.51,164.7,109.4,,0.09,0.08,,,0.77,0.56,TYL,Scales,,CHINA,CHINA
+508,"['sage', 'killjoy', 'cypher']",0.23,186.2,131.1,,0.11,0.07,,,0.93,0.65,TYL,hfmi0dzjc9z7,,CHINA,CHINA
+509,"['omen', 'sova', 'brimstone']",0.31,182.3,118.9,,0.05,0.08,,,0.93,0.65,TYL,coldfish,,CHINA,CHINA
+510,"['chamber', 'raze', 'jett']",0.21,225.5,146.2,,0.17,0.21,,,1.06,0.80,BLG,whzy,,CHINA,CHINA
+511,"['sage', 'cypher', 'sova']",0.41,197.6,132.2,,0.07,0.07,,,1.00,0.68,BLG,Knight,,CHINA,CHINA
+512,"['raze', 'viper', 'killjoy']",0.29,206.0,140.0,,0.09,0.09,,,0.99,0.71,BLG,Yosemite,,CHINA,CHINA
+513,"['omen', 'brimstone', 'harbor']",0.50,187.1,118.0,,0.08,0.06,,,1.05,0.65,BLG,Flex1n,,CHINA,CHINA
+514,"['gekko', 'skye', 'kayo']",0.46,202.5,128.5,,0.07,0.09,,,0.97,0.70,BLG,nephh,,CHINA,CHINA
+515,"['sage', 'fade', 'yoru']",0.40,194.9,127.7,,0.07,0.07,,,0.94,0.66,WOL,pl1xx,,CHINA,CHINA
+516,"['raze', 'jett', 'killjoy']",0.23,233.7,157.0,,0.23,0.21,,,1.01,0.79,WOL,Spring,,CHINA,CHINA
+517,"['omen', 'viper', 'killjoy']",0.24,189.4,121.5,,0.06,0.08,,,1.00,0.70,WOL,aluba,,CHINA,CHINA
+518,"['skye', 'kayo', 'breach']",0.41,194.5,118.2,,0.06,0.07,,,1.02,0.68,TEC,B1ack,,CHINA,CHINA
+519,"['breach', 'omen', 'viper']",0.51,216.9,140.5,17,0.07,0.04,30,76,1.23,0.77,FUT,AtaKaptan,1.22,EMEA,KICKOFF
+520,"['raze', 'gekko', 'fade']",0.33,249.9,166.2,15,0.08,0.12,26,78,1.27,0.89,KC,N4RRATE,1.21,EMEA,KICKOFF
+521,"['neon', 'yoru', 'raze']",0.19,254.7,165.1,40,0.17,0.22,28,69,1.22,0.88,TH,MiniBoo,1.19,EMEA,KICKOFF
+522,"['viper', 'kayo', 'breach']",0.57,218.0,140.4,42,0.05,0.09,22,76,1.20,0.74,FNC,Chronicle,1.15,EMEA,KICKOFF
+523,"['breach', 'fade', 'skye']",0.36,241.3,155.6,13,0.06,0.08,30,71,1.17,0.84,GX,Cloud,1.15,EMEA,KICKOFF
+524,"['raze', 'kayo', 'sova']",0.32,237.1,156.5,,0.08,0.10,34,72,1.23,0.86,NAVI,Zyppan,1.14,EMEA,KICKOFF
+525,"['yoru', 'raze', 'jett']",0.25,241.1,156.4,20,0.15,0.18,23,73,1.20,0.84,KC,marteen,1.14,EMEA,KICKOFF
+526,"['jett', 'raze', 'yoru']",0.11,229.0,150.7,5,0.12,0.21,30,71,1.24,0.83,TL,Keiko,1.14,EMEA,KICKOFF
+527,"['kayo', 'jett', 'yoru']",0.28,246.0,155.8,20,0.10,0.14,21,74,1.25,0.90,NAVI,ardiis,1.13,EMEA,KICKOFF
+528,"['viper', 'omen', 'kayo']",0.28,209.2,137.3,14,0.08,0.11,37,68,1.22,0.77,VIT,Sayf,1.12,EMEA,KICKOFF
+529,"['yoru', 'raze']",0.20,260.8,164.9,14,0.12,0.15,22,66,1.25,0.92,M8,TakaS,1.11,EMEA,KICKOFF
+530,"['killjoy', 'viper', 'phoenix']",0.25,210.0,143.3,19,0.09,0.12,24,79,1.16,0.74,FUT,yetujey,1.10,EMEA,KICKOFF
+531,"['killjoy', 'cypher']",0.10,225.5,146.6,11,0.06,0.13,31,74,1.26,0.83,FNC,Alfajer,1.08,EMEA,KICKOFF
+532,"['skye', 'sova']",0.38,201.3,127.4,23,0.11,0.05,21,72,1.09,0.73,VIT,Kicks,1.08,EMEA,KICKOFF
+533,"['omen', 'astra', 'viper']",0.40,187.6,125.1,4,0.07,0.07,29,72,1.05,0.69,TH,Boo,1.07,EMEA,KICKOFF
+534,"['fade', 'sova', 'skye']",0.33,186.8,126.4,,0.05,0.07,22,77,1.13,0.67,FNC,Leo,1.05,EMEA,KICKOFF
+535,"['killjoy', 'viper', 'cypher']",0.20,214.5,141.7,18,0.09,0.10,35,75,1.09,0.76,TH,benjyfishy,1.05,EMEA,KICKOFF
+536,"['brimstone', 'omen', 'viper']",0.39,192.7,131.9,10,0.13,0.05,30,73,1.05,0.68,NAVI,Shao,1.05,EMEA,KICKOFF
+537,"['raze', 'jett']",0.26,227.7,153.2,31,0.16,0.16,19,72,1.03,0.76,VIT,runneR,1.04,EMEA,KICKOFF
+538,"['gekko', 'sova', 'breach']",0.31,202.4,139.1,18,0.02,0.10,39,75,1.01,0.70,TH,RieNs,1.02,EMEA,KICKOFF
+539,"['gekko', 'kayo', 'raze']",0.43,201.6,130.5,18,0.08,0.08,25,73,0.89,0.65,FUT,qRaxs,1.02,EMEA,KICKOFF
+540,"['viper', 'cypher']",0.18,181.6,124.3,20,0.10,0.04,38,71,1.06,0.65,NAVI,SUYGETSU,1.01,EMEA,KICKOFF
+541,['omen'],0.43,200.3,134.6,,0.10,0.07,28,70,1.03,0.73,FNC,Boaster,1.01,EMEA,KICKOFF
+542,"['fade', 'cypher', 'killjoy']",0.29,180.0,124.0,17,0.10,0.08,25,73,0.99,0.64,KC,MAGNUM,1.01,EMEA,KICKOFF
+543,"['astra', 'omen', 'harbor']",0.34,162.2,103.0,15,0.07,0.05,32,75,1.00,0.61,KC,sh1n,1.01,EMEA,KICKOFF
+544,"['astra', 'gekko', 'skye']",0.43,201.0,129.3,11,0.10,0.10,20,74,0.96,0.68,FUT,MrFaliN,1.00,EMEA,KICKOFF
+545,"['cypher', 'sage', 'killjoy']",0.30,202.2,137.4,8,0.06,0.10,29,73,0.99,0.69,GX,nukkye,1.00,EMEA,KICKOFF
+546,"['viper', 'cypher']",0.23,197.9,138.7,8,0.11,0.07,28,71,0.99,0.68,TL,nAts,1.00,EMEA,KICKOFF
+547,"['viper', 'brimstone', 'omen']",0.36,185.7,115.3,15,0.07,0.07,35,72,0.96,0.65,KOI,grubinho,1.00,EMEA,KICKOFF
+548,"['viper', 'kayo']",0.49,177.2,116.4,18,0.09,0.07,27,73,0.85,0.59,TH,paTiTek,0.97,EMEA,KICKOFF
+549,"['killjoy', 'skye', 'viper']",0.22,208.1,138.2,19,0.08,0.15,38,73,0.99,0.72,TL,Jamppi,0.97,EMEA,KICKOFF
+550,"['killjoy', 'viper', 'cypher']",0.18,163.0,115.2,18,0.05,0.03,26,72,0.97,0.59,KOI,sheydos,0.97,EMEA,KICKOFF
+551,"['omen', 'viper']",0.34,184.6,128.7,18,0.07,0.09,33,75,0.95,0.66,KC,tomaszy,0.96,EMEA,KICKOFF
+552,"['yoru', 'neon', 'chamber']",0.18,216.4,141.4,6,0.16,0.15,27,71,1.00,0.75,FUT,cNed,0.96,EMEA,KICKOFF
+553,"['cypher', 'killjoy']",0.15,173.8,117.9,,0.11,0.05,30,69,0.97,0.59,M8,logaN,0.96,EMEA,KICKOFF
+554,"['yoru', 'raze']",0.19,212.1,144.1,23,0.21,0.22,24,67,0.91,0.72,KOI,kamo,0.95,EMEA,KICKOFF
+555,"['raze', 'phoenix']",0.17,216.6,146.2,29,0.22,0.23,27,68,1.00,0.76,M8,nataNk,0.95,EMEA,KICKOFF
+556,"['sage', 'brimstone', 'omen']",0.31,195.9,130.4,17,0.09,0.06,31,74,0.93,0.70,TL,Mistic,0.95,EMEA,KICKOFF
+557,"['harbor', 'skye', 'fade']",0.33,189.8,124.3,21,0.12,0.07,24,68,0.94,0.67,KOI,starxo,0.94,EMEA,KICKOFF
+558,"['viper', 'killjoy', 'cypher']",0.23,210.0,134.7,,0.10,0.10,50,65,0.96,0.72,BBL,Elite,0.93,EMEA,KICKOFF
+559,"['skye', 'sova']",0.34,197.0,134.9,15,0.04,0.04,25,73,0.92,0.66,BBL,reazy,0.93,EMEA,KICKOFF
+560,"['omen', 'viper', 'cypher']",0.27,166.6,108.6,21,0.09,0.10,23,68,0.84,0.58,VIT,ceNder,0.91,EMEA,KICKOFF
+561,"['sova', 'fade', 'breach']",0.28,180.7,116.3,19,0.10,0.07,22,66,0.87,0.64,KOI,ShadoW,0.90,EMEA,KICKOFF
+562,"['omen', 'viper']",0.29,168.8,111.1,11,0.01,0.02,30,76,0.87,0.60,M8,Wailers,0.88,EMEA,KICKOFF
+563,"['cypher', 'killjoy', 'omen']",0.32,158.7,111.9,10,0.09,0.06,21,68,0.77,0.54,VIT,Destrian,0.87,EMEA,KICKOFF
+564,"['breach', 'kayo']",0.41,155.8,96.4,7,0.07,0.09,33,72,0.72,0.56,BBL,pAura,0.86,EMEA,KICKOFF
+565,"['raze', 'jett']",0.16,210.6,140.2,25,0.22,0.19,26,66,0.85,0.72,BBL,QutionerX,0.84,EMEA,KICKOFF
+566,"['raze', 'jett']",0.08,188.5,118.6,,0.19,0.19,27,63,0.84,0.65,FNC,Derke,0.83,EMEA,KICKOFF
+567,"['breach', 'sova']",0.49,129.6,87.4,10,0.05,0.05,30,73,0.62,0.41,M8,beyAz,0.80,EMEA,KICKOFF
+568,"['sova', 'gekko', 'skye']",0.26,138.1,99.9,,0.06,0.06,21,68,0.69,0.46,TL,Enzo,0.79,EMEA,KICKOFF
+569,"['skye', 'breach', 'viper']",0.36,159.7,107.7,11,0.14,0.06,23,64,0.73,0.53,GX,hoody,0.79,EMEA,KICKOFF
+570,"['brimstone', 'omen', 'viper']",0.26,155.2,103.7,27,0.10,0.05,37,67,0.69,0.54,BBL,Brave,0.79,EMEA,KICKOFF
+571,"['gekko', 'sova', 'omen']",0.25,167.1,114.6,,0.14,0.11,35,62,0.77,0.58,NAVI,ANGE1,0.77,EMEA,KICKOFF
+572,['raze'],0.11,180.3,120.8,,0.15,0.11,23,62,0.75,0.60,GX,Fit1nho,0.75,EMEA,KICKOFF
+573,['omen'],0.26,147.7,99.1,19,0.15,0.09,30,64,0.72,0.53,GX,Redgar,0.74,EMEA,KICKOFF
+574,"['killjoy', 'cypher', 'viper']",0.17,214.2,143.6,16,0.06,0.07,44,75,1.31,0.80,BBL,Elite,1.16,EMEA,STAGE 1
+575,"['sova', 'fade', 'gekko']",0.36,210.6,138.8,10,0.03,0.04,27,81,1.35,0.76,FNC,Leo,1.16,EMEA,STAGE 1
+576,"['brimstone', 'omen', 'astra']",0.40,202.7,132.6,22,0.06,0.08,31,77,1.18,0.73,NAVI,Shao,1.15,EMEA,STAGE 1
+577,"['chamber', 'jett', 'sage']",0.18,238.6,155.6,8,0.14,0.15,28,75,1.25,0.85,FUT,cNed,1.15,EMEA,STAGE 1
+578,"['kayo', 'breach', 'jett']",0.40,215.0,142.9,17,0.11,0.12,24,75,1.07,0.77,NAVI,ardiis,1.12,EMEA,STAGE 1
+579,"['killjoy', 'cypher', 'viper']",0.17,209.5,140.0,19,0.06,0.09,33,72,1.25,0.79,TH,benjyfishy,1.11,EMEA,STAGE 1
+580,"['cypher', 'viper']",0.30,214.2,144.1,10,0.07,0.08,33,76,1.16,0.75,KC,tomaszy,1.10,EMEA,STAGE 1
+581,"['skye', 'sova', 'gekko']",0.38,206.2,135.6,14,0.08,0.09,23,75,1.05,0.70,FUT,MrFaliN,1.09,EMEA,STAGE 1
+582,"['kayo', 'skye', 'reyna']",0.36,206.1,138.3,14,0.09,0.10,33,74,1.03,0.72,TH,Wo0t,1.09,EMEA,STAGE 1
+583,"['raze', 'kayo', 'sage']",0.36,202.4,130.3,20,0.06,0.07,29,73,1.10,0.74,FUT,qRaxs,1.09,EMEA,STAGE 1
+584,"['viper', 'skye', 'kayo']",0.40,205.8,137.6,20,0.07,0.11,22,74,1.09,0.71,FNC,Chronicle,1.08,EMEA,STAGE 1
+585,"['kayo', 'gekko', 'fade']",0.31,217.4,141.1,14,0.07,0.08,27,75,1.10,0.75,KC,N4RRATE,1.08,EMEA,STAGE 1
+586,"['viper', 'killjoy', 'cypher']",0.22,183.6,127.1,9,0.05,0.07,32,75,1.06,0.66,NAVI,SUYGETSU,1.07,EMEA,STAGE 1
+587,"['phoenix', 'raze', 'sage']",0.23,236.8,155.1,47,0.14,0.15,25,68,1.08,0.83,M8,nataNk,1.07,EMEA,STAGE 1
+588,"['killjoy', 'viper', 'cypher']",0.19,219.1,145.4,9,0.11,0.12,29,72,1.14,0.77,FNC,Alfajer,1.06,EMEA,STAGE 1
+589,"['gekko', 'viper', 'cypher']",0.23,218.7,140.9,7,0.08,0.11,30,74,1.17,0.80,VIT,Sayf,1.06,EMEA,STAGE 1
+590,"['viper', 'sage', 'cypher']",0.23,197.6,131.2,17,0.11,0.10,26,70,1.08,0.70,FUT,yetujey,1.04,EMEA,STAGE 1
+591,"['cypher', 'viper']",0.23,211.8,141.1,22,0.08,0.08,29,74,1.15,0.77,TL,nAts,1.04,EMEA,STAGE 1
+592,"['jett', 'raze', 'yoru']",0.19,217.8,147.8,24,0.15,0.19,27,73,1.07,0.75,KC,marteen,1.04,EMEA,STAGE 1
+593,"['jett', 'raze', 'yoru']",0.16,215.5,145.8,7,0.14,0.18,31,68,0.99,0.74,GX,purp0,1.03,EMEA,STAGE 1
+594,"['kayo', 'neon', 'yoru']",0.22,227.6,148.2,16,0.18,0.18,32,72,1.04,0.78,TH,MiniBoo,1.03,EMEA,STAGE 1
+595,"['omen', 'viper', 'brimstone']",0.32,192.2,129.1,15,0.09,0.10,33,78,0.97,0.66,KOI,grubinho,1.03,EMEA,STAGE 1
+596,"['omen', 'viper', 'brimstone']",0.37,204.6,133.1,20,0.07,0.09,31,71,0.98,0.70,BBL,Brave,1.02,EMEA,STAGE 1
+597,"['gekko', 'sova', 'skye']",0.39,191.1,130.1,20,0.07,0.06,36,75,0.94,0.66,TH,RieNs,1.02,EMEA,STAGE 1
+598,"['raze', 'yoru', 'jett']",0.20,225.8,146.9,18,0.17,0.19,31,70,1.11,0.81,TL,Keiko,1.02,EMEA,STAGE 1
+599,"['raze', 'kayo', 'neon']",0.27,217.3,147.1,25,0.14,0.16,28,74,1.01,0.74,NAVI,Zyppan,1.01,EMEA,STAGE 1
+600,"['viper', 'fade', 'astra']",0.47,203.1,130.2,14,0.09,0.10,20,76,0.99,0.69,VIT,trexx,1.01,EMEA,STAGE 1
+601,"['viper', 'cypher', 'killjoy']",0.14,171.8,113.1,12,0.05,0.05,28,75,1.07,0.64,KOI,sheydos,1.01,EMEA,STAGE 1
+602,"['cypher', 'omen', 'viper']",0.20,185.7,120.2,6,0.08,0.07,34,68,0.98,0.66,M8,logaN,1.00,EMEA,STAGE 1
+603,"['jett', 'raze', 'yoru']",0.19,224.5,149.9,21,0.18,0.17,26,70,1.07,0.78,FNC,Derke,1.00,EMEA,STAGE 1
+604,"['fade', 'kayo', 'omen']",0.48,190.3,123.4,19,0.11,0.10,23,75,0.93,0.65,KOI,starxo,0.99,EMEA,STAGE 1
+605,"['jett', 'neon', 'yoru']",0.19,229.2,158.3,6,0.15,0.19,23,73,1.01,0.79,BBL,QutionerX,0.98,EMEA,STAGE 1
+606,"['sova', 'skye', 'fade']",0.26,192.0,127.9,10,0.06,0.08,24,71,1.00,0.70,GX,Cloud,0.98,EMEA,STAGE 1
+607,"['yoru', 'breach', 'raze']",0.27,191.4,128.3,7,0.10,0.10,32,70,0.90,0.64,GX,Fit1nho,0.96,EMEA,STAGE 1
+608,"['sage', 'omen', 'viper']",0.42,158.1,104.0,10,0.08,0.08,36,72,0.84,0.55,TH,Boo,0.96,EMEA,STAGE 1
+609,"['sova', 'kayo', 'skye']",0.37,179.8,117.4,28,0.12,0.10,24,72,0.85,0.60,KC,MAGNUM,0.96,EMEA,STAGE 1
+610,"['skye', 'sova', 'gekko']",0.34,173.5,119.1,8,0.09,0.06,18,71,0.89,0.56,TL,Enzo,0.95,EMEA,STAGE 1
+611,"['gekko', 'fade', 'sova']",0.29,185.1,124.4,10,0.10,0.10,34,68,0.88,0.64,NAVI,ANGE1,0.95,EMEA,STAGE 1
+612,"['viper', 'omen', 'sage']",0.41,156.9,100.1,9,0.08,0.06,28,74,0.84,0.55,KC,sh1n,0.94,EMEA,STAGE 1
+613,"['omen', 'harbor', 'sage']",0.33,173.4,118.0,5,0.07,0.07,32,73,0.91,0.62,TL,Mistic,0.93,EMEA,STAGE 1
+614,"['raze', 'jett', 'yoru']",0.14,211.9,136.9,22,0.18,0.19,30,66,0.91,0.72,KOI,kamo,0.93,EMEA,STAGE 1
+615,"['omen', 'viper']",0.39,176.7,112.9,16,0.13,0.09,23,70,0.83,0.59,FUT,AtaKaptan,0.92,EMEA,STAGE 1
+616,"['viper', 'killjoy', 'breach']",0.32,193.0,124.5,11,0.12,0.09,29,74,0.91,0.66,TL,Jamppi,0.92,EMEA,STAGE 1
+617,"['kayo', 'sova', 'sage']",0.37,176.8,111.4,12,0.13,0.12,30,65,0.85,0.60,BBL,pAura,0.92,EMEA,STAGE 1
+618,"['viper', 'kayo', 'brimstone']",0.43,182.6,125.4,12,0.11,0.06,23,70,0.84,0.60,TH,paTiTek,0.91,EMEA,STAGE 1
+619,"['viper', 'cypher']",0.25,179.2,124.7,12,0.07,0.10,27,68,0.91,0.64,GX,hoody,0.91,EMEA,STAGE 1
+620,"['sova', 'viper', 'skye']",0.37,156.5,108.5,24,0.07,0.04,29,68,0.78,0.53,BBL,reazy,0.90,EMEA,STAGE 1
+621,"['harbor', 'omen', 'brimstone']",0.39,151.3,98.8,14,0.10,0.06,20,73,0.78,0.51,FNC,Boaster,0.90,EMEA,STAGE 1
+622,"['breach', 'sova', 'gekko']",0.28,161.1,104.7,,0.09,0.04,21,66,0.79,0.55,KOI,ShadoW,0.89,EMEA,STAGE 1
+623,"['brimstone', 'omen', 'viper']",0.33,176.0,122.7,11,0.08,0.07,24,68,0.85,0.61,VIT,ceNder,0.89,EMEA,STAGE 1
+624,"['raze', 'yoru', 'jett']",0.24,211.8,139.2,14,0.21,0.17,17,66,0.91,0.71,VIT,runneR,0.88,EMEA,STAGE 1
+625,"['deadlock', 'killjoy', 'sova']",0.34,165.3,109.8,18,0.05,0.04,21,75,0.86,0.61,VIT,Kicks,0.87,EMEA,STAGE 1
+626,"['cypher', 'omen', 'kayo']",0.34,150.5,97.6,21,0.09,0.06,37,68,0.77,0.54,GX,Redgar,0.86,EMEA,STAGE 1
+627,"['yoru', 'neon', 'jett']",0.26,190.9,130.1,,0.15,0.16,19,63,0.81,0.65,M8,TakaS,0.83,EMEA,STAGE 1
+628,"['sova', 'kayo', 'skye']",0.37,178.9,119.6,3,0.08,0.06,22,70,0.79,0.62,M8,beyAz,0.82,EMEA,STAGE 1
+629,"['omen', 'cypher', 'viper']",0.23,125.4,85.8,12,0.06,0.06,26,59,0.64,0.46,M8,Wailers,0.77,EMEA,STAGE 1
+630,"['deadlock', 'skye', 'viper']",0.37,216.9,147.7,21,0.05,0.08,27,79,1.29,0.75,FNC,Chronicle,1.20,EMEA,STAGE 2
+631,"['omen', 'viper', 'brimstone']",0.37,213.7,133.3,6,0.08,0.07,33,75,1.29,0.77,KOI,grubinho,1.18,EMEA,STAGE 2
+632,"['fade', 'sova']",0.42,226.6,152.7,14,0.07,0.08,19,77,1.16,0.76,VIT,trexx,1.17,EMEA,STAGE 2
+633,"['viper', 'cypher', 'killjoy']",0.19,207.4,137.1,14,0.05,0.07,25,76,1.34,0.77,KOI,sheydos,1.17,EMEA,STAGE 2
+634,"['cypher', 'viper', 'killjoy']",0.22,221.7,146.3,12,0.08,0.10,28,74,1.27,0.81,FNC,Alfajer,1.16,EMEA,STAGE 2
+635,"['kayo', 'fade', 'iso']",0.36,220.9,143.4,16,0.09,0.13,36,77,1.10,0.76,TH,Wo0t,1.15,EMEA,STAGE 2
+636,"['neon', 'jett', 'iso']",0.19,239.9,155.8,16,0.17,0.16,24,69,1.23,0.86,VIT,Sayf,1.14,EMEA,STAGE 2
+637,"['jett', 'raze', 'yoru']",0.20,242.7,160.6,22,0.16,0.17,25,74,1.25,0.87,FNC,Derke,1.14,EMEA,STAGE 2
+638,"['fade', 'jett', 'gekko']",0.32,239.0,156.7,25,0.09,0.15,22,77,1.13,0.82,KC,N4RRATE,1.12,EMEA,STAGE 2
+639,"['sova', 'gekko', 'breach']",0.37,204.2,134.9,12,0.07,0.08,34,77,1.14,0.73,TH,RieNs,1.12,EMEA,STAGE 2
+640,"['sova', 'gekko', 'fade']",0.33,194.2,126.7,26,0.09,0.08,31,71,1.16,0.71,FNC,hiro,1.11,EMEA,STAGE 2
+641,"['breach', 'omen', 'sova']",0.53,181.6,118.2,19,0.07,0.08,25,75,1.03,0.63,FUT,MrFaliN,1.10,EMEA,STAGE 2
+642,"['raze', 'sova', 'kayo']",0.26,229.1,148.9,37,0.11,0.12,26,72,1.10,0.77,M8,nataNk,1.08,EMEA,STAGE 2
+643,"['cypher', 'omen', 'viper']",0.28,207.8,132.9,11,0.08,0.09,31,69,1.12,0.74,M8,K4DAVRA,1.07,EMEA,STAGE 2
+644,"['cypher', 'killjoy']",0.26,200.5,128.2,16,0.07,0.08,25,69,1.12,0.71,FUT,yetujey,1.06,EMEA,STAGE 2
+645,"['raze', 'jett']",0.15,229.9,155.0,8,0.15,0.18,24,69,1.07,0.78,FUT,cNed,1.05,EMEA,STAGE 2
+646,"['cypher', 'viper']",0.19,197.4,130.4,13,0.07,0.09,41,69,1.16,0.72,BBL,Elite,1.05,EMEA,STAGE 2
+647,"['jett', 'raze', 'neon']",0.20,240.7,152.4,8,0.10,0.21,30,71,1.08,0.82,BBL,QutionerX,1.04,EMEA,STAGE 2
+648,"['raze', 'neon', 'jett']",0.24,249.6,161.3,13,0.19,0.21,26,71,1.09,0.83,KOI,kamo,1.04,EMEA,STAGE 2
+649,"['omen', 'brimstone', 'viper']",0.44,173.3,112.8,20,0.09,0.08,29,76,0.97,0.61,TH,Boo,1.04,EMEA,STAGE 2
+650,"['omen', 'viper']",0.33,203.0,129.2,4,0.13,0.11,29,75,1.04,0.73,FUT,AtaKaptan,1.03,EMEA,STAGE 2
+651,"['yoru', 'raze', 'omen']",0.20,204.1,137.2,24,0.10,0.13,33,75,1.03,0.74,KC,marteen,1.02,EMEA,STAGE 2
+652,"['cypher', 'viper', 'killjoy']",0.18,184.9,125.2,18,0.07,0.08,38,70,1.11,0.72,TH,benjyfishy,1.01,EMEA,STAGE 2
+653,"['jett', 'raze', 'neon']",0.16,215.3,142.5,8,0.16,0.21,37,68,1.05,0.77,GX,purp0,1.01,EMEA,STAGE 2
+654,"['fade', 'sova', 'sage']",0.28,194.3,123.3,11,0.05,0.04,18,63,0.97,0.64,TL,Enzo,0.99,EMEA,STAGE 2
+655,"['gekko', 'killjoy', 'kayo']",0.41,177.0,114.3,17,0.07,0.06,22,71,0.89,0.62,VIT,Kicks,0.99,EMEA,STAGE 2
+656,"['cypher', 'viper', 'killjoy']",0.32,218.5,142.5,3,0.13,0.11,27,73,1.04,0.77,TL,nAts,0.98,EMEA,STAGE 2
+657,"['omen', 'cypher', 'killjoy']",0.22,168.9,112.7,5,0.04,0.05,35,73,0.99,0.63,M8,Wailers,0.97,EMEA,STAGE 2
+658,"['neon', 'raze', 'kayo']",0.26,209.7,139.5,,0.16,0.17,30,73,0.92,0.71,TH,MiniBoo,0.97,EMEA,STAGE 2
+659,"['gekko', 'breach', 'kayo']",0.28,179.1,118.0,13,0.06,0.05,29,72,0.98,0.65,FUT,qRaxs,0.97,EMEA,STAGE 2
+660,"['omen', 'brimstone', 'viper']",0.47,165.9,107.2,13,0.11,0.09,25,72,0.86,0.56,FNC,Boaster,0.97,EMEA,STAGE 2
+661,"['omen', 'brimstone']",0.29,198.7,132.1,18,0.11,0.14,38,68,1.00,0.71,BBL,Brave,0.96,EMEA,STAGE 2
+662,"['cypher', 'killjoy', 'neon']",0.25,186.3,123.1,15,0.08,0.10,22,72,0.94,0.65,VIT,runneR,0.95,EMEA,STAGE 2
+663,"['cypher', 'viper', 'killjoy']",0.20,188.0,124.9,10,0.05,0.07,31,69,0.94,0.67,NAVI,SUYGETSU,0.94,EMEA,STAGE 2
+664,"['kayo', 'gekko', 'breach']",0.39,160.7,106.3,11,0.11,0.08,34,66,0.83,0.57,BBL,pAura,0.93,EMEA,STAGE 2
+665,"['yoru', 'kayo', 'fade']",0.45,161.8,105.9,15,0.11,0.05,21,70,0.86,0.56,KOI,starxo,0.93,EMEA,STAGE 2
+666,"['omen', 'viper', 'kayo']",0.38,180.1,119.6,8,0.07,0.09,28,73,0.88,0.64,KC,sh1n,0.92,EMEA,STAGE 2
+667,"['omen', 'viper']",0.37,163.9,106.1,12,0.13,0.08,30,70,0.83,0.59,VIT,ceNder,0.92,EMEA,STAGE 2
+668,"['fade', 'gekko', 'sova']",0.32,162.1,105.2,17,0.11,0.05,19,71,0.86,0.56,KOI,ShadoW,0.92,EMEA,STAGE 2
+669,"['sova', 'breach', 'killjoy']",0.33,168.2,112.0,23,0.13,0.09,33,74,0.81,0.58,KC,MAGNUM,0.91,EMEA,STAGE 2
+670,"['breach', 'gekko', 'sova']",0.34,185.9,132.2,14,0.09,0.07,22,71,0.87,0.63,GX,Cloud,0.91,EMEA,STAGE 2
+671,"['yoru', 'neon', 'omen']",0.21,195.3,127.5,24,0.23,0.16,24,65,0.90,0.67,M8,TakaS,0.91,EMEA,STAGE 2
+672,"['killjoy', 'cypher', 'viper']",0.23,173.0,118.0,5,0.10,0.07,25,70,0.87,0.60,GX,hoody,0.90,EMEA,STAGE 2
+673,"['raze', 'breach', 'yoru']",0.28,177.8,122.1,15,0.06,0.09,32,68,0.92,0.65,GX,Fit1nho,0.90,EMEA,STAGE 2
+674,"['omen', 'raze']",0.28,171.6,125.6,,0.07,0.09,27,71,0.85,0.62,GX,Famsii,0.89,EMEA,STAGE 2
+675,"['jett', 'raze', 'breach']",0.26,191.6,126.9,23,0.13,0.14,21,67,0.92,0.69,NAVI,ardiis,0.89,EMEA,STAGE 2
+676,"['omen', 'brimstone', 'astra']",0.32,178.9,124.6,21,0.07,0.08,32,71,0.82,0.63,NAVI,Shao,0.89,EMEA,STAGE 2
+677,"['raze', 'jett', 'iso']",0.12,194.0,131.0,14,0.18,0.13,33,67,0.95,0.73,TL,Keiko,0.86,EMEA,STAGE 2
+678,"['omen', 'sage', 'astra']",0.36,160.5,101.5,23,0.10,0.05,30,71,0.76,0.56,TL,Mistic,0.85,EMEA,STAGE 2
+679,"['cypher', 'harbor', 'neon']",0.20,162.8,109.4,7,0.09,0.06,33,65,0.81,0.58,KC,tomaszy,0.85,EMEA,STAGE 2
+680,"['kayo', 'gekko', 'breach']",0.33,202.2,135.6,3,0.14,0.09,29,68,0.88,0.70,NAVI,Zyppan,0.85,EMEA,STAGE 2
+681,"['breach', 'kayo', 'sova']",0.43,147.3,99.4,18,0.08,0.04,22,72,0.69,0.48,M8,beyAz,0.84,EMEA,STAGE 2
+682,"['yoru', 'killjoy', 'breach']",0.20,167.8,108.5,13,0.14,0.08,32,63,0.78,0.58,TL,Jamppi,0.82,EMEA,STAGE 2
+683,"['sova', 'fade', 'gekko']",0.27,151.1,103.2,13,0.03,0.06,32,67,0.77,0.53,BBL,reazy,0.82,EMEA,STAGE 2
+684,"['omen', 'cypher', 'sage']",0.40,144.0,95.7,14,0.07,0.08,39,67,0.71,0.51,GX,Redgar,0.80,EMEA,STAGE 2
+685,"['sova', 'fade', 'gekko']",0.30,159.5,107.7,7,0.12,0.11,31,65,0.72,0.55,NAVI,ANGE1,0.78,EMEA,STAGE 2
+686,"['jett', 'raze']",0.19,256.6,163.3,15,0.17,0.25,28,75,1.24,0.90,TS,Jremy,1.19,PACIFIC,KICKOFF
+687,"['kayo', 'viper', 'sage']",0.37,211.7,144.7,5,0.06,0.07,29,76,1.26,0.80,TS,invy,1.18,PACIFIC,KICKOFF
+688,"['harbor', 'chamber', 'cypher']",0.21,233.6,149.8,,0.04,0.08,29,74,1.23,0.83,T1,xccurate,1.17,PACIFIC,KICKOFF
+689,"['viper', 'killjoy', 'cypher']",0.16,228.5,152.0,29,0.07,0.06,36,75,1.25,0.83,TLN,JitBoyS,1.16,PACIFIC,KICKOFF
+690,"['omen', 'viper', 'brimstone']",0.41,207.8,141.6,6,0.02,0.10,31,84,1.16,0.74,DRX,MaKo,1.16,PACIFIC,KICKOFF
+691,"['yoru', 'jett', 'gekko']",0.25,224.7,143.6,6,0.11,0.17,22,77,1.12,0.80,PRX,something,1.16,PACIFIC,KICKOFF
+692,"['jett', 'raze']",0.16,250.8,164.3,22,0.14,0.16,29,73,1.29,0.90,GEN,t3xture,1.15,PACIFIC,KICKOFF
+693,"['neon', 'jett', 'raze']",0.23,247.0,153.3,20,0.21,0.19,17,70,1.16,0.84,TLN,Governor,1.12,PACIFIC,KICKOFF
+694,"['viper', 'astra', 'omen']",0.39,199.2,132.3,19,0.05,0.08,36,77,1.12,0.71,GEN,Karon,1.12,PACIFIC,KICKOFF
+695,['viper'],0.29,213.4,129.5,24,0.06,0.07,19,79,1.14,0.72,T1,Rossy,1.12,PACIFIC,KICKOFF
+696,"['jett', 'raze']",0.08,215.1,143.2,15,0.13,0.21,29,74,1.29,0.82,T1,Sayaplayer,1.10,PACIFIC,KICKOFF
+697,"['yoru', 'omen', 'raze']",0.38,203.1,134.7,13,0.11,0.10,30,74,1.07,0.72,T1,iZu,1.07,PACIFIC,KICKOFF
+698,"['raze', 'yoru']",0.17,253.5,163.4,20,0.16,0.21,26,70,1.10,0.87,DFM,Meiy,1.07,PACIFIC,KICKOFF
+699,"['killjoy', 'cypher']",0.16,200.3,139.5,9,0.13,0.07,36,68,1.20,0.77,DRX,Flashback,1.07,PACIFIC,KICKOFF
+700,"['viper', 'skye', 'sage']",0.45,195.9,138.0,23,0.07,0.05,31,73,0.99,0.68,PRX,d4v41,1.07,PACIFIC,KICKOFF
+701,"['sova', 'omen', 'viper']",0.25,189.4,129.4,29,0.04,0.04,28,69,1.04,0.69,PRX,mindfreak,1.07,PACIFIC,KICKOFF
+702,"['viper', 'omen']",0.39,177.8,123.9,21,0.08,0.08,24,77,1.05,0.63,BLD,sScary,1.06,PACIFIC,KICKOFF
+703,"['sova', 'skye']",0.36,186.7,125.8,18,0.08,0.06,26,74,1.05,0.64,TS,JessieVash,1.06,PACIFIC,KICKOFF
+704,"['skye', 'killjoy', 'cypher']",0.23,208.4,132.2,24,0.06,0.08,26,75,1.07,0.75,BLD,Egoist,1.05,PACIFIC,KICKOFF
+705,"['viper', 'omen']",0.47,191.3,123.1,10,0.07,0.11,21,72,0.99,0.66,TS,BORKUM,1.05,PACIFIC,KICKOFF
+706,"['fade', 'sova', 'breach']",0.29,174.3,115.6,12,0.05,0.08,32,70,1.09,0.66,DRX,stax,1.04,PACIFIC,KICKOFF
+707,"['jett', 'raze']",0.13,236.3,146.6,15,0.12,0.13,30,68,1.17,0.87,RRQ,Jemkin,1.03,PACIFIC,KICKOFF
+708,"['raze', 'yoru', 'jett']",0.29,234.7,148.6,14,0.09,0.17,23,79,1.01,0.79,DRX,BuZz,1.03,PACIFIC,KICKOFF
+709,"['killjoy', 'jett', 'cypher']",0.14,222.0,146.6,9,0.09,0.11,28,72,1.15,0.80,GEN,Meteor,1.03,PACIFIC,KICKOFF
+710,"['viper', 'jett', 'kayo']",0.23,200.7,122.4,8,0.14,0.16,31,74,1.08,0.72,DRX,Foxy9,1.03,PACIFIC,KICKOFF
+711,"['raze', 'jett']",0.12,245.0,154.0,5,0.18,0.22,27,67,1.16,0.87,ZETA,Dep,1.02,PACIFIC,KICKOFF
+712,"['cypher', 'killjoy']",0.22,178.6,125.9,22,0.09,0.05,21,78,1.04,0.64,TS,NDG,1.00,PACIFIC,KICKOFF
+713,"['harbor', 'cypher', 'kayo']",0.27,220.3,139.9,10,0.12,0.13,29,73,1.05,0.79,PRX,f0rsakeN,1.00,PACIFIC,KICKOFF
+714,"['kayo', 'viper']",0.38,187.5,124.7,13,0.10,0.09,21,72,0.98,0.66,GEN,Munchkin,0.98,PACIFIC,KICKOFF
+715,"['viper', 'astra', 'harbor']",0.37,200.3,128.8,26,0.08,0.08,30,72,0.96,0.71,RRQ,xffero,0.98,PACIFIC,KICKOFF
+716,"['sova', 'skye', 'fade']",0.30,176.3,114.2,,0.08,0.05,30,67,0.89,0.61,RRQ,Estrella,0.97,PACIFIC,KICKOFF
+717,"['yoru', 'kayo', 'skye']",0.34,195.5,119.9,14,0.09,0.12,26,73,0.91,0.66,TLN,ban,0.96,PACIFIC,KICKOFF
+718,"['gekko', 'sova', 'fade']",0.22,187.9,129.2,7,0.09,0.05,29,68,0.97,0.65,GE,blaZek1ng,0.96,PACIFIC,KICKOFF
+719,"['harbor', 'raze']",0.22,222.4,145.1,18,0.13,0.17,21,72,0.98,0.76,BLD,Deryeon,0.96,PACIFIC,KICKOFF
+720,"['viper', 'sova', 'breach']",0.32,192.5,128.8,5,0.08,0.09,27,72,0.91,0.66,ZETA,yuran,0.94,PACIFIC,KICKOFF
+721,"['skye', 'sova', 'kayo']",0.32,179.2,122.2,16,0.11,0.08,30,67,0.91,0.64,ZETA,hiroronn,0.94,PACIFIC,KICKOFF
+722,['sova'],0.34,162.2,108.8,7,0.07,0.06,17,72,0.72,0.50,TLN,lenne,0.92,PACIFIC,KICKOFF
+723,"['cypher', 'killjoy']",0.16,180.5,123.1,9,0.07,0.08,25,67,0.93,0.65,ZETA,Laz,0.92,PACIFIC,KICKOFF
+724,"['sova', 'fade', 'skye']",0.32,180.3,119.0,31,0.10,0.09,22,76,0.81,0.60,T1,Carpe,0.91,PACIFIC,KICKOFF
+725,"['brimstone', 'harbor', 'omen']",0.40,156.2,105.4,9,0.08,0.01,28,67,0.84,0.56,ZETA,SugarZ3ro,0.91,PACIFIC,KICKOFF
+726,"['gekko', 'skye', 'fade']",0.34,173.9,115.0,35,0.10,0.07,27,74,0.83,0.59,GEN,Lakia,0.90,PACIFIC,KICKOFF
+727,"['omen', 'viper']",0.34,169.5,106.7,33,0.08,0.03,36,71,0.84,0.62,DFM,SSeeS,0.90,PACIFIC,KICKOFF
+728,"['cypher', 'killjoy', 'viper']",0.13,171.6,113.9,17,0.10,0.03,25,63,0.88,0.60,GE,Benkai,0.89,PACIFIC,KICKOFF
+729,"['gekko', 'viper', 'omen']",0.28,164.5,103.4,18,0.10,0.06,28,69,0.78,0.57,RRQ,fl1pzjder,0.88,PACIFIC,KICKOFF
+730,"['killjoy', 'cypher']",0.10,177.0,122.7,7,0.08,0.12,39,60,0.84,0.63,DFM,Medusa,0.88,PACIFIC,KICKOFF
+731,"['sova', 'breach', 'skye']",0.28,175.0,113.5,,0.10,0.09,31,61,0.73,0.54,BLD,crazyguy,0.85,PACIFIC,KICKOFF
+732,"['raze', 'jett']",0.14,197.3,136.0,,0.20,0.23,21,63,0.78,0.63,GE,Polvi,0.84,PACIFIC,KICKOFF
+733,"['omen', 'raze']",0.26,175.8,120.4,16,0.18,0.10,21,70,0.75,0.60,PRX,Monyet,0.83,PACIFIC,KICKOFF
+734,"['kayo', 'gekko', 'breach']",0.33,163.4,102.0,11,0.09,0.07,32,66,0.79,0.56,GE,Russ,0.82,PACIFIC,KICKOFF
+735,"['killjoy', 'cypher', 'chamber']",0.13,184.5,123.7,13,0.20,0.10,33,64,0.83,0.65,RRQ,Lmemore,0.82,PACIFIC,KICKOFF
+736,"['neon', 'skye', 'viper']",0.25,167.8,115.0,14,0.13,0.08,28,67,0.80,0.60,BLD,yay,0.81,PACIFIC,KICKOFF
+737,"['viper', 'harbor']",0.22,171.8,114.9,7,0.12,0.05,27,62,0.75,0.58,DFM,neth,0.81,PACIFIC,KICKOFF
+738,"['viper', 'omen']",0.22,153.4,104.5,13,0.06,0.06,38,64,0.73,0.54,GE,Lightningfast,0.78,PACIFIC,KICKOFF
+739,"['skye', 'sova']",0.47,138.5,102.2,20,0.09,0.06,28,67,0.57,0.44,DFM,Anthem,0.75,PACIFIC,KICKOFF
+740,"['harbor', 'omen', 'astra']",0.29,129.2,86.9,9,0.10,0.03,23,67,0.68,0.47,TLN,Crws,0.74,PACIFIC,KICKOFF
+741,"['jett', 'reyna', 'gekko']",0.22,229.9,145.5,13,0.12,0.20,27,76,1.22,0.82,PRX,something,1.17,PACIFIC,STAGE 1
+742,"['skye', 'killjoy', 'omen']",0.42,210.8,136.3,10,0.06,0.09,31,81,1.17,0.74,PRX,d4v41,1.17,PACIFIC,STAGE 1
+743,"['viper', 'omen']",0.35,216.8,147.2,15,0.09,0.09,31,76,1.19,0.76,DRX,MaKo,1.16,PACIFIC,STAGE 1
+744,"['jett', 'raze']",0.13,236.4,151.5,13,0.16,0.14,33,75,1.26,0.85,RRQ,Jemkin,1.14,PACIFIC,STAGE 1
+745,"['omen', 'sova', 'yoru']",0.39,199.7,132.2,19,0.06,0.05,29,79,1.16,0.73,DRX,BeYN,1.14,PACIFIC,STAGE 1
+746,"['raze', 'sage']",0.24,234.3,154.4,18,0.09,0.13,21,77,1.17,0.81,PRX,Jinggg,1.13,PACIFIC,STAGE 1
+747,"['chamber', 'killjoy', 'viper']",0.15,212.8,142.0,4,0.08,0.15,26,71,1.16,0.76,ZETA,Laz,1.13,PACIFIC,STAGE 1
+748,"['raze', 'jett', 'omen']",0.17,235.3,153.7,17,0.13,0.21,27,72,1.20,0.84,GEN,t3xture,1.12,PACIFIC,STAGE 1
+749,"['breach', 'viper', 'kayo']",0.49,206.8,137.2,13,0.05,0.06,34,77,1.05,0.74,TS,invy,1.11,PACIFIC,STAGE 1
+750,"['raze', 'jett']",0.20,247.3,158.0,20,0.24,0.23,22,75,1.12,0.82,TS,Jremy,1.10,PACIFIC,STAGE 1
+751,"['phoenix', 'jett', 'neon']",0.22,234.6,152.4,25,0.15,0.15,28,72,1.10,0.82,ZETA,Dep,1.09,PACIFIC,STAGE 1
+752,"['omen', 'brimstone', 'viper']",0.37,193.3,126.3,10,0.06,0.05,32,77,1.12,0.70,PRX,mindfreak,1.08,PACIFIC,STAGE 1
+753,"['cypher', 'harbor', 'kayo']",0.35,195.5,131.1,17,0.11,0.08,32,78,1.11,0.72,PRX,f0rsakeN,1.07,PACIFIC,STAGE 1
+754,"['viper', 'kayo', 'skye']",0.44,195.5,129.5,23,0.10,0.07,25,74,1.02,0.66,GEN,Munchkin,1.07,PACIFIC,STAGE 1
+755,"['omen', 'brimstone', 'harbor']",0.33,220.4,143.3,11,0.07,0.09,25,75,1.11,0.78,BLD,sScary,1.07,PACIFIC,STAGE 1
+756,"['cypher', 'killjoy']",0.21,191.4,126.4,22,0.08,0.07,32,74,1.17,0.72,DRX,Foxy9,1.06,PACIFIC,STAGE 1
+757,"['omen', 'viper', 'brimstone']",0.42,188.6,119.5,14,0.08,0.07,30,73,1.02,0.67,GEN,Karon,1.06,PACIFIC,STAGE 1
+758,"['viper', 'gekko', 'sova']",0.32,202.7,138.6,17,0.09,0.07,27,68,1.00,0.68,ZETA,yuran,1.05,PACIFIC,STAGE 1
+759,"['omen', 'harbor', 'viper']",0.34,199.4,134.3,22,0.08,0.08,37,73,1.09,0.73,TLN,JitBoyS,1.05,PACIFIC,STAGE 1
+760,"['sova', 'skye', 'fade']",0.23,221.6,149.3,14,0.11,0.11,35,67,1.05,0.79,RRQ,Lmemore,1.05,PACIFIC,STAGE 1
+761,"['omen', 'viper', 'astra']",0.43,194.3,121.9,15,0.07,0.05,33,77,1.01,0.69,ZETA,SugarZ3ro,1.04,PACIFIC,STAGE 1
+762,"['viper', 'kayo', 'skye']",0.40,201.2,132.2,17,0.08,0.07,26,74,1.00,0.69,T1,Rossy,1.03,PACIFIC,STAGE 1
+763,"['raze', 'jett']",0.15,230.8,147.4,14,0.19,0.18,23,73,1.07,0.78,DRX,BuZz,1.03,PACIFIC,STAGE 1
+764,"['omen', 'viper']",0.32,186.8,120.6,21,0.05,0.08,23,72,0.97,0.66,TS,BORKUM,1.03,PACIFIC,STAGE 1
+765,"['omen', 'sage', 'viper']",0.37,209.1,137.1,15,0.08,0.09,33,72,1.01,0.72,GE,Lightningfast,1.02,PACIFIC,STAGE 1
+766,"['fade', 'kayo', 'sova']",0.48,173.9,109.1,11,0.10,0.08,26,73,0.88,0.58,DRX,stax,1.00,PACIFIC,STAGE 1
+767,"['raze', 'jett', 'gekko']",0.20,211.8,141.1,13,0.17,0.18,22,70,0.98,0.73,GE,Polvi,0.99,PACIFIC,STAGE 1
+768,"['raze', 'yoru']",0.16,238.3,155.2,8,0.18,0.19,26,67,1.04,0.83,DFM,Meiy,0.99,PACIFIC,STAGE 1
+769,"['sova', 'skye', 'breach']",0.31,191.2,128.7,14,0.06,0.07,27,70,0.99,0.68,TS,JessieVash,0.98,PACIFIC,STAGE 1
+770,"['cypher', 'killjoy']",0.14,200.6,127.8,15,0.08,0.09,31,70,1.05,0.71,RRQ,xffero,0.98,PACIFIC,STAGE 1
+771,"['sova', 'gekko', 'fade']",0.45,177.3,112.4,6,0.07,0.09,18,75,0.83,0.57,TLN,lenne,0.98,PACIFIC,STAGE 1
+772,"['gekko', 'kayo', 'fade']",0.31,192.3,124.1,24,0.09,0.08,41,72,0.99,0.70,GE,Russ,0.97,PACIFIC,STAGE 1
+773,"['sova', 'viper', 'omen']",0.28,194.2,131.1,11,0.07,0.12,30,71,0.96,0.66,GE,blaZek1ng,0.97,PACIFIC,STAGE 1
+774,"['killjoy', 'cypher', 'jett']",0.17,210.7,141.0,9,0.09,0.13,32,68,1.02,0.74,GEN,Meteor,0.97,PACIFIC,STAGE 1
+775,"['viper', 'skye', 'kayo']",0.24,207.8,137.0,7,0.12,0.13,33,66,1.05,0.75,TLN,ban,0.96,PACIFIC,STAGE 1
+776,"['raze', 'jett', 'neon']",0.17,209.7,139.0,14,0.16,0.17,26,70,0.96,0.73,T1,Sayaplayer,0.95,PACIFIC,STAGE 1
+777,"['fade', 'sova', 'gekko']",0.36,169.1,116.7,13,0.08,0.05,26,73,0.86,0.58,GEN,Lakia,0.95,PACIFIC,STAGE 1
+778,"['chamber', 'harbor', 'killjoy']",0.17,186.3,123.3,10,0.09,0.08,27,70,1.00,0.70,T1,xccurate,0.94,PACIFIC,STAGE 1
+779,"['raze', 'jett', 'neon']",0.15,199.2,133.3,20,0.17,0.16,24,68,1.00,0.71,TLN,Governor,0.94,PACIFIC,STAGE 1
+780,"['omen', 'skye', 'yoru']",0.34,184.7,121.3,24,0.12,0.09,27,70,0.88,0.65,T1,iZu,0.93,PACIFIC,STAGE 1
+781,"['fade', 'gekko', 'sova']",0.26,175.6,116.6,11,0.07,0.05,26,69,0.90,0.62,BLD,Zest,0.93,PACIFIC,STAGE 1
+782,"['cypher', 'killjoy']",0.23,186.4,122.7,7,0.05,0.10,24,70,0.92,0.66,TS,NDG,0.93,PACIFIC,STAGE 1
+783,"['killjoy', 'viper', 'cypher']",0.19,169.6,119.2,10,0.07,0.08,38,68,0.90,0.59,TLN,Surf,0.92,PACIFIC,STAGE 1
+784,"['fade', 'gekko', 'kayo']",0.27,159.4,108.0,16,0.07,0.04,26,69,0.86,0.56,TLN,Crws,0.92,PACIFIC,STAGE 1
+785,"['fade', 'gekko', 'sova']",0.33,169.4,112.5,8,0.08,0.06,26,72,0.85,0.61,T1,Carpe,0.91,PACIFIC,STAGE 1
+786,"['kayo', 'fade', 'gekko']",0.36,159.0,109.3,13,0.08,0.04,25,69,0.81,0.56,DFM,Anthem,0.90,PACIFIC,STAGE 1
+787,"['viper', 'omen']",0.39,157.4,105.8,9,0.07,0.05,27,75,0.79,0.54,RRQ,Estrella,0.89,PACIFIC,STAGE 1
+788,"['viper', 'cypher', 'killjoy']",0.20,163.9,108.1,14,0.07,0.05,25,73,0.89,0.57,BLD,Retla,0.88,PACIFIC,STAGE 1
+789,"['omen', 'viper']",0.34,151.1,97.5,10,0.06,0.05,31,70,0.78,0.55,DFM,SSeeS,0.88,PACIFIC,STAGE 1
+790,"['viper', 'killjoy', 'cypher']",0.16,166.4,118.4,2,0.07,0.06,24,69,0.89,0.59,GE,Benkai,0.88,PACIFIC,STAGE 1
+791,"['sova', 'kayo', 'gekko']",0.39,164.6,104.1,16,0.12,0.06,32,73,0.76,0.56,ZETA,hiroronn,0.87,PACIFIC,STAGE 1
+792,"['killjoy', 'breach', 'kayo']",0.27,170.2,112.2,3,0.09,0.08,30,72,0.80,0.59,BLD,Deryeon,0.86,PACIFIC,STAGE 1
+793,"['raze', 'jett', 'yoru']",0.17,190.4,126.2,25,0.22,0.19,23,67,0.83,0.64,BLD,yay,0.86,PACIFIC,STAGE 1
+794,"['viper', 'omen']",0.27,187.2,122.2,8,0.13,0.10,31,71,0.87,0.63,DFM,Medusa,0.85,PACIFIC,STAGE 1
+795,"['yoru', 'viper', 'gekko']",0.29,156.2,108.0,22,0.12,0.08,27,66,0.74,0.54,RRQ,fl1pzjder,0.82,PACIFIC,STAGE 1
+796,"['cypher', 'killjoy']",0.20,160.9,108.5,12,0.11,0.06,24,66,0.79,0.57,DFM,neth,0.79,PACIFIC,STAGE 1
+797,"['omen', 'viper']",0.10,122.0,81.6,,0.08,0.00,29,68,0.70,0.48,RRQ,2ge,0.71,PACIFIC,STAGE 1
+798,"['killjoy', 'sage', 'viper']",0.36,212.6,141.4,18,0.06,0.08,27,78,1.22,0.75,PRX,d4v41,1.19,PACIFIC,STAGE 2
+799,"['chamber', 'sage', 'jett']",0.12,227.2,145.5,11,0.11,0.18,27,75,1.37,0.85,T1,Sayaplayer,1.18,PACIFIC,STAGE 2
+800,"['omen', 'viper', 'brimstone']",0.43,207.5,134.0,15,0.05,0.09,36,79,1.24,0.78,GEN,Karon,1.17,PACIFIC,STAGE 2
+801,"['kayo', 'breach', 'skye']",0.47,228.3,147.0,7,0.09,0.10,29,78,1.18,0.80,PRX,f0rsakeN,1.17,PACIFIC,STAGE 2
+802,"['kayo', 'breach', 'viper']",0.50,200.9,133.1,11,0.06,0.07,27,75,1.10,0.71,TS,invy,1.12,PACIFIC,STAGE 2
+803,"['viper', 'kayo']",0.55,193.0,126.5,10,0.09,0.09,20,78,1.01,0.63,GEN,Munchkin,1.11,PACIFIC,STAGE 2
+804,"['raze', 'jett']",0.16,229.6,148.3,14,0.14,0.21,27,70,1.20,0.82,GEN,t3xture,1.10,PACIFIC,STAGE 2
+805,"['gekko', 'jett', 'raze']",0.18,218.3,144.0,27,0.13,0.13,30,78,1.22,0.80,RRQ,Jemkin,1.10,PACIFIC,STAGE 2
+806,"['jett', 'raze', 'neon']",0.15,241.5,153.2,29,0.16,0.17,21,69,1.15,0.84,DRX,BuZz,1.09,PACIFIC,STAGE 2
+807,"['jett', 'gekko', 'fade']",0.19,207.2,134.1,15,0.11,0.16,29,72,1.11,0.75,PRX,something,1.08,PACIFIC,STAGE 2
+808,"['omen', 'viper']",0.34,196.2,126.0,25,0.08,0.08,30,73,1.08,0.70,TS,2ge,1.08,PACIFIC,STAGE 2
+809,"['raze', 'cypher', 'iso']",0.19,253.8,167.5,6,0.14,0.16,23,75,1.20,0.88,T1,iZu,1.08,PACIFIC,STAGE 2
+810,"['clove', 'kayo', 'astra']",0.25,220.5,141.9,20,0.08,0.11,29,70,1.09,0.77,DRX,Flashback,1.08,PACIFIC,STAGE 2
+811,"['viper', 'gekko', 'sova']",0.25,205.7,138.7,13,0.07,0.07,33,73,1.15,0.72,T1,Rossy,1.08,PACIFIC,STAGE 2
+812,"['skye', 'fade', 'breach']",0.54,197.6,125.4,13,0.05,0.03,30,78,1.07,0.68,T1,stax,1.07,PACIFIC,STAGE 2
+813,"['sage', 'raze', 'iso']",0.29,224.4,144.8,13,0.12,0.15,21,73,1.10,0.78,PRX,Jinggg,1.07,PACIFIC,STAGE 2
+814,"['omen', 'viper', 'brimstone']",0.44,206.4,132.8,8,0.04,0.06,27,78,1.08,0.72,BLD,sScary,1.07,PACIFIC,STAGE 2
+815,"['killjoy', 'omen', 'viper']",0.26,220.1,145.8,20,0.09,0.08,31,74,1.13,0.77,RRQ,xffero,1.07,PACIFIC,STAGE 2
+816,"['killjoy', 'cypher', 'skye']",0.31,199.7,132.4,18,0.07,0.08,34,74,1.08,0.73,TS,Wild0reoo,1.06,PACIFIC,STAGE 2
+817,"['cypher', 'killjoy']",0.19,207.1,135.5,7,0.08,0.10,29,72,1.15,0.75,GEN,Meteor,1.06,PACIFIC,STAGE 2
+818,"['skye', 'fade', 'sova']",0.35,183.0,123.9,21,0.08,0.08,26,74,1.03,0.64,GEN,Lakia,1.05,PACIFIC,STAGE 2
+819,"['jett', 'raze', 'neon']",0.14,252.9,165.3,10,0.18,0.22,25,72,1.12,0.91,DFM,Meiy,1.05,PACIFIC,STAGE 2
+820,"['jett', 'raze', 'neon']",0.20,218.8,144.2,,0.20,0.20,25,72,1.03,0.73,TS,Jremy,1.04,PACIFIC,STAGE 2
+821,"['viper', 'omen', 'neon']",0.38,211.5,141.5,20,0.13,0.12,31,73,0.98,0.73,RRQ,Monyet,1.02,PACIFIC,STAGE 2
+822,"['kayo', 'breach', 'omen']",0.48,166.8,108.3,7,0.06,0.05,31,77,0.97,0.59,RRQ,Estrella,1.02,PACIFIC,STAGE 2
+823,"['clove', 'jett', 'iso']",0.20,254.5,174.1,27,0.13,0.16,45,69,1.06,0.91,TLN,primmie,1.02,PACIFIC,STAGE 2
+824,"['viper', 'omen']",0.32,203.4,133.5,5,0.07,0.04,37,73,1.01,0.73,ZETA,SugarZ3ro,1.01,PACIFIC,STAGE 2
+825,"['sova', 'cypher', 'killjoy']",0.23,187.5,125.3,18,0.09,0.09,25,70,0.99,0.64,TS,JessieVash,1.01,PACIFIC,STAGE 2
+826,"['viper', 'omen']",0.33,167.7,108.4,13,0.06,0.06,37,75,1.03,0.62,PRX,mindfreak,1.01,PACIFIC,STAGE 2
+827,"['viper', 'omen', 'astra']",0.33,200.6,131.7,7,0.08,0.07,38,72,1.01,0.71,TLN,JitBoyS,1.00,PACIFIC,STAGE 2
+828,"['viper', 'omen', 'breach']",0.38,190.6,125.4,17,0.10,0.08,29,71,0.93,0.65,DRX,MaKo,1.00,PACIFIC,STAGE 2
+829,"['sova', 'chamber', 'skye']",0.24,199.9,134.5,19,0.12,0.09,33,68,1.00,0.70,RRQ,Lmemore,1.00,PACIFIC,STAGE 2
+830,"['sova', 'breach', 'killjoy']",0.36,161.0,115.7,17,0.05,0.02,28,72,0.81,0.54,GE,Benkai,0.99,PACIFIC,STAGE 2
+831,"['killjoy', 'cypher', 'skye']",0.29,199.8,133.5,16,0.10,0.08,37,66,1.05,0.72,ZETA,Laz,0.99,PACIFIC,STAGE 2
+832,"['gekko', 'viper', 'sova']",0.43,195.3,125.8,8,0.08,0.12,25,80,0.97,0.68,T1,Carpe,0.98,PACIFIC,STAGE 2
+833,"['cypher', 'killjoy', 'viper']",0.16,184.1,122.9,15,0.07,0.06,33,66,0.92,0.67,GE,blaZek1ng,0.97,PACIFIC,STAGE 2
+834,"['viper', 'omen']",0.39,177.3,114.3,13,0.09,0.07,38,68,0.86,0.61,DFM,SSeeS,0.96,PACIFIC,STAGE 2
+835,"['jett', 'neon']",0.23,230.0,153.2,20,0.22,0.21,26,67,0.96,0.79,GE,Polvi,0.95,PACIFIC,STAGE 2
+836,"['jett', 'gekko', 'breach']",0.20,171.9,111.1,,0.07,0.05,36,69,0.91,0.61,TLN,Surf,0.95,PACIFIC,STAGE 2
+837,"['harbor', 'kayo', 'breach']",0.44,171.6,110.0,16,0.06,0.04,27,74,0.80,0.58,DFM,neth,0.94,PACIFIC,STAGE 2
+838,"['killjoy', 'cypher']",0.18,188.0,126.0,21,0.05,0.05,27,66,0.96,0.69,BLD,Retla,0.92,PACIFIC,STAGE 2
+839,"['kayo', 'deadlock', 'viper']",0.34,167.5,106.3,13,0.10,0.08,34,69,0.85,0.59,BLD,Zest,0.91,PACIFIC,STAGE 2
+840,"['kayo', 'gekko', 'sova']",0.27,161.6,109.5,24,0.08,0.06,26,71,0.79,0.55,DRX,BeYN,0.91,PACIFIC,STAGE 2
+841,"['jett', 'raze', 'neon']",0.15,210.1,136.3,15,0.22,0.20,28,66,0.94,0.74,BLD,Deryeon,0.90,PACIFIC,STAGE 2
+842,"['killjoy', 'cypher']",0.14,180.4,124.6,19,0.11,0.08,26,68,0.92,0.65,DFM,Medusa,0.89,PACIFIC,STAGE 2
+843,"['omen', 'raze', 'jett']",0.19,219.4,145.8,9,0.17,0.22,27,69,0.94,0.74,ZETA,Dep,0.89,PACIFIC,STAGE 2
+844,"['kayo', 'raze', 'neon']",0.23,193.5,126.9,21,0.16,0.17,25,70,0.89,0.69,TLN,Governor,0.89,PACIFIC,STAGE 2
+845,"['killjoy', 'cypher', 'kayo']",0.35,165.0,110.7,12,0.09,0.07,32,70,0.82,0.58,DRX,Foxy9,0.89,PACIFIC,STAGE 2
+846,"['gekko', 'breach', 'sova']",0.28,168.9,117.9,11,0.08,0.04,21,68,0.83,0.56,TLN,Crws,0.87,PACIFIC,STAGE 2
+847,"['killjoy', 'cypher', 'jett']",0.19,183.1,126.5,9,0.11,0.11,35,65,0.88,0.65,TLN,ban,0.87,PACIFIC,STAGE 2
+848,"['kayo', 'fade']",0.52,177.0,116.7,19,0.10,0.12,34,72,0.75,0.59,GE,Russ,0.87,PACIFIC,STAGE 2
+849,"['gekko', 'sova', 'cypher']",0.24,176.2,121.2,21,0.10,0.09,28,69,0.85,0.61,ZETA,hiroronn,0.86,PACIFIC,STAGE 2
+850,"['omen', 'viper', 'brimstone']",0.40,160.5,106.9,24,0.10,0.04,22,73,0.79,0.55,T1,xccurate,0.86,PACIFIC,STAGE 2
+851,"['kayo', 'breach', 'viper']",0.52,153.5,101.7,4,0.10,0.05,25,71,0.67,0.50,ZETA,yuran,0.84,PACIFIC,STAGE 2
+852,"['sova', 'fade', 'deadlock']",0.33,166.1,116.2,10,0.12,0.07,21,68,0.71,0.53,BLD,crazyguy,0.84,PACIFIC,STAGE 2
+853,"['sova', 'gekko', 'deadlock']",0.21,160.3,105.4,8,0.10,0.05,23,73,0.74,0.56,DFM,Anthem,0.83,PACIFIC,STAGE 2
+854,"['omen', 'sage']",0.33,151.9,92.4,17,0.07,0.07,30,69,0.74,0.57,GE,Lightningfast,0.80,PACIFIC,STAGE 2
