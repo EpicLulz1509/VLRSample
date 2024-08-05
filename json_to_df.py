@@ -85,7 +85,7 @@ def player_stats():
 
     player_stats.createOrReplaceTempView("player_stats")
     player_stats = spark.sql("SELECT * from player_stats ")
-    sqlDF = spark.sql("SELECT player, any_value(org) as org, AVG(rating) as rating, AVG(average_combat_score) as ACS, AVG(kill_deaths) as KD,  AVG(kill_assists_survived_traded) as KAST, AVG(average_damage_per_round) as ADR, AVG(kills_per_round) as KPR, AVG(assists_per_round) as APR, AVG(first_kills_per_round) as FKPR, AVG(first_deaths_per_round) as FDPR, AVG(headshot_percentage) as HS, AVG(clutch_success_percentage) as CS FROM player_stats GROUP by player")
+    sqlDF = spark.sql("SELECT player, collect_set(org) as org, collect_set(region) as region, collect_set(event) as event, SUM(rounds) as rounds, AVG(rating) as rating, AVG(average_combat_score) as ACS, AVG(kill_deaths) as KD,  AVG(kill_assists_survived_traded) as KAST, AVG(average_damage_per_round) as ADR, AVG(kills_per_round) as KPR, AVG(assists_per_round) as APR, AVG(first_kills_per_round) as FKPR, AVG(first_deaths_per_round) as FDPR, AVG(headshot_percentage) as HS, AVG(clutch_success_percentage) as CS, MAX(kmax) as KMAX, SUM(kills) as KILLS, SUM(deaths) as DEATHS, SUM(assists) as ASSISTS, SUM(fk) as FK, SUM(fd) as FD FROM player_stats GROUP by player")
     # print(sqlDF.show(10))
     sqlDF.toPandas().to_csv('player_stats.csv')
 

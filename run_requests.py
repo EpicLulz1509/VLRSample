@@ -56,16 +56,16 @@ def get_match_stats(file_name, query):
     
 
 
-for i in regions1:
-    get_region_stats(i)
+# for i in regions1:
+#     get_region_stats(i)
 
-for i in regions2:
-    get_player_stats(i, 90)
+# for i in regions2:
+#     get_player_stats(i, 90)
 
-get_news('news_data')
+# get_news('news_data')
 
-get_match_stats('match_data', 'results')
+# get_match_stats('match_data', 'results')
 
 for i in events:
-    vlr_match_results(i)
+    # vlr_match_results(i)
     vlr_stats_events(i)

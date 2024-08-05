@@ -6,89 +6,6 @@ from selectolax.parser import HTMLParser
 import utils as res
 from utils import headers, agents_dic, events
 
-def vlr_match_results(event):
-    url = f"https://www.vlr.gg/event/matches/{event}/?series_id=all"
-    resp = requests.get(url, headers=headers)
-    html = HTMLParser(resp.text)
-    status = resp.status_code
-
-    result = []
-    for item in html.css("a.wf-module-item"):
-        url_path = item.attributes["href"]
-
-        try:
-            eta = item.css_first("div.ml-eta").text() + " ago"
-        except AttributeError:
-            eta = "0 ago"
-
-        rounds = item.css_first("div.match-item-event-series").text()
-        rounds = rounds.replace("\u2013", "-")
-        rounds = rounds.replace("\n", " ").replace("\t", "")
-
-        # tourney = item.css_first("div.match-item-event").text()
-        # tourney = tourney.replace("\t", " ")
-        # tourney = tourney.strip().split("\n")[1]
-        # tourney = tourney.strip()
-
-        # tourney_icon_url = item.css_first("img").attributes["src"]
-        # tourney_icon_url = f"https:{tourney_icon_url}"
-
-        try:
-            team_array = (
-                item.css_first("div.match-item-vs")
-                .css_first("div:nth-child(2)")
-                .text()
-            )
-        except Exception:  # Replace bare except with except Exception
-            team_array = "TBD"
-        team_array = team_array.replace("\t", " ").replace("\n", " ")
-        team_array = team_array.strip().split("                                  ")
-            # 1st item in team_array is first team
-        team1 = team_array[0]
-            # 2nd item in team_array is first team score
-        score1 = team_array[1].replace(" ", "").strip()
-            # 3rd item in team_array is second team
-        team2 = team_array[4].strip()
-            # 4th item in team_array is second team score
-        score2 = team_array[-1].replace(" ", "").strip()
-
-            # Creating a list of the classes of the flag elements.
-        flag_list = [
-            flag_parent.attributes["class"].replace(" mod-", "_")
-            for flag_parent in item.css(".flag")
-        ]
-        flag1 = flag_list[0]
-        flag2 = flag_list[1]
-
-        result.append(
-        {
-                    "team1": team1,
-                    "team2": team2,
-                    "score1": score1,
-                    "score2": score2,
-                    "flag1": flag1,
-                    "flag2": flag2,
-                    "time_completed": eta,
-                    "round_info": rounds,
-                    # "tournament_name": tourney,
-                    "match_page": url_path,
-                    # "tournament_icon": tourney_icon_url,
-        }
-        )
-    segments = {"status": status, "segments": result}
-
-    data = {"data": segments}
-
-    names = event.split('/')
-    with open(f"json_files/{names[1]}_match_stats.json", "w", encoding='utf-8') as f:
-        json.dump(result, f)
-
-    if status != 200:
-        raise Exception("API response: {}".format(status))
-    return data
-
-
-
 def vlr_stats_events(event):
         url = (f"https://www.vlr.gg/event/stats/{event}")
 
@@ -108,9 +25,9 @@ def vlr_stats_events(event):
                 org = "N/A"
 
             player = list(filter(None, player))
-            player = [item for item in player if ")" not in item]
-            # print(player)
-            # print(len(player))
+            # player = [item for item in player if ")" not in item]
+            print(player)
+            print(len(player))
             # print(type(player))
 
             # player = item.text().replace("\t", "").replace("\n", " ").strip()
@@ -123,7 +40,6 @@ def vlr_stats_events(event):
     
 
             color_sq = [stats.text() for stats in item.css("td.mod-color-sq")]
-            rounds = player[2]
             rat = color_sq[0]
             acs = color_sq[1]
             kd = color_sq[2]
@@ -146,7 +62,6 @@ def vlr_stats_events(event):
                 {
                     "player": player_name,
                     "org": org,
-                    "rounds" : rounds,
                     "rating": rat,
                     "average_combat_score": acs,
                     "kill_deaths": kd,
@@ -159,7 +74,7 @@ def vlr_stats_events(event):
                     "headshot_percentage": hs,
                     "clutch_success_percentage": cl,
                     "agents_played": agents_played,
-                    "kmax" : kmax,
+                    "kamx" : kmax,
                     "kills" : kills,
                     "deaths" : deaths,
                     "assists" : assists,
@@ -181,3 +96,4 @@ def vlr_stats_events(event):
             raise Exception("API response: {}".format(status))
         return data
 
+vlr_stats_events("2095/champions-tour-2024-americas-stage-2")
