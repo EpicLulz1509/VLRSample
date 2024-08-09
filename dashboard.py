@@ -42,13 +42,13 @@ with col2:
 
 # print(events, regions)
 
-regions_str = (", ".join(regions)).lower()
-events_str = (" ".join(events)).lower()
+regions_str = (", ".join(regions))
+events_str = (", ".join(events))
 
 st.subheader(f"Stats for {regions_str} region and {events_str} event")
 
 # stats = specific_param_stats(events, regions)
-stats = pd.read_csv('new_stats.csv')
+stats = pd.read_csv('new_stats.csv', usecols=["player", "org", "region", "event", "rounds", "rating", "average_combat_score", "kill_deaths", "kill_assists_survived_traded", "average_damage_per_round", "kills_per_round", "assists_per_round", "first_kills_per_round", "first_deaths_per_round",	"headshot_percentage", "clutch_success_percentage",	"kmax",	"kills", "deaths", "assists", "fk",	"fd"])
 
 stats = stats.rename(columns={'assists' : 'ASSISTS', 'assists_per_round' : 'APR', 'average_combat_score' : 'ACS', 'average_damage_per_round' : 'ADR', 'clutch_success_percentage' : 'CS', 'deaths' : 'DEATHS', 'fd' : 'FD', 'kills' : 'KILLS', 'fk' : 'FK', 'headshot_percentage': 'HS', 'first_kills_per_round': 'FKPR', 'kill_assists_survived_traded': 'KAST', 'kill_deaths': 'KD', 'kmax': 'KMAX', 'kills_per_round': 'KPR', 'first_deaths_per_round': 'FDPR' }, errors="raise")
 # print(stats.columns, "HERE")
