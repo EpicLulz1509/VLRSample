@@ -5,6 +5,9 @@ headers = {
     "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0",
 }
 
+events_select = ['KICKOFF', 'STAGE 2', 'STAGE 1', 'CHAMPIONS', 'MASTERS SHANGHAI', 'MASTERS MADRID']
+
+regions_select = ['NA', 'EMEA', 'PACIFIC', 'CHINA', 'INT']
 
 regions1 = {
     "na": "north-america",
