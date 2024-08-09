@@ -14,7 +14,7 @@ st.set_page_config(
 
 # alt.themes.enable("dark")
 alt.renderers.enable("mimetype")
-champion_stats()
+# champion_stats()
 df = pd.read_csv('player_stats_champions.csv', usecols=["player", "org", "region", "rounds", "rating", "ACS", "KD", "KAST", "ADR", "KPR", "APR",	"FKPR",	"FDPR",	"HS", "CS",	"KMAX",	"KILLS", "DEATHS", "ASSISTS", "FK",	"FD"])
 
 df = df.style.set_properties(**{'font-size': '500pt'}).background_gradient(cmap='viridis').highlight_max(axis=0, subset=['rounds', 'rating', "ACS", "KD", "KAST", "ADR", "KPR", "APR",	"FKPR",	"FDPR",	"HS", "CS",	"KMAX",	"KILLS", "DEATHS", "ASSISTS", "FK",	"FD"])
