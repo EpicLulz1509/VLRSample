@@ -1,7 +1,9 @@
 import streamlit as st
 import altair as alt
+import plotly.express as px
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 from utils import * 
 from configure_tables import *
 
