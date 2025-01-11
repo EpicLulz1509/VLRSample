@@ -1,0 +1,1321 @@
+{
+    "teams": [
+        {
+            "name": "Sentinels",
+            "score": 1,
+            "img": "https://owcdn.net/img/62875027c8e06.png",
+            "id": "2"
+        },
+        {
+            "name": "Evil Geniuses",
+            "score": 2,
+            "img": "https://owcdn.net/img/667462f046618.png",
+            "id": "5248"
+        }
+    ],
+    "bans": [
+        "SEN ban Breeze",
+        "EG ban Split",
+        "SEN pick Lotus",
+        "EG pick Bind",
+        "SEN ban Ascent",
+        "EG ban Icebox",
+        "Sunset remains"
+    ],
+    "event": {
+        "id": "2004",
+        "img": "https://owcdn.net/img/640f5ab71dfbb.png",
+        "series": "Champions Tour 2024: Americas Stage 1",
+        "stage": "Regular Season: Week 3",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "VCT Americas",
+                "url": "https://www.twitch.tv/valorant_americas"
+            },
+            {
+                "name": "Valorant Brazil",
+                "url": "https://www.twitch.tv/valorant_br"
+            },
+            {
+                "name": "Valorant LATAM",
+                "url": "https://www.twitch.tv/valorant_la"
+            },
+            {
+                "name": "VCT Americas (YT)",
+                "url": "https://www.youtube.com/@valorant_americas/live"
+            },
+            {
+                "name": "VAL Esports BR (YT)",
+                "url": "https://www.youtube.com/@valorantesportsbr/live"
+            },
+            {
+                "name": "VAL Esports LA (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/bcQOvN_OW7E?t=2340"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/ECz4Nt6VSq8?t=489"
+            },
+            {
+                "name": "Map 3",
+                "url": "https://youtu.be/y3vwjjsYpmE?t=409"
+            }
+        ]
+    },
+    "map_count": 3,
+    "data": [
+        {
+            "map": "Lotus",
+            "teams": [
+                {
+                    "name": "Sentinels",
+                    "score": 13
+                },
+                {
+                    "name": "Evil Geniuses",
+                    "score": 10
+                }
+            ],
+            "members": [
+                {
+                    "id": "9",
+                    "name": "TenZ",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.39,
+                    "acs": 261,
+                    "kills": 21,
+                    "deaths": 17,
+                    "assists": 14,
+                    "kast": 74,
+                    "adr": 167,
+                    "headshot_percent": 16,
+                    "first_kills": 1,
+                    "first_deaths": 0,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "4004",
+                    "name": "zekken",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.26,
+                    "acs": 255,
+                    "kills": 22,
+                    "deaths": 16,
+                    "assists": 3,
+                    "kast": 87,
+                    "adr": 175,
+                    "headshot_percent": 24,
+                    "first_kills": 7,
+                    "first_deaths": 4,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "1265",
+                    "name": "johnqt",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.2,
+                    "acs": 201,
+                    "kills": 18,
+                    "deaths": 14,
+                    "assists": 11,
+                    "kast": 83,
+                    "adr": 122,
+                    "headshot_percent": 22,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "729",
+                    "name": "Zellsis",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.99,
+                    "acs": 224,
+                    "kills": 16,
+                    "deaths": 17,
+                    "assists": 6,
+                    "kast": 61,
+                    "adr": 143,
+                    "headshot_percent": 19,
+                    "first_kills": 3,
+                    "first_deaths": 4,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "659",
+                    "name": "Sacy",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 0.55,
+                    "acs": 131,
+                    "kills": 10,
+                    "deaths": 19,
+                    "assists": 5,
+                    "kast": 61,
+                    "adr": 91,
+                    "headshot_percent": 39,
+                    "first_kills": 0,
+                    "first_deaths": 2,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "3993",
+                    "name": "jawgemo",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.49,
+                    "acs": 383,
+                    "kills": 29,
+                    "deaths": 19,
+                    "assists": 3,
+                    "kast": 61,
+                    "adr": 242,
+                    "headshot_percent": 18,
+                    "first_kills": 7,
+                    "first_deaths": 3,
+                    "first_kills_diff": 4
+                },
+                {
+                    "id": "5188",
+                    "name": "Apoth",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 1.12,
+                    "acs": 229,
+                    "kills": 19,
+                    "deaths": 16,
+                    "assists": 3,
+                    "kast": 57,
+                    "adr": 157,
+                    "headshot_percent": 66,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "826",
+                    "name": "supamen",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.85,
+                    "acs": 161,
+                    "kills": 14,
+                    "deaths": 18,
+                    "assists": 6,
+                    "kast": 91,
+                    "adr": 115,
+                    "headshot_percent": 35,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "1533",
+                    "name": "Derrek",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 0.75,
+                    "acs": 130,
+                    "kills": 12,
+                    "deaths": 16,
+                    "assists": 1,
+                    "kast": 52,
+                    "adr": 98,
+                    "headshot_percent": 32,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "4927",
+                    "name": "NaturE",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.39,
+                    "acs": 108,
+                    "kills": 9,
+                    "deaths": 18,
+                    "assists": 3,
+                    "kast": 48,
+                    "adr": 70,
+                    "headshot_percent": 24,
+                    "first_kills": 0,
+                    "first_deaths": 4,
+                    "first_kills_diff": -4
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "0-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "0-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "0-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "0-5",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "0-6",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "0-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "1-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "2-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "2-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "3-8",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "3-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "4-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "5-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "6-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "7-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "8-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "9-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "10-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "11-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "12-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "12-10",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 23,
+                    "round_score": "13-10",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Bind",
+            "teams": [
+                {
+                    "name": "Sentinels",
+                    "score": 11
+                },
+                {
+                    "name": "Evil Geniuses",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "659",
+                    "name": "Sacy",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Skye",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/skye.png"
+                        }
+                    ],
+                    "rating": 1.35,
+                    "acs": 231,
+                    "kills": 21,
+                    "deaths": 14,
+                    "assists": 7,
+                    "kast": 75,
+                    "adr": 142,
+                    "headshot_percent": 35,
+                    "first_kills": 3,
+                    "first_deaths": 2,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "1265",
+                    "name": "johnqt",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.15,
+                    "acs": 209,
+                    "kills": 17,
+                    "deaths": 17,
+                    "assists": 8,
+                    "kast": 54,
+                    "adr": 135,
+                    "headshot_percent": 23,
+                    "first_kills": 1,
+                    "first_deaths": 0,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "729",
+                    "name": "Zellsis",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Brimstone",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/brimstone.png"
+                        }
+                    ],
+                    "rating": 0.98,
+                    "acs": 202,
+                    "kills": 15,
+                    "deaths": 17,
+                    "assists": 10,
+                    "kast": 71,
+                    "adr": 127,
+                    "headshot_percent": 33,
+                    "first_kills": 4,
+                    "first_deaths": 3,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "9",
+                    "name": "TenZ",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.84,
+                    "acs": 192,
+                    "kills": 14,
+                    "deaths": 18,
+                    "assists": 6,
+                    "kast": 63,
+                    "adr": 131,
+                    "headshot_percent": 30,
+                    "first_kills": 4,
+                    "first_deaths": 3,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "4004",
+                    "name": "zekken",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.47,
+                    "acs": 132,
+                    "kills": 9,
+                    "deaths": 19,
+                    "assists": 6,
+                    "kast": 50,
+                    "adr": 100,
+                    "headshot_percent": 18,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4927",
+                    "name": "NaturE",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Skye",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/skye.png"
+                        }
+                    ],
+                    "rating": 1.49,
+                    "acs": 273,
+                    "kills": 24,
+                    "deaths": 14,
+                    "assists": 14,
+                    "kast": 79,
+                    "adr": 172,
+                    "headshot_percent": 26,
+                    "first_kills": 2,
+                    "first_deaths": 0,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "5188",
+                    "name": "Apoth",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Brimstone",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/brimstone.png"
+                        }
+                    ],
+                    "rating": 1.34,
+                    "acs": 251,
+                    "kills": 22,
+                    "deaths": 14,
+                    "assists": 10,
+                    "kast": 71,
+                    "adr": 159,
+                    "headshot_percent": 28,
+                    "first_kills": 0,
+                    "first_deaths": 4,
+                    "first_kills_diff": -4
+                },
+                {
+                    "id": "1533",
+                    "name": "Derrek",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.93,
+                    "acs": 164,
+                    "kills": 14,
+                    "deaths": 16,
+                    "assists": 6,
+                    "kast": 71,
+                    "adr": 104,
+                    "headshot_percent": 18,
+                    "first_kills": 1,
+                    "first_deaths": 4,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "826",
+                    "name": "supamen",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.91,
+                    "acs": 201,
+                    "kills": 17,
+                    "deaths": 16,
+                    "assists": 2,
+                    "kast": 54,
+                    "adr": 128,
+                    "headshot_percent": 29,
+                    "first_kills": 6,
+                    "first_deaths": 2,
+                    "first_kills_diff": 4
+                },
+                {
+                    "id": "3993",
+                    "name": "jawgemo",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.6,
+                    "acs": 113,
+                    "kills": 8,
+                    "deaths": 16,
+                    "assists": 4,
+                    "kast": 67,
+                    "adr": 89,
+                    "headshot_percent": 13,
+                    "first_kills": 1,
+                    "first_deaths": 4,
+                    "first_kills_diff": -3
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "3-1",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "4-1",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "4-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "5-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "6-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "7-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "8-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "9-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "10-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "10-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "10-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "10-5",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "10-6",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "10-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "11-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "11-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "11-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "11-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "11-11",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 23,
+                    "round_score": "11-12",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 24,
+                    "round_score": "11-13",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Sunset",
+            "teams": [
+                {
+                    "name": "Sentinels",
+                    "score": 10
+                },
+                {
+                    "name": "Evil Geniuses",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "4004",
+                    "name": "zekken",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.2,
+                    "acs": 305,
+                    "kills": 23,
+                    "deaths": 20,
+                    "assists": 1,
+                    "kast": 70,
+                    "adr": 204,
+                    "headshot_percent": 24,
+                    "first_kills": 7,
+                    "first_deaths": 2,
+                    "first_kills_diff": 5
+                },
+                {
+                    "id": "729",
+                    "name": "Zellsis",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 1.06,
+                    "acs": 185,
+                    "kills": 15,
+                    "deaths": 16,
+                    "assists": 16,
+                    "kast": 61,
+                    "adr": 119,
+                    "headshot_percent": 27,
+                    "first_kills": 0,
+                    "first_deaths": 4,
+                    "first_kills_diff": -4
+                },
+                {
+                    "id": "1265",
+                    "name": "johnqt",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 1.01,
+                    "acs": 211,
+                    "kills": 19,
+                    "deaths": 16,
+                    "assists": 8,
+                    "kast": 74,
+                    "adr": 120,
+                    "headshot_percent": 21,
+                    "first_kills": 1,
+                    "first_deaths": 3,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "9",
+                    "name": "TenZ",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.96,
+                    "acs": 215,
+                    "kills": 17,
+                    "deaths": 18,
+                    "assists": 12,
+                    "kast": 83,
+                    "adr": 121,
+                    "headshot_percent": 35,
+                    "first_kills": 3,
+                    "first_deaths": 2,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "659",
+                    "name": "Sacy",
+                    "team": "Sentinels",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.62,
+                    "acs": 131,
+                    "kills": 9,
+                    "deaths": 17,
+                    "assists": 11,
+                    "kast": 70,
+                    "adr": 101,
+                    "headshot_percent": 20,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "3993",
+                    "name": "jawgemo",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.27,
+                    "acs": 262,
+                    "kills": 22,
+                    "deaths": 16,
+                    "assists": 3,
+                    "kast": 78,
+                    "adr": 167,
+                    "headshot_percent": 27,
+                    "first_kills": 6,
+                    "first_deaths": 3,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "826",
+                    "name": "supamen",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.1,
+                    "acs": 221,
+                    "kills": 20,
+                    "deaths": 17,
+                    "assists": 6,
+                    "kast": 74,
+                    "adr": 137,
+                    "headshot_percent": 44,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "1533",
+                    "name": "Derrek",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 0.99,
+                    "acs": 213,
+                    "kills": 18,
+                    "deaths": 18,
+                    "assists": 8,
+                    "kast": 74,
+                    "adr": 147,
+                    "headshot_percent": 33,
+                    "first_kills": 2,
+                    "first_deaths": 0,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "4927",
+                    "name": "NaturE",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Breach",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/breach.png"
+                        }
+                    ],
+                    "rating": 0.98,
+                    "acs": 166,
+                    "kills": 15,
+                    "deaths": 15,
+                    "assists": 11,
+                    "kast": 78,
+                    "adr": 119,
+                    "headshot_percent": 34,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "5188",
+                    "name": "Apoth",
+                    "team": "Evil Geniuses",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 0.71,
+                    "acs": 164,
+                    "kills": 12,
+                    "deaths": 17,
+                    "assists": 2,
+                    "kast": 52,
+                    "adr": 107,
+                    "headshot_percent": 33,
+                    "first_kills": 2,
+                    "first_deaths": 5,
+                    "first_kills_diff": -3
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "0-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "1-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "1-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "2-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "3-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "3-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "4-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "5-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "5-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "5-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "6-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "6-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "6-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "7-8",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "7-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "7-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "7-11",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "8-11",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "8-12",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "9-12",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "10-12",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 23,
+                    "round_score": "10-13",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "Sentinels",
+                    "score": 0
+                },
+                {
+                    "name": "Evil Geniuses",
+                    "score": 2
+                }
+            ],
+            "match_id": "183807"
+        },
+        {
+            "teams": [
+                {
+                    "name": "Sentinels",
+                    "score": 0
+                },
+                {
+                    "name": "Evil Geniuses",
+                    "score": 2
+                }
+            ],
+            "match_id": "99695"
+        },
+        {
+            "teams": [
+                {
+                    "name": "Sentinels",
+                    "score": 2
+                },
+                {
+                    "name": "Evil Geniuses",
+                    "score": 0
+                }
+            ],
+            "match_id": "24004"
+        }
+    ]
+}

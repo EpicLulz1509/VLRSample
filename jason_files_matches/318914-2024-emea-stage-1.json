@@ -1,0 +1,834 @@
+{
+    "teams": [
+        {
+            "name": "Team Vitality",
+            "score": 0,
+            "img": "https://owcdn.net/img/6466d79e1ed40.png",
+            "id": "2059"
+        },
+        {
+            "name": "Natus Vincere",
+            "score": 2,
+            "img": "https://owcdn.net/img/62a4109ddbd7f.png",
+            "id": "4915"
+        }
+    ],
+    "bans": [
+        "NAVI ban Sunset",
+        "VIT ban Ascent",
+        "NAVI pick Bind",
+        "VIT pick Lotus",
+        "NAVI ban Breeze",
+        "VIT ban Split",
+        "Icebox remains"
+    ],
+    "event": {
+        "id": "1998",
+        "img": "https://owcdn.net/img/65ab59620a233.png",
+        "series": "Champions Tour 2024: EMEA Stage 1",
+        "stage": "Regular Season: Week 1",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "Valorant EMEA",
+                "url": "https://www.twitch.tv/valorant_emea"
+            },
+            {
+                "name": "VCT EMEA (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsEMEA/live"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/5b2in4XQYcU?list=PLTlFZO3kdyGCRN24RN-shqG__nPjkdast&t=1146"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/VGMjvR3wxYk?list=PLTlFZO3kdyGCRN24RN-shqG__nPjkdast&t=330"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Bind",
+            "teams": [
+                {
+                    "name": "Team Vitality",
+                    "score": 9
+                },
+                {
+                    "name": "Natus Vincere",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "312",
+                    "name": "Sayf",
+                    "team": "Team Vitality",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 1.21,
+                    "acs": 212,
+                    "kills": 17,
+                    "deaths": 13,
+                    "assists": 6,
+                    "kast": 73,
+                    "adr": 130,
+                    "headshot_percent": 37,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "21610",
+                    "name": "runneR",
+                    "team": "Team Vitality",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.12,
+                    "acs": 273,
+                    "kills": 19,
+                    "deaths": 15,
+                    "assists": 4,
+                    "kast": 68,
+                    "adr": 171,
+                    "headshot_percent": 24,
+                    "first_kills": 4,
+                    "first_deaths": 5,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "2168",
+                    "name": "trexx",
+                    "team": "Team Vitality",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.98,
+                    "acs": 207,
+                    "kills": 13,
+                    "deaths": 16,
+                    "assists": 9,
+                    "kast": 82,
+                    "adr": 149,
+                    "headshot_percent": 30,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "4321",
+                    "name": "ceNder",
+                    "team": "Team Vitality",
+                    "agents": [
+                        {
+                            "title": "Brimstone",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/brimstone.png"
+                        }
+                    ],
+                    "rating": 0.93,
+                    "acs": 169,
+                    "kills": 14,
+                    "deaths": 14,
+                    "assists": 7,
+                    "kast": 68,
+                    "adr": 118,
+                    "headshot_percent": 44,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "11134",
+                    "name": "Kicks",
+                    "team": "Team Vitality",
+                    "agents": [
+                        {
+                            "title": "Deadlock",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/deadlock.png"
+                        }
+                    ],
+                    "rating": 0.76,
+                    "acs": 132,
+                    "kills": 12,
+                    "deaths": 16,
+                    "assists": 7,
+                    "kast": 77,
+                    "adr": 73,
+                    "headshot_percent": 13,
+                    "first_kills": 1,
+                    "first_deaths": 3,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "109",
+                    "name": "ANGE1",
+                    "team": "Natus Vincere",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 1.6,
+                    "acs": 307,
+                    "kills": 25,
+                    "deaths": 15,
+                    "assists": 5,
+                    "kast": 77,
+                    "adr": 190,
+                    "headshot_percent": 43,
+                    "first_kills": 4,
+                    "first_deaths": 1,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "384",
+                    "name": "Shao",
+                    "team": "Natus Vincere",
+                    "agents": [
+                        {
+                            "title": "Brimstone",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/brimstone.png"
+                        }
+                    ],
+                    "rating": 1.25,
+                    "acs": 157,
+                    "kills": 13,
+                    "deaths": 9,
+                    "assists": 8,
+                    "kast": 82,
+                    "adr": 101,
+                    "headshot_percent": 26,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "2858",
+                    "name": "SUYGETSU",
+                    "team": "Natus Vincere",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.9,
+                    "acs": 127,
+                    "kills": 11,
+                    "deaths": 13,
+                    "assists": 7,
+                    "kast": 77,
+                    "adr": 97,
+                    "headshot_percent": 41,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "98",
+                    "name": "ardiis",
+                    "team": "Natus Vincere",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.75,
+                    "acs": 179,
+                    "kills": 13,
+                    "deaths": 19,
+                    "assists": 11,
+                    "kast": 64,
+                    "adr": 125,
+                    "headshot_percent": 26,
+                    "first_kills": 4,
+                    "first_deaths": 4,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "11",
+                    "name": "Zyppan",
+                    "team": "Natus Vincere",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.52,
+                    "acs": 156,
+                    "kills": 12,
+                    "deaths": 19,
+                    "assists": 4,
+                    "kast": 73,
+                    "adr": 103,
+                    "headshot_percent": 22,
+                    "first_kills": 4,
+                    "first_deaths": 3,
+                    "first_kills_diff": 1
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "3-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "4-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "4-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "4-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "4-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "4-5",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "4-6",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "5-6",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "5-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "5-8",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "5-9",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "5-10",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "5-11",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "5-12",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "6-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "7-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "8-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "9-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "9-13",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                }
+            ]
+        },
+        {
+            "map": "Lotus",
+            "teams": [
+                {
+                    "name": "Team Vitality",
+                    "score": 4
+                },
+                {
+                    "name": "Natus Vincere",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "21610",
+                    "name": "runneR",
+                    "team": "Team Vitality",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.18,
+                    "acs": 275,
+                    "kills": 17,
+                    "deaths": 14,
+                    "assists": 1,
+                    "kast": 71,
+                    "adr": 152,
+                    "headshot_percent": 10,
+                    "first_kills": 4,
+                    "first_deaths": 2,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "312",
+                    "name": "Sayf",
+                    "team": "Team Vitality",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.97,
+                    "acs": 190,
+                    "kills": 11,
+                    "deaths": 12,
+                    "assists": 3,
+                    "kast": 76,
+                    "adr": 124,
+                    "headshot_percent": 38,
+                    "first_kills": 0,
+                    "first_deaths": 2,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "11134",
+                    "name": "Kicks",
+                    "team": "Team Vitality",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.71,
+                    "acs": 165,
+                    "kills": 9,
+                    "deaths": 13,
+                    "assists": 2,
+                    "kast": 59,
+                    "adr": 114,
+                    "headshot_percent": 18,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "2168",
+                    "name": "trexx",
+                    "team": "Team Vitality",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 0.53,
+                    "acs": 127,
+                    "kills": 6,
+                    "deaths": 13,
+                    "assists": 8,
+                    "kast": 65,
+                    "adr": 78,
+                    "headshot_percent": 18,
+                    "first_kills": 1,
+                    "first_deaths": 3,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "4321",
+                    "name": "ceNder",
+                    "team": "Team Vitality",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.2,
+                    "acs": 61,
+                    "kills": 2,
+                    "deaths": 14,
+                    "assists": 4,
+                    "kast": 41,
+                    "adr": 40,
+                    "headshot_percent": 40,
+                    "first_kills": 0,
+                    "first_deaths": 3,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "384",
+                    "name": "Shao",
+                    "team": "Natus Vincere",
+                    "agents": [
+                        {
+                            "title": "Brimstone",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/brimstone.png"
+                        }
+                    ],
+                    "rating": 1.67,
+                    "acs": 260,
+                    "kills": 17,
+                    "deaths": 7,
+                    "assists": 3,
+                    "kast": 82,
+                    "adr": 182,
+                    "headshot_percent": 39,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "11",
+                    "name": "Zyppan",
+                    "team": "Natus Vincere",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.45,
+                    "acs": 267,
+                    "kills": 16,
+                    "deaths": 10,
+                    "assists": 4,
+                    "kast": 88,
+                    "adr": 199,
+                    "headshot_percent": 26,
+                    "first_kills": 3,
+                    "first_deaths": 0,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "2858",
+                    "name": "SUYGETSU",
+                    "team": "Natus Vincere",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 1.36,
+                    "acs": 247,
+                    "kills": 17,
+                    "deaths": 9,
+                    "assists": 1,
+                    "kast": 82,
+                    "adr": 153,
+                    "headshot_percent": 38,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "98",
+                    "name": "ardiis",
+                    "team": "Natus Vincere",
+                    "agents": [
+                        {
+                            "title": "Breach",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/breach.png"
+                        }
+                    ],
+                    "rating": 1.11,
+                    "acs": 121,
+                    "kills": 7,
+                    "deaths": 7,
+                    "assists": 10,
+                    "kast": 76,
+                    "adr": 73,
+                    "headshot_percent": 19,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "109",
+                    "name": "ANGE1",
+                    "team": "Natus Vincere",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.64,
+                    "acs": 143,
+                    "kills": 9,
+                    "deaths": 12,
+                    "assists": 5,
+                    "kast": 71,
+                    "adr": 96,
+                    "headshot_percent": 45,
+                    "first_kills": 3,
+                    "first_deaths": 2,
+                    "first_kills_diff": 1
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "2-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "2-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "2-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "2-5",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "3-5",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "3-6",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "3-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "3-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "3-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "4-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "4-10",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "4-11",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "4-12",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "4-13",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "Team Vitality",
+                    "score": 0
+                },
+                {
+                    "name": "Natus Vincere",
+                    "score": 2
+                }
+            ],
+            "match_id": "184046"
+        },
+        {
+            "teams": [
+                {
+                    "name": "Team Vitality",
+                    "score": 0
+                },
+                {
+                    "name": "Natus Vincere",
+                    "score": 2
+                }
+            ],
+            "match_id": "159029"
+        }
+    ]
+}

@@ -1,0 +1,843 @@
+{
+    "teams": [
+        {
+            "name": "Bilibili Gaming",
+            "score": 2,
+            "img": "https://owcdn.net/img/63f25d72216c1.png",
+            "id": "12010"
+        },
+        {
+            "name": "Wolves Esports",
+            "score": 0,
+            "img": "https://owcdn.net/img/651d33f8e6a1f.png",
+            "id": "13790"
+        }
+    ],
+    "bans": [
+        "WOL ban Lotus",
+        "BLG ban Breeze",
+        "WOL pick Sunset",
+        "BLG pick Bind",
+        "WOL ban Ascent",
+        "BLG ban Icebox",
+        "Split remains"
+    ],
+    "event": {
+        "id": "2096",
+        "img": "https://owcdn.net/img/65dd97cea9a25.png",
+        "series": "Champions Tour 2024: China Stage 2",
+        "stage": "Regular Season: Week 1",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "Valorant Esports CN",
+                "url": "https://www.twitch.tv/valorantesports_cn"
+            },
+            {
+                "name": "VAL Esports CN (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsCN/live"
+            },
+            {
+                "name": "VCT (Bilibili)",
+                "url": "https://live.bilibili.com/22908869"
+            },
+            {
+                "name": "VCT (Douyu)",
+                "url": "https://www.douyu.com/602"
+            },
+            {
+                "name": "VCT (Huya)",
+                "url": "https://www.huya.com/660679"
+            },
+            {
+                "name": "VCT (QQ)",
+                "url": "https://val.qq.com/act/a20230418esports/live.html?gameId=1"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/gJYp4gkWB04?t=12183"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/gJYp4gkWB04?t=15486"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Sunset",
+            "teams": [
+                {
+                    "name": "Bilibili Gaming",
+                    "score": 13
+                },
+                {
+                    "name": "Wolves Esports",
+                    "score": 5
+                }
+            ],
+            "members": [
+                {
+                    "id": "4705",
+                    "name": "Flex1n",
+                    "team": "Bilibili Gaming",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 327,
+                    "kills": 21,
+                    "deaths": 6,
+                    "assists": 12,
+                    "kast": 0,
+                    "adr": 203,
+                    "headshot_percent": 31,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "6022",
+                    "name": "yosemite",
+                    "team": "Bilibili Gaming",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 229,
+                    "kills": 15,
+                    "deaths": 12,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 169,
+                    "headshot_percent": 23,
+                    "first_kills": 3,
+                    "first_deaths": 2,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "10698",
+                    "name": "nephh",
+                    "team": "Bilibili Gaming",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 211,
+                    "kills": 14,
+                    "deaths": 9,
+                    "assists": 7,
+                    "kast": 0,
+                    "adr": 140,
+                    "headshot_percent": 26,
+                    "first_kills": 1,
+                    "first_deaths": 0,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "4774",
+                    "name": "Knight",
+                    "team": "Bilibili Gaming",
+                    "agents": [
+                        {
+                            "title": "Sage",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sage.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 196,
+                    "kills": 15,
+                    "deaths": 13,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 149,
+                    "headshot_percent": 43,
+                    "first_kills": 1,
+                    "first_deaths": 0,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "4885",
+                    "name": "whzy",
+                    "team": "Bilibili Gaming",
+                    "agents": [
+                        {
+                            "title": "Chamber",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/chamber.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 139,
+                    "kills": 10,
+                    "deaths": 13,
+                    "assists": 1,
+                    "kast": 0,
+                    "adr": 89,
+                    "headshot_percent": 32,
+                    "first_kills": 4,
+                    "first_deaths": 3,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "14125",
+                    "name": "Spring",
+                    "team": "Wolves Esports",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 232,
+                    "kills": 13,
+                    "deaths": 18,
+                    "assists": 5,
+                    "kast": 0,
+                    "adr": 147,
+                    "headshot_percent": 20,
+                    "first_kills": 2,
+                    "first_deaths": 6,
+                    "first_kills_diff": -4
+                },
+                {
+                    "id": "11218",
+                    "name": "Yuicaw",
+                    "team": "Wolves Esports",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 191,
+                    "kills": 12,
+                    "deaths": 15,
+                    "assists": 2,
+                    "kast": 0,
+                    "adr": 115,
+                    "headshot_percent": 41,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "871",
+                    "name": "pl1xx",
+                    "team": "Wolves Esports",
+                    "agents": [
+                        {
+                            "title": "Sage",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sage.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 168,
+                    "kills": 11,
+                    "deaths": 16,
+                    "assists": 1,
+                    "kast": 0,
+                    "adr": 105,
+                    "headshot_percent": 67,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "14441",
+                    "name": "aluba",
+                    "team": "Wolves Esports",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 158,
+                    "kills": 9,
+                    "deaths": 14,
+                    "assists": 5,
+                    "kast": 0,
+                    "adr": 104,
+                    "headshot_percent": 32,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "7849",
+                    "name": "SiuFatBB",
+                    "team": "Wolves Esports",
+                    "agents": [
+                        {
+                            "title": "Breach",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/breach.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 131,
+                    "kills": 8,
+                    "deaths": 12,
+                    "assists": 6,
+                    "kast": 0,
+                    "adr": 86,
+                    "headshot_percent": 32,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "3-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "4-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "5-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "6-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "7-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "8-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "8-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "8-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "9-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "10-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "11-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "11-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "11-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "12-5",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "13-5",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Bind",
+            "teams": [
+                {
+                    "name": "Bilibili Gaming",
+                    "score": 13
+                },
+                {
+                    "name": "Wolves Esports",
+                    "score": 7
+                }
+            ],
+            "members": [
+                {
+                    "id": "6022",
+                    "name": "yosemite",
+                    "team": "Bilibili Gaming",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 250,
+                    "kills": 18,
+                    "deaths": 11,
+                    "assists": 6,
+                    "kast": 0,
+                    "adr": 161,
+                    "headshot_percent": 29,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "10698",
+                    "name": "nephh",
+                    "team": "Bilibili Gaming",
+                    "agents": [
+                        {
+                            "title": "Skye",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/skye.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 228,
+                    "kills": 15,
+                    "deaths": 15,
+                    "assists": 10,
+                    "kast": 0,
+                    "adr": 160,
+                    "headshot_percent": 29,
+                    "first_kills": 4,
+                    "first_deaths": 0,
+                    "first_kills_diff": 4
+                },
+                {
+                    "id": "4885",
+                    "name": "whzy",
+                    "team": "Bilibili Gaming",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 216,
+                    "kills": 15,
+                    "deaths": 15,
+                    "assists": 6,
+                    "kast": 0,
+                    "adr": 153,
+                    "headshot_percent": 10,
+                    "first_kills": 4,
+                    "first_deaths": 1,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "4705",
+                    "name": "Flex1n",
+                    "team": "Bilibili Gaming",
+                    "agents": [
+                        {
+                            "title": "Brimstone",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/brimstone.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 206,
+                    "kills": 17,
+                    "deaths": 14,
+                    "assists": 15,
+                    "kast": 0,
+                    "adr": 111,
+                    "headshot_percent": 19,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "4774",
+                    "name": "Knight",
+                    "team": "Bilibili Gaming",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 187,
+                    "kills": 13,
+                    "deaths": 15,
+                    "assists": 5,
+                    "kast": 0,
+                    "adr": 125,
+                    "headshot_percent": 23,
+                    "first_kills": 1,
+                    "first_deaths": 3,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "11218",
+                    "name": "Yuicaw",
+                    "team": "Wolves Esports",
+                    "agents": [
+                        {
+                            "title": "Brimstone",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/brimstone.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 297,
+                    "kills": 22,
+                    "deaths": 16,
+                    "assists": 6,
+                    "kast": 0,
+                    "adr": 187,
+                    "headshot_percent": 35,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "14125",
+                    "name": "Spring",
+                    "team": "Wolves Esports",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 202,
+                    "kills": 12,
+                    "deaths": 16,
+                    "assists": 7,
+                    "kast": 0,
+                    "adr": 144,
+                    "headshot_percent": 26,
+                    "first_kills": 3,
+                    "first_deaths": 9,
+                    "first_kills_diff": -6
+                },
+                {
+                    "id": "871",
+                    "name": "pl1xx",
+                    "team": "Wolves Esports",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 187,
+                    "kills": 12,
+                    "deaths": 17,
+                    "assists": 6,
+                    "kast": 0,
+                    "adr": 127,
+                    "headshot_percent": 23,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "14441",
+                    "name": "aluba",
+                    "team": "Wolves Esports",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 175,
+                    "kills": 11,
+                    "deaths": 15,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 116,
+                    "headshot_percent": 21,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "7849",
+                    "name": "SiuFatBB",
+                    "team": "Wolves Esports",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 146,
+                    "kills": 12,
+                    "deaths": 14,
+                    "assists": 5,
+                    "kast": 0,
+                    "adr": 105,
+                    "headshot_percent": 29,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "3-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "4-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "5-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "6-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "7-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "8-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "8-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "9-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "9-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "9-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "10-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "11-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "11-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "12-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "12-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "12-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "12-7",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "13-7",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "Bilibili Gaming",
+                    "score": 2
+                },
+                {
+                    "name": "Wolves Esports",
+                    "score": 0
+                }
+            ],
+            "match_id": "298699"
+        },
+        {
+            "teams": [
+                {
+                    "name": "Bilibili Gaming",
+                    "score": 0
+                },
+                {
+                    "name": "Wolves Esports",
+                    "score": 2
+                }
+            ],
+            "match_id": "298697"
+        }
+    ]
+}

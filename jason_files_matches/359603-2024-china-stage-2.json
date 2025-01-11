@@ -1,0 +1,927 @@
+{
+    "teams": [
+        {
+            "name": "Titan Esports Club",
+            "score": 0,
+            "img": "https://owcdn.net/img/65487414b8562.png",
+            "id": "14137"
+        },
+        {
+            "name": "JDG Esports",
+            "score": 2,
+            "img": "https://owcdn.net/img/64f9825408326.png",
+            "id": "13576"
+        }
+    ],
+    "bans": [
+        "JDG ban Breeze",
+        "TEC ban Bind",
+        "JDG pick Icebox",
+        "TEC pick Lotus",
+        "JDG ban Split",
+        "TEC ban Sunset",
+        "Ascent remains"
+    ],
+    "event": {
+        "id": "2096",
+        "img": "https://owcdn.net/img/65dd97cea9a25.png",
+        "series": "Champions Tour 2024: China Stage 2",
+        "stage": "Regular Season: Week 1",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "Valorant Esports CN",
+                "url": "https://www.twitch.tv/valorantesports_cn"
+            },
+            {
+                "name": "VAL Esports CN (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsCN/live"
+            },
+            {
+                "name": "VCT (Bilibili)",
+                "url": "https://live.bilibili.com/22908869"
+            },
+            {
+                "name": "VCT (Douyu)",
+                "url": "https://www.douyu.com/602"
+            },
+            {
+                "name": "VCT (Huya)",
+                "url": "https://www.huya.com/660679"
+            },
+            {
+                "name": "VCT (QQ)",
+                "url": "https://val.qq.com/act/a20230418esports/live.html?gameId=1"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/VqIeCSasfqk?t=855"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/VqIeCSasfqk?t=5323"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Icebox",
+            "teams": [
+                {
+                    "name": "Titan Esports Club",
+                    "score": 12
+                },
+                {
+                    "name": "JDG Esports",
+                    "score": 14
+                }
+            ],
+            "members": [
+                {
+                    "id": "5011",
+                    "name": "Abo",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 295,
+                    "kills": 28,
+                    "deaths": 21,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 192,
+                    "headshot_percent": 22,
+                    "first_kills": 7,
+                    "first_deaths": 5,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "14445",
+                    "name": "AC",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 196,
+                    "kills": 18,
+                    "deaths": 19,
+                    "assists": 12,
+                    "kast": 0,
+                    "adr": 124,
+                    "headshot_percent": 19,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "4778",
+                    "name": "kawaii",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 190,
+                    "kills": 18,
+                    "deaths": 16,
+                    "assists": 6,
+                    "kast": 0,
+                    "adr": 132,
+                    "headshot_percent": 31,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "488",
+                    "name": "Rb",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 156,
+                    "kills": 14,
+                    "deaths": 20,
+                    "assists": 14,
+                    "kast": 0,
+                    "adr": 91,
+                    "headshot_percent": 28,
+                    "first_kills": 1,
+                    "first_deaths": 5,
+                    "first_kills_diff": -4
+                },
+                {
+                    "id": "25339",
+                    "name": "LockM",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 117,
+                    "kills": 10,
+                    "deaths": 20,
+                    "assists": 6,
+                    "kast": 0,
+                    "adr": 87,
+                    "headshot_percent": 21,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "16924",
+                    "name": "stew",
+                    "team": "JDG Esports",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 295,
+                    "kills": 27,
+                    "deaths": 16,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 194,
+                    "headshot_percent": 16,
+                    "first_kills": 5,
+                    "first_deaths": 3,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "3519",
+                    "name": "jkuro",
+                    "team": "JDG Esports",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 247,
+                    "kills": 22,
+                    "deaths": 20,
+                    "assists": 3,
+                    "kast": 0,
+                    "adr": 162,
+                    "headshot_percent": 27,
+                    "first_kills": 5,
+                    "first_deaths": 3,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "10486",
+                    "name": "YHchen",
+                    "team": "JDG Esports",
+                    "agents": [
+                        {
+                            "title": "Deadlock",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/deadlock.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 184,
+                    "kills": 19,
+                    "deaths": 18,
+                    "assists": 5,
+                    "kast": 0,
+                    "adr": 116,
+                    "headshot_percent": 42,
+                    "first_kills": 0,
+                    "first_deaths": 2,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "41029",
+                    "name": "Z1yan",
+                    "team": "JDG Esports",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 167,
+                    "kills": 14,
+                    "deaths": 18,
+                    "assists": 14,
+                    "kast": 0,
+                    "adr": 104,
+                    "headshot_percent": 30,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "36415",
+                    "name": "Viva",
+                    "team": "JDG Esports",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 163,
+                    "kills": 14,
+                    "deaths": 16,
+                    "assists": 11,
+                    "kast": 0,
+                    "adr": 103,
+                    "headshot_percent": 44,
+                    "first_kills": 1,
+                    "first_deaths": 4,
+                    "first_kills_diff": -3
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "2-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "2-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "2-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "3-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "3-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "3-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "4-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "4-7",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "4-8",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "5-8",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "6-8",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "6-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "7-9",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "8-9",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "8-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "9-10",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "10-10",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "10-11",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "11-11",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 23,
+                    "round_score": "11-12",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 24,
+                    "round_score": "12-12",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 25,
+                    "round_score": "12-13",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 26,
+                    "round_score": "12-14",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Lotus",
+            "teams": [
+                {
+                    "name": "Titan Esports Club",
+                    "score": 11
+                },
+                {
+                    "name": "JDG Esports",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "488",
+                    "name": "Rb",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 251,
+                    "kills": 21,
+                    "deaths": 16,
+                    "assists": 3,
+                    "kast": 0,
+                    "adr": 168,
+                    "headshot_percent": 17,
+                    "first_kills": 4,
+                    "first_deaths": 4,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "5011",
+                    "name": "Abo",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 241,
+                    "kills": 21,
+                    "deaths": 14,
+                    "assists": 5,
+                    "kast": 0,
+                    "adr": 154,
+                    "headshot_percent": 40,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "4778",
+                    "name": "kawaii",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 190,
+                    "kills": 16,
+                    "deaths": 18,
+                    "assists": 5,
+                    "kast": 0,
+                    "adr": 124,
+                    "headshot_percent": 43,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "14445",
+                    "name": "AC",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 187,
+                    "kills": 17,
+                    "deaths": 16,
+                    "assists": 5,
+                    "kast": 0,
+                    "adr": 108,
+                    "headshot_percent": 34,
+                    "first_kills": 1,
+                    "first_deaths": 4,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "25339",
+                    "name": "LockM",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 107,
+                    "kills": 8,
+                    "deaths": 16,
+                    "assists": 7,
+                    "kast": 0,
+                    "adr": 64,
+                    "headshot_percent": 44,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "16924",
+                    "name": "stew",
+                    "team": "JDG Esports",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 246,
+                    "kills": 22,
+                    "deaths": 17,
+                    "assists": 3,
+                    "kast": 0,
+                    "adr": 160,
+                    "headshot_percent": 23,
+                    "first_kills": 5,
+                    "first_deaths": 4,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "3519",
+                    "name": "jkuro",
+                    "team": "JDG Esports",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 182,
+                    "kills": 14,
+                    "deaths": 17,
+                    "assists": 8,
+                    "kast": 0,
+                    "adr": 141,
+                    "headshot_percent": 16,
+                    "first_kills": 2,
+                    "first_deaths": 4,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "41029",
+                    "name": "Z1yan",
+                    "team": "JDG Esports",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 176,
+                    "kills": 15,
+                    "deaths": 18,
+                    "assists": 10,
+                    "kast": 0,
+                    "adr": 124,
+                    "headshot_percent": 38,
+                    "first_kills": 4,
+                    "first_deaths": 1,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "10486",
+                    "name": "YHchen",
+                    "team": "JDG Esports",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 171,
+                    "kills": 16,
+                    "deaths": 16,
+                    "assists": 6,
+                    "kast": 0,
+                    "adr": 114,
+                    "headshot_percent": 42,
+                    "first_kills": 1,
+                    "first_deaths": 0,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "36415",
+                    "name": "Viva",
+                    "team": "JDG Esports",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 154,
+                    "kills": 13,
+                    "deaths": 15,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 120,
+                    "headshot_percent": 21,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "0-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "0-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "0-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "1-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "1-5",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "1-6",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "1-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "2-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "2-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "2-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "3-9",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "4-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "5-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "5-10",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "5-11",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "6-11",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "6-12",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "7-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "8-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "9-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "10-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 23,
+                    "round_score": "11-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 24,
+                    "round_score": "11-13",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "Titan Esports Club",
+                    "score": 2
+                },
+                {
+                    "name": "JDG Esports",
+                    "score": 1
+                }
+            ],
+            "match_id": "298696"
+        },
+        {
+            "teams": [
+                {
+                    "name": "Titan Esports Club",
+                    "score": 2
+                },
+                {
+                    "name": "JDG Esports",
+                    "score": 0
+                }
+            ],
+            "match_id": "298692"
+        }
+    ]
+}

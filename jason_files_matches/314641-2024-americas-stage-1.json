@@ -1,0 +1,830 @@
+{
+    "teams": [
+        {
+            "name": "NRG Esports",
+            "score": 2,
+            "img": "https://owcdn.net/img/6610f026c1a9e.png",
+            "id": "1034"
+        },
+        {
+            "name": "MIBR",
+            "score": 0,
+            "img": "https://owcdn.net/img/632be7626d6d9.png",
+            "id": "7386"
+        }
+    ],
+    "bans": [
+        "MIBR ban Ascent",
+        "NRG ban Icebox",
+        "MIBR pick Split",
+        "NRG pick Breeze",
+        "MIBR ban Lotus",
+        "NRG ban Bind",
+        "Sunset remains"
+    ],
+    "event": {
+        "id": "2004",
+        "img": "https://owcdn.net/img/640f5ab71dfbb.png",
+        "series": "Champions Tour 2024: Americas Stage 1",
+        "stage": "Regular Season: Week 3",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "VCT Americas",
+                "url": "https://www.twitch.tv/valorant_americas"
+            },
+            {
+                "name": "Valorant Brazil",
+                "url": "https://www.twitch.tv/valorant_br"
+            },
+            {
+                "name": "Valorant LATAM",
+                "url": "https://www.twitch.tv/valorant_la"
+            },
+            {
+                "name": "VCT Americas (YT)",
+                "url": "https://www.youtube.com/@valorant_americas/live"
+            },
+            {
+                "name": "VAL Esports BR (YT)",
+                "url": "https://www.youtube.com/@valorantesportsbr/live"
+            },
+            {
+                "name": "VAL Esports LA (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/gdI17sIyqNA?t=1168"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/I32oS7TjOFI?t=639"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Split",
+            "teams": [
+                {
+                    "name": "NRG Esports",
+                    "score": 13
+                },
+                {
+                    "name": "MIBR",
+                    "score": 9
+                }
+            ],
+            "members": [
+                {
+                    "id": "261",
+                    "name": "Victor",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.48,
+                    "acs": 329,
+                    "kills": 26,
+                    "deaths": 16,
+                    "assists": 4,
+                    "kast": 73,
+                    "adr": 219,
+                    "headshot_percent": 31,
+                    "first_kills": 0,
+                    "first_deaths": 2,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "11225",
+                    "name": "Ethan",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.06,
+                    "acs": 199,
+                    "kills": 15,
+                    "deaths": 13,
+                    "assists": 11,
+                    "kast": 91,
+                    "adr": 138,
+                    "headshot_percent": 20,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "4",
+                    "name": "crashies",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Skye",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/skye.png"
+                        }
+                    ],
+                    "rating": 0.89,
+                    "acs": 153,
+                    "kills": 13,
+                    "deaths": 13,
+                    "assists": 3,
+                    "kast": 59,
+                    "adr": 84,
+                    "headshot_percent": 28,
+                    "first_kills": 3,
+                    "first_deaths": 2,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "26171",
+                    "name": "Demon1",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 0.86,
+                    "acs": 184,
+                    "kills": 14,
+                    "deaths": 17,
+                    "assists": 4,
+                    "kast": 73,
+                    "adr": 116,
+                    "headshot_percent": 26,
+                    "first_kills": 3,
+                    "first_deaths": 3,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "263",
+                    "name": "Marved",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.81,
+                    "acs": 160,
+                    "kills": 11,
+                    "deaths": 14,
+                    "assists": 7,
+                    "kast": 68,
+                    "adr": 113,
+                    "headshot_percent": 24,
+                    "first_kills": 1,
+                    "first_deaths": 5,
+                    "first_kills_diff": -4
+                },
+                {
+                    "id": "5957",
+                    "name": "artzin",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.41,
+                    "acs": 289,
+                    "kills": 20,
+                    "deaths": 17,
+                    "assists": 8,
+                    "kast": 82,
+                    "adr": 193,
+                    "headshot_percent": 31,
+                    "first_kills": 4,
+                    "first_deaths": 1,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "651",
+                    "name": "frz",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.99,
+                    "acs": 180,
+                    "kills": 13,
+                    "deaths": 15,
+                    "assists": 9,
+                    "kast": 73,
+                    "adr": 118,
+                    "headshot_percent": 27,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "13093",
+                    "name": "jzz",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.96,
+                    "acs": 227,
+                    "kills": 17,
+                    "deaths": 17,
+                    "assists": 4,
+                    "kast": 73,
+                    "adr": 147,
+                    "headshot_percent": 16,
+                    "first_kills": 7,
+                    "first_deaths": 3,
+                    "first_kills_diff": 4
+                },
+                {
+                    "id": "5351",
+                    "name": "RgLMeister",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Astra",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/astra.png"
+                        }
+                    ],
+                    "rating": 0.76,
+                    "acs": 137,
+                    "kills": 11,
+                    "deaths": 15,
+                    "assists": 7,
+                    "kast": 55,
+                    "adr": 81,
+                    "headshot_percent": 15,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "8872",
+                    "name": "mazin",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Skye",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/skye.png"
+                        }
+                    ],
+                    "rating": 0.75,
+                    "acs": 123,
+                    "kills": 12,
+                    "deaths": 15,
+                    "assists": 4,
+                    "kast": 59,
+                    "adr": 80,
+                    "headshot_percent": 24,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "0-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "1-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "1-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "2-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "3-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "4-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "4-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "5-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "6-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "7-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "7-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "8-5",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "9-5",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "9-6",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "9-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "9-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "10-8",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "11-8",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "12-8",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "12-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "13-9",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                }
+            ]
+        },
+        {
+            "map": "Breeze",
+            "teams": [
+                {
+                    "name": "NRG Esports",
+                    "score": 13
+                },
+                {
+                    "name": "MIBR",
+                    "score": 3
+                }
+            ],
+            "members": [
+                {
+                    "id": "11225",
+                    "name": "Ethan",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Yoru",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/yoru.png"
+                        }
+                    ],
+                    "rating": 1.65,
+                    "acs": 289,
+                    "kills": 19,
+                    "deaths": 6,
+                    "assists": 2,
+                    "kast": 81,
+                    "adr": 190,
+                    "headshot_percent": 24,
+                    "first_kills": 1,
+                    "first_deaths": 3,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "261",
+                    "name": "Victor",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 1.5,
+                    "acs": 231,
+                    "kills": 14,
+                    "deaths": 5,
+                    "assists": 4,
+                    "kast": 88,
+                    "adr": 141,
+                    "headshot_percent": 43,
+                    "first_kills": 3,
+                    "first_deaths": 0,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "4",
+                    "name": "crashies",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 1.43,
+                    "acs": 249,
+                    "kills": 16,
+                    "deaths": 8,
+                    "assists": 4,
+                    "kast": 81,
+                    "adr": 164,
+                    "headshot_percent": 24,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "263",
+                    "name": "Marved",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.33,
+                    "acs": 233,
+                    "kills": 15,
+                    "deaths": 7,
+                    "assists": 4,
+                    "kast": 81,
+                    "adr": 156,
+                    "headshot_percent": 50,
+                    "first_kills": 3,
+                    "first_deaths": 0,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "26171",
+                    "name": "Demon1",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.06,
+                    "acs": 163,
+                    "kills": 8,
+                    "deaths": 7,
+                    "assists": 5,
+                    "kast": 94,
+                    "adr": 123,
+                    "headshot_percent": 25,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "13093",
+                    "name": "jzz",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.99,
+                    "acs": 210,
+                    "kills": 10,
+                    "deaths": 14,
+                    "assists": 4,
+                    "kast": 56,
+                    "adr": 163,
+                    "headshot_percent": 41,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "651",
+                    "name": "frz",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 0.97,
+                    "acs": 153,
+                    "kills": 9,
+                    "deaths": 13,
+                    "assists": 2,
+                    "kast": 38,
+                    "adr": 98,
+                    "headshot_percent": 23,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "5957",
+                    "name": "artzin",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 0.44,
+                    "acs": 151,
+                    "kills": 7,
+                    "deaths": 16,
+                    "assists": 3,
+                    "kast": 44,
+                    "adr": 101,
+                    "headshot_percent": 29,
+                    "first_kills": 2,
+                    "first_deaths": 6,
+                    "first_kills_diff": -4
+                },
+                {
+                    "id": "5351",
+                    "name": "RgLMeister",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.33,
+                    "acs": 74,
+                    "kills": 5,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 50,
+                    "adr": 46,
+                    "headshot_percent": 27,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "8872",
+                    "name": "mazin",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.15,
+                    "acs": 50,
+                    "kills": 2,
+                    "deaths": 14,
+                    "assists": 4,
+                    "kast": 31,
+                    "adr": 40,
+                    "headshot_percent": 17,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "3-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "4-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "5-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "5-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "6-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "7-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "7-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "8-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "9-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "10-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "11-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "12-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "13-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "NRG Esports",
+                    "score": 1
+                },
+                {
+                    "name": "MIBR",
+                    "score": 2
+                }
+            ],
+            "match_id": "183786"
+        }
+    ]
+}

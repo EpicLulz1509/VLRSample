@@ -1,0 +1,816 @@
+{
+    "teams": [
+        {
+            "name": "Nova Esports",
+            "score": 2,
+            "img": "https://owcdn.net/img/6404c0174250b.png",
+            "id": "12064"
+        },
+        {
+            "name": "Titan Esports Club",
+            "score": 0,
+            "img": "https://owcdn.net/img/65487414b8562.png",
+            "id": "14137"
+        }
+    ],
+    "bans": [
+        "NOVA ban Breeze",
+        "TEC ban Ascent",
+        "NOVA pick Split",
+        "TEC pick Lotus",
+        "NOVA ban Icebox",
+        "TEC ban Bind",
+        "Sunset remains"
+    ],
+    "event": {
+        "id": "2006",
+        "img": "https://owcdn.net/img/65dd97cea9a25.png",
+        "series": "Champions Tour 2024: China Stage 1",
+        "stage": "Regular Season: Week 5",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "Valorant Esports CN",
+                "url": "https://www.twitch.tv/valorantesports_cn"
+            },
+            {
+                "name": "VAL Esports CN (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsCN/live"
+            },
+            {
+                "name": "VCT (Bilibili)",
+                "url": "https://live.bilibili.com/22908869"
+            },
+            {
+                "name": "VCT (Douyu)",
+                "url": "https://www.douyu.com/602"
+            },
+            {
+                "name": "VCT (Huya)",
+                "url": "https://www.huya.com/660679"
+            },
+            {
+                "name": "VCT (QQ)",
+                "url": "https://val.qq.com/act/a20230418esports/live.html?gameId=1"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/O6QldhW7n44?t=4083"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/O6QldhW7n44?t=7250"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Split",
+            "teams": [
+                {
+                    "name": "Nova Esports",
+                    "score": 13
+                },
+                {
+                    "name": "Titan Esports Club",
+                    "score": 6
+                }
+            ],
+            "members": [
+                {
+                    "id": "39697",
+                    "name": "CB",
+                    "team": "Nova Esports",
+                    "agents": [
+                        {
+                            "title": "Skye",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/skye.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 258,
+                    "kills": 18,
+                    "deaths": 11,
+                    "assists": 14,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "1209",
+                    "name": "SWERL",
+                    "team": "Nova Esports",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 252,
+                    "kills": 16,
+                    "deaths": 15,
+                    "assists": 7,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4402",
+                    "name": "o0o0o",
+                    "team": "Nova Esports",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 221,
+                    "kills": 15,
+                    "deaths": 8,
+                    "assists": 5,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "41054",
+                    "name": "GuanG",
+                    "team": "Nova Esports",
+                    "agents": [
+                        {
+                            "title": "Sage",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sage.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 183,
+                    "kills": 14,
+                    "deaths": 9,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "36670",
+                    "name": "OBONE",
+                    "team": "Nova Esports",
+                    "agents": [
+                        {
+                            "title": "Astra",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/astra.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 174,
+                    "kills": 13,
+                    "deaths": 8,
+                    "assists": 9,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "488",
+                    "name": "Rb",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 223,
+                    "kills": 13,
+                    "deaths": 16,
+                    "assists": 2,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "14445",
+                    "name": "AC",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 222,
+                    "kills": 14,
+                    "deaths": 15,
+                    "assists": 6,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "5011",
+                    "name": "Abo",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 165,
+                    "kills": 10,
+                    "deaths": 18,
+                    "assists": 3,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4778",
+                    "name": "kawaii",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 119,
+                    "kills": 9,
+                    "deaths": 12,
+                    "assists": 1,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "25339",
+                    "name": "LockM",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Skye",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/skye.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 90,
+                    "kills": 5,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "3-1",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "3-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "4-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "5-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "6-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "7-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "8-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "8-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "9-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "9-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "10-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "11-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "11-5",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "11-6",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "12-6",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "13-6",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Lotus",
+            "teams": [
+                {
+                    "name": "Nova Esports",
+                    "score": 13
+                },
+                {
+                    "name": "Titan Esports Club",
+                    "score": 6
+                }
+            ],
+            "members": [
+                {
+                    "id": "1209",
+                    "name": "SWERL",
+                    "team": "Nova Esports",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 357,
+                    "kills": 25,
+                    "deaths": 14,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "36670",
+                    "name": "OBONE",
+                    "team": "Nova Esports",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 251,
+                    "kills": 20,
+                    "deaths": 9,
+                    "assists": 3,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "39697",
+                    "name": "CB",
+                    "team": "Nova Esports",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 204,
+                    "kills": 13,
+                    "deaths": 12,
+                    "assists": 8,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "41054",
+                    "name": "GuanG",
+                    "team": "Nova Esports",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 192,
+                    "kills": 13,
+                    "deaths": 11,
+                    "assists": 7,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4402",
+                    "name": "o0o0o",
+                    "team": "Nova Esports",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 96,
+                    "kills": 5,
+                    "deaths": 11,
+                    "assists": 8,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "14445",
+                    "name": "AC",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 236,
+                    "kills": 16,
+                    "deaths": 15,
+                    "assists": 1,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "488",
+                    "name": "Rb",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 228,
+                    "kills": 15,
+                    "deaths": 15,
+                    "assists": 2,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4778",
+                    "name": "kawaii",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 187,
+                    "kills": 11,
+                    "deaths": 16,
+                    "assists": 2,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "25339",
+                    "name": "LockM",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 131,
+                    "kills": 9,
+                    "deaths": 14,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "5011",
+                    "name": "Abo",
+                    "team": "Titan Esports Club",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 92,
+                    "kills": 6,
+                    "deaths": 16,
+                    "assists": 1,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "3-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "4-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "5-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "6-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "7-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "7-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "8-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "8-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "8-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "9-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "10-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "11-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "12-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "12-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "12-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "12-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "13-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": []
+}

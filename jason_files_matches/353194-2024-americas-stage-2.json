@@ -1,0 +1,878 @@
+{
+    "teams": [
+        {
+            "name": "MIBR",
+            "score": 0,
+            "img": "https://owcdn.net/img/632be7626d6d9.png",
+            "id": "7386"
+        },
+        {
+            "name": "FURIA",
+            "score": 2,
+            "img": "https://owcdn.net/img/632be843b7d51.png",
+            "id": "2406"
+        }
+    ],
+    "bans": [
+        "MIBR ban Haven",
+        "FUR ban Lotus",
+        "MIBR pick Sunset",
+        "FUR pick Icebox",
+        "MIBR ban Split",
+        "FUR ban Ascent",
+        "Bind remains"
+    ],
+    "event": {
+        "id": "2095",
+        "img": "https://owcdn.net/img/640f5ab71dfbb.png",
+        "series": "Champions Tour 2024: Americas Stage 2",
+        "stage": "Regular Season: Week 3",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "VCT Americas",
+                "url": "https://www.twitch.tv/valorant_americas"
+            },
+            {
+                "name": "Valorant Brazil",
+                "url": "https://www.twitch.tv/valorant_br"
+            },
+            {
+                "name": "Valorant LATAM",
+                "url": "https://www.twitch.tv/valorant_la"
+            },
+            {
+                "name": "VCT Americas (YT)",
+                "url": "https://www.youtube.com/@valorant_americas/live"
+            },
+            {
+                "name": "VAL Esports BR (YT)",
+                "url": "https://www.youtube.com/@valorantesportsbr/live"
+            },
+            {
+                "name": "VAL Esports LA (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/tzQCL_01Soo?t=2247"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/rLR--e6VUds?t=454"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Sunset",
+            "teams": [
+                {
+                    "name": "MIBR",
+                    "score": 10
+                },
+                {
+                    "name": "FURIA",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "5957",
+                    "name": "artzin",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 1.32,
+                    "acs": 274,
+                    "kills": 24,
+                    "deaths": 16,
+                    "assists": 1,
+                    "kast": 65,
+                    "adr": 175,
+                    "headshot_percent": 43,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "2567",
+                    "name": "liazzi",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Breach",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/breach.png"
+                        }
+                    ],
+                    "rating": 1.01,
+                    "acs": 182,
+                    "kills": 15,
+                    "deaths": 17,
+                    "assists": 9,
+                    "kast": 74,
+                    "adr": 114,
+                    "headshot_percent": 43,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "11105",
+                    "name": "rich",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.84,
+                    "acs": 200,
+                    "kills": 16,
+                    "deaths": 19,
+                    "assists": 7,
+                    "kast": 78,
+                    "adr": 120,
+                    "headshot_percent": 34,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "15681",
+                    "name": "Palla",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.69,
+                    "acs": 202,
+                    "kills": 12,
+                    "deaths": 19,
+                    "assists": 5,
+                    "kast": 65,
+                    "adr": 136,
+                    "headshot_percent": 13,
+                    "first_kills": 3,
+                    "first_deaths": 6,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "8872",
+                    "name": "mazin",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.48,
+                    "acs": 112,
+                    "kills": 9,
+                    "deaths": 19,
+                    "assists": 2,
+                    "kast": 61,
+                    "adr": 80,
+                    "headshot_percent": 33,
+                    "first_kills": 3,
+                    "first_deaths": 0,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "1711",
+                    "name": "Khalil",
+                    "team": "FURIA",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.58,
+                    "acs": 259,
+                    "kills": 23,
+                    "deaths": 14,
+                    "assists": 10,
+                    "kast": 87,
+                    "adr": 172,
+                    "headshot_percent": 38,
+                    "first_kills": 2,
+                    "first_deaths": 0,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "8706",
+                    "name": "havoc",
+                    "team": "FURIA",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 1.43,
+                    "acs": 278,
+                    "kills": 23,
+                    "deaths": 14,
+                    "assists": 5,
+                    "kast": 65,
+                    "adr": 184,
+                    "headshot_percent": 41,
+                    "first_kills": 4,
+                    "first_deaths": 3,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "681",
+                    "name": "xand",
+                    "team": "FURIA",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 1.14,
+                    "acs": 220,
+                    "kills": 18,
+                    "deaths": 17,
+                    "assists": 19,
+                    "kast": 83,
+                    "adr": 142,
+                    "headshot_percent": 21,
+                    "first_kills": 4,
+                    "first_deaths": 1,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "939",
+                    "name": "mwzera",
+                    "team": "FURIA",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.0,
+                    "acs": 240,
+                    "kills": 19,
+                    "deaths": 18,
+                    "assists": 8,
+                    "kast": 74,
+                    "adr": 167,
+                    "headshot_percent": 25,
+                    "first_kills": 3,
+                    "first_deaths": 5,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "725",
+                    "name": "nzr",
+                    "team": "FURIA",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.7,
+                    "acs": 94,
+                    "kills": 7,
+                    "deaths": 13,
+                    "assists": 6,
+                    "kast": 65,
+                    "adr": 76,
+                    "headshot_percent": 15,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "0-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "0-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "0-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "1-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "2-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "2-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "3-5",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "3-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "4-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "5-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "6-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "7-6",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "8-6",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "8-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "9-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "9-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "9-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "9-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "10-10",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "10-11",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "10-12",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 23,
+                    "round_score": "10-13",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Icebox",
+            "teams": [
+                {
+                    "name": "MIBR",
+                    "score": 7
+                },
+                {
+                    "name": "FURIA",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "5957",
+                    "name": "artzin",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 1.18,
+                    "acs": 244,
+                    "kills": 18,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 60,
+                    "adr": 159,
+                    "headshot_percent": 25,
+                    "first_kills": 4,
+                    "first_deaths": 1,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "11105",
+                    "name": "rich",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.91,
+                    "acs": 224,
+                    "kills": 15,
+                    "deaths": 17,
+                    "assists": 6,
+                    "kast": 70,
+                    "adr": 139,
+                    "headshot_percent": 25,
+                    "first_kills": 2,
+                    "first_deaths": 4,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "15681",
+                    "name": "Palla",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 0.76,
+                    "acs": 199,
+                    "kills": 15,
+                    "deaths": 17,
+                    "assists": 0,
+                    "kast": 50,
+                    "adr": 117,
+                    "headshot_percent": 54,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "8872",
+                    "name": "mazin",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.58,
+                    "acs": 119,
+                    "kills": 8,
+                    "deaths": 15,
+                    "assists": 5,
+                    "kast": 60,
+                    "adr": 84,
+                    "headshot_percent": 28,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "2567",
+                    "name": "liazzi",
+                    "team": "MIBR",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.29,
+                    "acs": 96,
+                    "kills": 6,
+                    "deaths": 17,
+                    "assists": 2,
+                    "kast": 40,
+                    "adr": 67,
+                    "headshot_percent": 32,
+                    "first_kills": 0,
+                    "first_deaths": 2,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "1711",
+                    "name": "Khalil",
+                    "team": "FURIA",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.72,
+                    "acs": 325,
+                    "kills": 24,
+                    "deaths": 12,
+                    "assists": 6,
+                    "kast": 85,
+                    "adr": 215,
+                    "headshot_percent": 30,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "939",
+                    "name": "mwzera",
+                    "team": "FURIA",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.23,
+                    "acs": 263,
+                    "kills": 19,
+                    "deaths": 12,
+                    "assists": 2,
+                    "kast": 80,
+                    "adr": 161,
+                    "headshot_percent": 24,
+                    "first_kills": 5,
+                    "first_deaths": 0,
+                    "first_kills_diff": 5
+                },
+                {
+                    "id": "725",
+                    "name": "nzr",
+                    "team": "FURIA",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 1.21,
+                    "acs": 212,
+                    "kills": 16,
+                    "deaths": 13,
+                    "assists": 4,
+                    "kast": 85,
+                    "adr": 151,
+                    "headshot_percent": 25,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "8706",
+                    "name": "havoc",
+                    "team": "FURIA",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.96,
+                    "acs": 173,
+                    "kills": 12,
+                    "deaths": 12,
+                    "assists": 5,
+                    "kast": 65,
+                    "adr": 129,
+                    "headshot_percent": 26,
+                    "first_kills": 3,
+                    "first_deaths": 4,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "681",
+                    "name": "xand",
+                    "team": "FURIA",
+                    "agents": [
+                        {
+                            "title": "Sage",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sage.png"
+                        }
+                    ],
+                    "rating": 0.79,
+                    "acs": 134,
+                    "kills": 10,
+                    "deaths": 13,
+                    "assists": 3,
+                    "kast": 75,
+                    "adr": 90,
+                    "headshot_percent": 22,
+                    "first_kills": 0,
+                    "first_deaths": 3,
+                    "first_kills_diff": -3
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "2-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "2-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "2-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "2-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "2-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "3-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "3-7",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "3-8",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "3-9",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "3-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "3-11",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "4-11",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "5-11",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "6-11",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "6-12",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "7-12",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "7-13",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "MIBR",
+                    "score": 2
+                },
+                {
+                    "name": "FURIA",
+                    "score": 0
+                }
+            ],
+            "match_id": "295608"
+        },
+        {
+            "teams": [
+                {
+                    "name": "MIBR",
+                    "score": 0
+                },
+                {
+                    "name": "FURIA",
+                    "score": 2
+                }
+            ],
+            "match_id": "183802"
+        }
+    ]
+}

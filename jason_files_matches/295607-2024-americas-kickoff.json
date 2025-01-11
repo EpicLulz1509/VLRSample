@@ -1,0 +1,938 @@
+{
+    "teams": [
+        {
+            "name": "NRG Esports",
+            "score": 2,
+            "img": "https://owcdn.net/img/6610f026c1a9e.png",
+            "id": "1034"
+        },
+        {
+            "name": "Cloud9",
+            "score": 0,
+            "img": "https://owcdn.net/img/628addcbd509e.png",
+            "id": "188"
+        }
+    ],
+    "bans": [
+        "C9 ban Split",
+        "NRG ban Bind",
+        "C9 pick Sunset",
+        "NRG pick Ascent",
+        "C9 ban Breeze",
+        "NRG ban Icebox",
+        "Lotus remains"
+    ],
+    "event": {
+        "id": "1923",
+        "img": "https://owcdn.net/img/640f5ab71dfbb.png",
+        "series": "Champions Tour 2024: Americas Kickoff",
+        "stage": "Group Stage: Winner's (A)",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "VCT Americas",
+                "url": "https://www.twitch.tv/valorant_americas"
+            },
+            {
+                "name": "Valorant Brazil",
+                "url": "https://www.twitch.tv/valorant_br"
+            },
+            {
+                "name": "Valorant LATAM",
+                "url": "https://www.twitch.tv/valorant_la"
+            },
+            {
+                "name": "VCT Americas (YT)",
+                "url": "https://www.youtube.com/@valorant_americas/live"
+            },
+            {
+                "name": "VAL Esports BR (YT)",
+                "url": "https://www.youtube.com/@valorantesportsbr/live"
+            },
+            {
+                "name": "VAL Esports LA (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/JXucS5elQQs?t=2282"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/rGoh_sS69tM?t=483"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Sunset",
+            "teams": [
+                {
+                    "name": "NRG Esports",
+                    "score": 13
+                },
+                {
+                    "name": "Cloud9",
+                    "score": 7
+                }
+            ],
+            "members": [
+                {
+                    "id": "26171",
+                    "name": "Demon1",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.72,
+                    "acs": 316,
+                    "kills": 24,
+                    "deaths": 11,
+                    "assists": 2,
+                    "kast": 85,
+                    "adr": 216,
+                    "headshot_percent": 33,
+                    "first_kills": 4,
+                    "first_deaths": 2,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "261",
+                    "name": "Victor",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 1.29,
+                    "acs": 217,
+                    "kills": 17,
+                    "deaths": 10,
+                    "assists": 5,
+                    "kast": 70,
+                    "adr": 152,
+                    "headshot_percent": 19,
+                    "first_kills": 1,
+                    "first_deaths": 3,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "263",
+                    "name": "Marved",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.12,
+                    "acs": 229,
+                    "kills": 16,
+                    "deaths": 15,
+                    "assists": 10,
+                    "kast": 80,
+                    "adr": 143,
+                    "headshot_percent": 27,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "11225",
+                    "name": "Ethan",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Skye",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/skye.png"
+                        }
+                    ],
+                    "rating": 1.08,
+                    "acs": 213,
+                    "kills": 15,
+                    "deaths": 14,
+                    "assists": 8,
+                    "kast": 85,
+                    "adr": 143,
+                    "headshot_percent": 21,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "4",
+                    "name": "crashies",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.98,
+                    "acs": 136,
+                    "kills": 9,
+                    "deaths": 10,
+                    "assists": 6,
+                    "kast": 70,
+                    "adr": 96,
+                    "headshot_percent": 27,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4373",
+                    "name": "wippie",
+                    "team": "Cloud9",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.06,
+                    "acs": 177,
+                    "kills": 13,
+                    "deaths": 13,
+                    "assists": 4,
+                    "kast": 50,
+                    "adr": 113,
+                    "headshot_percent": 22,
+                    "first_kills": 1,
+                    "first_deaths": 3,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "7871",
+                    "name": "Xeppaa",
+                    "team": "Cloud9",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.89,
+                    "acs": 233,
+                    "kills": 14,
+                    "deaths": 17,
+                    "assists": 5,
+                    "kast": 65,
+                    "adr": 150,
+                    "headshot_percent": 21,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "7870",
+                    "name": "vanity",
+                    "team": "Cloud9",
+                    "agents": [
+                        {
+                            "title": "Skye",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/skye.png"
+                        }
+                    ],
+                    "rating": 0.66,
+                    "acs": 174,
+                    "kills": 11,
+                    "deaths": 17,
+                    "assists": 6,
+                    "kast": 75,
+                    "adr": 115,
+                    "headshot_percent": 32,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "8742",
+                    "name": "jakee",
+                    "team": "Cloud9",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.66,
+                    "acs": 157,
+                    "kills": 11,
+                    "deaths": 17,
+                    "assists": 3,
+                    "kast": 60,
+                    "adr": 110,
+                    "headshot_percent": 34,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "18796",
+                    "name": "OXY",
+                    "team": "Cloud9",
+                    "agents": [
+                        {
+                            "title": "Yoru",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/yoru.png"
+                        }
+                    ],
+                    "rating": 0.62,
+                    "acs": 166,
+                    "kills": 11,
+                    "deaths": 17,
+                    "assists": 5,
+                    "kast": 60,
+                    "adr": 95,
+                    "headshot_percent": 63,
+                    "first_kills": 3,
+                    "first_deaths": 5,
+                    "first_kills_diff": -2
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "1-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "3-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "4-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "4-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "4-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "4-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "5-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "6-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "7-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "8-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "9-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "9-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "9-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "10-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "10-7",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "11-7",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "12-7",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "13-7",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Ascent",
+            "teams": [
+                {
+                    "name": "NRG Esports",
+                    "score": 14
+                },
+                {
+                    "name": "Cloud9",
+                    "score": 12
+                }
+            ],
+            "members": [
+                {
+                    "id": "261",
+                    "name": "Victor",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 1.31,
+                    "acs": 248,
+                    "kills": 22,
+                    "deaths": 18,
+                    "assists": 9,
+                    "kast": 77,
+                    "adr": 177,
+                    "headshot_percent": 24,
+                    "first_kills": 3,
+                    "first_deaths": 3,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4",
+                    "name": "crashies",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 1.17,
+                    "acs": 187,
+                    "kills": 17,
+                    "deaths": 13,
+                    "assists": 7,
+                    "kast": 77,
+                    "adr": 121,
+                    "headshot_percent": 18,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "26171",
+                    "name": "Demon1",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 0.98,
+                    "acs": 183,
+                    "kills": 19,
+                    "deaths": 20,
+                    "assists": 2,
+                    "kast": 69,
+                    "adr": 129,
+                    "headshot_percent": 41,
+                    "first_kills": 5,
+                    "first_deaths": 4,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "263",
+                    "name": "Marved",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.97,
+                    "acs": 208,
+                    "kills": 20,
+                    "deaths": 20,
+                    "assists": 13,
+                    "kast": 77,
+                    "adr": 129,
+                    "headshot_percent": 26,
+                    "first_kills": 1,
+                    "first_deaths": 3,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "11225",
+                    "name": "Ethan",
+                    "team": "NRG Esports",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.7,
+                    "acs": 184,
+                    "kills": 14,
+                    "deaths": 22,
+                    "assists": 15,
+                    "kast": 77,
+                    "adr": 113,
+                    "headshot_percent": 7,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "7870",
+                    "name": "vanity",
+                    "team": "Cloud9",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 1.39,
+                    "acs": 259,
+                    "kills": 23,
+                    "deaths": 16,
+                    "assists": 10,
+                    "kast": 96,
+                    "adr": 183,
+                    "headshot_percent": 21,
+                    "first_kills": 2,
+                    "first_deaths": 0,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "18796",
+                    "name": "OXY",
+                    "team": "Cloud9",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.0,
+                    "acs": 255,
+                    "kills": 23,
+                    "deaths": 23,
+                    "assists": 3,
+                    "kast": 73,
+                    "adr": 162,
+                    "headshot_percent": 23,
+                    "first_kills": 9,
+                    "first_deaths": 6,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "7871",
+                    "name": "Xeppaa",
+                    "team": "Cloud9",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.98,
+                    "acs": 192,
+                    "kills": 17,
+                    "deaths": 18,
+                    "assists": 19,
+                    "kast": 88,
+                    "adr": 124,
+                    "headshot_percent": 20,
+                    "first_kills": 1,
+                    "first_deaths": 4,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "4373",
+                    "name": "wippie",
+                    "team": "Cloud9",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.85,
+                    "acs": 164,
+                    "kills": 16,
+                    "deaths": 17,
+                    "assists": 3,
+                    "kast": 73,
+                    "adr": 109,
+                    "headshot_percent": 30,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "8742",
+                    "name": "jakee",
+                    "team": "Cloud9",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.76,
+                    "acs": 145,
+                    "kills": 14,
+                    "deaths": 18,
+                    "assists": 11,
+                    "kast": 65,
+                    "adr": 100,
+                    "headshot_percent": 26,
+                    "first_kills": 1,
+                    "first_deaths": 3,
+                    "first_kills_diff": -2
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "2-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "2-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "3-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "4-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "4-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "4-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "4-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "4-7",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "5-7",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "6-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "7-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "8-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "9-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "10-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "11-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "11-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "11-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "11-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "11-11",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 23,
+                    "round_score": "12-11",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 24,
+                    "round_score": "12-12",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 25,
+                    "round_score": "13-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 26,
+                    "round_score": "14-12",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "NRG Esports",
+                    "score": 2
+                },
+                {
+                    "name": "Cloud9",
+                    "score": 1
+                }
+            ],
+            "match_id": "189058"
+        },
+        {
+            "teams": [
+                {
+                    "name": "NRG Esports",
+                    "score": 1
+                },
+                {
+                    "name": "Cloud9",
+                    "score": 2
+                }
+            ],
+            "match_id": "183795"
+        },
+        {
+            "teams": [
+                {
+                    "name": "NRG Esports",
+                    "score": 0
+                },
+                {
+                    "name": "Cloud9",
+                    "score": 2
+                }
+            ],
+            "match_id": "123333"
+        },
+        {
+            "teams": [
+                {
+                    "name": "NRG Esports",
+                    "score": 1
+                },
+                {
+                    "name": "Cloud9",
+                    "score": 2
+                }
+            ],
+            "match_id": "63779"
+        },
+        {
+            "teams": [
+                {
+                    "name": "NRG Esports",
+                    "score": 1
+                },
+                {
+                    "name": "Cloud9",
+                    "score": 3
+                }
+            ],
+            "match_id": "33311"
+        }
+    ]
+}

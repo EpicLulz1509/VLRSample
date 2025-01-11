@@ -1,0 +1,803 @@
+{
+    "teams": [
+        {
+            "name": "Trace Esports",
+            "score": 2,
+            "img": "https://owcdn.net/img/6433a2cc3ae72.png",
+            "id": "12685"
+        },
+        {
+            "name": "TYLOO",
+            "score": 0,
+            "img": "https://owcdn.net/img/63eb60fb08390.png",
+            "id": "731"
+        }
+    ],
+    "bans": [
+        "TYL ban Lotus",
+        "TE ban Icebox",
+        "TYL pick Ascent",
+        "TE pick Sunset",
+        "TYL ban Breeze",
+        "TE ban Bind",
+        "Split remains"
+    ],
+    "event": {
+        "id": "1926",
+        "img": "https://owcdn.net/img/65dd97cea9a25.png",
+        "series": "Champions Tour 2024: China Kickoff",
+        "stage": "Group Stage: Opening (A)",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "Valorant Esports CN",
+                "url": "https://www.twitch.tv/valorantesports_cn"
+            },
+            {
+                "name": "RyanCentral",
+                "url": "https://www.twitch.tv/ryancentral"
+            },
+            {
+                "name": "Komodo",
+                "url": "https://www.twitch.tv/komodo"
+            },
+            {
+                "name": "VAL Esports CN (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsCN/live"
+            },
+            {
+                "name": "VCT (Bilibili)",
+                "url": "https://live.bilibili.com/22908869"
+            },
+            {
+                "name": "VCT (Douyu)",
+                "url": "https://www.douyu.com/602"
+            },
+            {
+                "name": "VCT (Huya)",
+                "url": "https://www.huya.com/660679"
+            },
+            {
+                "name": "VCT (QQ)",
+                "url": "https://val.qq.com/act/a20230418esports/live.html?gameId=1"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/wwhx8fnasqk?t=4511"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/wwhx8fnasqk?t=7738"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Ascent",
+            "teams": [
+                {
+                    "name": "Trace Esports",
+                    "score": 13
+                },
+                {
+                    "name": "TYLOO",
+                    "score": 4
+                }
+            ],
+            "members": [
+                {
+                    "id": "4712",
+                    "name": "heybay",
+                    "team": "Trace Esports",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 308,
+                    "kills": 17,
+                    "deaths": 15,
+                    "assists": 12,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4710",
+                    "name": "YOU",
+                    "team": "Trace Esports",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 251,
+                    "kills": 14,
+                    "deaths": 11,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4705",
+                    "name": "Flex1n",
+                    "team": "Trace Esports",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 242,
+                    "kills": 16,
+                    "deaths": 10,
+                    "assists": 9,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "37494",
+                    "name": "Kai",
+                    "team": "Trace Esports",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 193,
+                    "kills": 14,
+                    "deaths": 12,
+                    "assists": 2,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4770",
+                    "name": "FengF",
+                    "team": "Trace Esports",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 168,
+                    "kills": 9,
+                    "deaths": 9,
+                    "assists": 6,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "3045",
+                    "name": "LuoK1ng",
+                    "team": "TYLOO",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 226,
+                    "kills": 14,
+                    "deaths": 13,
+                    "assists": 2,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4773",
+                    "name": "AAK",
+                    "team": "TYLOO",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 209,
+                    "kills": 13,
+                    "deaths": 14,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4771",
+                    "name": "ICEKING",
+                    "team": "TYLOO",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 187,
+                    "kills": 10,
+                    "deaths": 15,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "3547",
+                    "name": "Ninebody",
+                    "team": "TYLOO",
+                    "agents": [
+                        {
+                            "title": "Phoenix",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/phoenix.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 178,
+                    "kills": 9,
+                    "deaths": 14,
+                    "assists": 11,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "7135",
+                    "name": "hfmi0dzjc9z7",
+                    "team": "TYLOO",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 171,
+                    "kills": 10,
+                    "deaths": 14,
+                    "assists": 5,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "1-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "2-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "3-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "3-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "4-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "5-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "6-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "7-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "8-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "8-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "9-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "10-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "11-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "12-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "13-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Sunset",
+            "teams": [
+                {
+                    "name": "Trace Esports",
+                    "score": 13
+                },
+                {
+                    "name": "TYLOO",
+                    "score": 3
+                }
+            ],
+            "members": [
+                {
+                    "id": "4770",
+                    "name": "FengF",
+                    "team": "Trace Esports",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 373,
+                    "kills": 21,
+                    "deaths": 9,
+                    "assists": 6,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4705",
+                    "name": "Flex1n",
+                    "team": "Trace Esports",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 306,
+                    "kills": 18,
+                    "deaths": 9,
+                    "assists": 6,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "37494",
+                    "name": "Kai",
+                    "team": "Trace Esports",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 227,
+                    "kills": 13,
+                    "deaths": 11,
+                    "assists": 5,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4710",
+                    "name": "YOU",
+                    "team": "Trace Esports",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 181,
+                    "kills": 12,
+                    "deaths": 8,
+                    "assists": 3,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4712",
+                    "name": "heybay",
+                    "team": "Trace Esports",
+                    "agents": [
+                        {
+                            "title": "Breach",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/breach.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 147,
+                    "kills": 10,
+                    "deaths": 9,
+                    "assists": 9,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "3547",
+                    "name": "Ninebody",
+                    "team": "TYLOO",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 240,
+                    "kills": 12,
+                    "deaths": 15,
+                    "assists": 5,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "7135",
+                    "name": "hfmi0dzjc9z7",
+                    "team": "TYLOO",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 191,
+                    "kills": 12,
+                    "deaths": 15,
+                    "assists": 0,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "3045",
+                    "name": "LuoK1ng",
+                    "team": "TYLOO",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 179,
+                    "kills": 9,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4771",
+                    "name": "ICEKING",
+                    "team": "TYLOO",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 179,
+                    "kills": 9,
+                    "deaths": 14,
+                    "assists": 7,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4773",
+                    "name": "AAK",
+                    "team": "TYLOO",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 0.0,
+                    "acs": 79,
+                    "kills": 4,
+                    "deaths": 15,
+                    "assists": 4,
+                    "kast": 0,
+                    "adr": 0,
+                    "headshot_percent": 0,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "3-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "4-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "5-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "6-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "7-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "8-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "9-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "9-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "10-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "11-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "11-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "11-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "12-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "13-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "Trace Esports",
+                    "score": 2
+                },
+                {
+                    "name": "TYLOO",
+                    "score": 0
+                }
+            ],
+            "match_id": "274409"
+        }
+    ]
+}

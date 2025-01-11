@@ -1,0 +1,926 @@
+{
+    "teams": [
+        {
+            "name": "DRX",
+            "score": 2,
+            "img": "https://owcdn.net/img/63b17abd77fc0.png",
+            "id": "8185"
+        },
+        {
+            "name": "TALON",
+            "score": 0,
+            "img": "https://owcdn.net/img/6226f3d764e03.png",
+            "id": "8304"
+        }
+    ],
+    "bans": [
+        "TLN ban Icebox",
+        "DRX ban Lotus",
+        "TLN pick Ascent",
+        "DRX pick Abyss",
+        "TLN ban Bind",
+        "DRX ban Haven",
+        "Sunset remains"
+    ],
+    "event": {
+        "id": "2005",
+        "img": "https://owcdn.net/img/640f5ae002674.png",
+        "series": "Champions Tour 2024: Pacific Stage 2",
+        "stage": "Playoffs: Upper Semifinals",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "Valorant Pacific",
+                "url": "https://www.twitch.tv/valorant_pacific"
+            },
+            {
+                "name": "Valorant Japan",
+                "url": "https://www.twitch.tv/valorant_jpn"
+            },
+            {
+                "name": "Valorant ID",
+                "url": "https://www.twitch.tv/valorant_id"
+            },
+            {
+                "name": "Valorant TH",
+                "url": "https://www.twitch.tv/valorant_th"
+            },
+            {
+                "name": "PPGL VCT PH",
+                "url": "https://www.twitch.tv/ppgl_vctph"
+            },
+            {
+                "name": "Valorant TW",
+                "url": "https://www.twitch.tv/valorant_tw"
+            },
+            {
+                "name": "VCT Pacific (YT)",
+                "url": "https://www.youtube.com/@VCTPacific/live"
+            },
+            {
+                "name": "Valorant Japan (YT)",
+                "url": "https://www.youtube.com/@VALORANTjp/live"
+            },
+            {
+                "name": "VAL Esports ID (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsIndonesia/live"
+            },
+            {
+                "name": "VAL Esports TH (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsTH/live"
+            },
+            {
+                "name": "VAL Esports PH (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsPH/live"
+            },
+            {
+                "name": "VAL Esports TW (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsTW/live"
+            },
+            {
+                "name": "VCT Vietnam (YT)",
+                "url": "https://www.youtube.com/@VALORANTChampionsTourVietnam/live"
+            },
+            {
+                "name": "VAL Esports SA (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsSA/live"
+            },
+            {
+                "name": "Valorant (SOOP)",
+                "url": "https://www.sooplive.com/valoranten"
+            },
+            {
+                "name": "Valorant KR (SOOP)",
+                "url": "https://play.sooplive.co.kr/valorant"
+            },
+            {
+                "name": "Valorant TH (SOOP)",
+                "url": "https://sooplive.com/valorantth"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/1Hi5SB5k3s0?t=11742"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/1Hi5SB5k3s0?t=15059"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Ascent",
+            "teams": [
+                {
+                    "name": "DRX",
+                    "score": 13
+                },
+                {
+                    "name": "TALON",
+                    "score": 8
+                }
+            ],
+            "members": [
+                {
+                    "id": "804",
+                    "name": "BuZz",
+                    "team": "DRX",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.38,
+                    "acs": 262,
+                    "kills": 22,
+                    "deaths": 13,
+                    "assists": 3,
+                    "kast": 71,
+                    "adr": 157,
+                    "headshot_percent": 18,
+                    "first_kills": 4,
+                    "first_deaths": 4,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "4462",
+                    "name": "MaKo",
+                    "team": "DRX",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.18,
+                    "acs": 242,
+                    "kills": 18,
+                    "deaths": 15,
+                    "assists": 12,
+                    "kast": 90,
+                    "adr": 157,
+                    "headshot_percent": 24,
+                    "first_kills": 5,
+                    "first_deaths": 1,
+                    "first_kills_diff": 4
+                },
+                {
+                    "id": "35013",
+                    "name": "Flashback",
+                    "team": "DRX",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.93,
+                    "acs": 179,
+                    "kills": 14,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 62,
+                    "adr": 128,
+                    "headshot_percent": 43,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "4678",
+                    "name": "BeYN",
+                    "team": "DRX",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.74,
+                    "acs": 189,
+                    "kills": 13,
+                    "deaths": 16,
+                    "assists": 8,
+                    "kast": 76,
+                    "adr": 137,
+                    "headshot_percent": 26,
+                    "first_kills": 1,
+                    "first_deaths": 3,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "11600",
+                    "name": "Foxy9",
+                    "team": "DRX",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.63,
+                    "acs": 159,
+                    "kills": 11,
+                    "deaths": 17,
+                    "assists": 10,
+                    "kast": 62,
+                    "adr": 113,
+                    "headshot_percent": 26,
+                    "first_kills": 0,
+                    "first_deaths": 2,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "5129",
+                    "name": "ban",
+                    "team": "TALON",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 1.39,
+                    "acs": 284,
+                    "kills": 21,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 67,
+                    "adr": 187,
+                    "headshot_percent": 38,
+                    "first_kills": 2,
+                    "first_deaths": 0,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "3980",
+                    "name": "Governor",
+                    "team": "TALON",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 1.26,
+                    "acs": 223,
+                    "kills": 16,
+                    "deaths": 14,
+                    "assists": 12,
+                    "kast": 76,
+                    "adr": 141,
+                    "headshot_percent": 29,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "25255",
+                    "name": "primmie",
+                    "team": "TALON",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.12,
+                    "acs": 224,
+                    "kills": 16,
+                    "deaths": 16,
+                    "assists": 5,
+                    "kast": 67,
+                    "adr": 155,
+                    "headshot_percent": 42,
+                    "first_kills": 3,
+                    "first_deaths": 4,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "13788",
+                    "name": "JitBoyS",
+                    "team": "TALON",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.84,
+                    "acs": 152,
+                    "kills": 13,
+                    "deaths": 15,
+                    "assists": 8,
+                    "kast": 76,
+                    "adr": 96,
+                    "headshot_percent": 31,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "3977",
+                    "name": "Crws",
+                    "team": "TALON",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.55,
+                    "acs": 160,
+                    "kills": 10,
+                    "deaths": 18,
+                    "assists": 7,
+                    "kast": 76,
+                    "adr": 115,
+                    "headshot_percent": 13,
+                    "first_kills": 3,
+                    "first_deaths": 3,
+                    "first_kills_diff": 0
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "3-1",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "4-1",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "5-1",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "6-1",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "6-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "6-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "6-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "6-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "7-5",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "7-6",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "8-6",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "9-6",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "10-6",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "11-6",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "11-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "12-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "12-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "13-8",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Abyss",
+            "teams": [
+                {
+                    "name": "DRX",
+                    "score": 13
+                },
+                {
+                    "name": "TALON",
+                    "score": 4
+                }
+            ],
+            "members": [
+                {
+                    "id": "35013",
+                    "name": "Flashback",
+                    "team": "DRX",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 1.97,
+                    "acs": 288,
+                    "kills": 21,
+                    "deaths": 5,
+                    "assists": 7,
+                    "kast": 76,
+                    "adr": 166,
+                    "headshot_percent": 22,
+                    "first_kills": 3,
+                    "first_deaths": 0,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "804",
+                    "name": "BuZz",
+                    "team": "DRX",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.39,
+                    "acs": 285,
+                    "kills": 17,
+                    "deaths": 11,
+                    "assists": 5,
+                    "kast": 82,
+                    "adr": 179,
+                    "headshot_percent": 23,
+                    "first_kills": 5,
+                    "first_deaths": 1,
+                    "first_kills_diff": 4
+                },
+                {
+                    "id": "4462",
+                    "name": "MaKo",
+                    "team": "DRX",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.21,
+                    "acs": 224,
+                    "kills": 13,
+                    "deaths": 10,
+                    "assists": 7,
+                    "kast": 94,
+                    "adr": 165,
+                    "headshot_percent": 18,
+                    "first_kills": 1,
+                    "first_deaths": 0,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "4678",
+                    "name": "BeYN",
+                    "team": "DRX",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 1.18,
+                    "acs": 197,
+                    "kills": 13,
+                    "deaths": 10,
+                    "assists": 3,
+                    "kast": 76,
+                    "adr": 130,
+                    "headshot_percent": 26,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "11600",
+                    "name": "Foxy9",
+                    "team": "DRX",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.74,
+                    "acs": 138,
+                    "kills": 8,
+                    "deaths": 12,
+                    "assists": 6,
+                    "kast": 88,
+                    "adr": 89,
+                    "headshot_percent": 20,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "25255",
+                    "name": "primmie",
+                    "team": "TALON",
+                    "agents": [
+                        {
+                            "title": "Iso",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/iso.png"
+                        }
+                    ],
+                    "rating": 1.38,
+                    "acs": 312,
+                    "kills": 17,
+                    "deaths": 14,
+                    "assists": 5,
+                    "kast": 76,
+                    "adr": 214,
+                    "headshot_percent": 61,
+                    "first_kills": 3,
+                    "first_deaths": 3,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "13788",
+                    "name": "JitBoyS",
+                    "team": "TALON",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.11,
+                    "acs": 269,
+                    "kills": 17,
+                    "deaths": 15,
+                    "assists": 1,
+                    "kast": 71,
+                    "adr": 176,
+                    "headshot_percent": 55,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "3977",
+                    "name": "Crws",
+                    "team": "TALON",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.39,
+                    "acs": 68,
+                    "kills": 4,
+                    "deaths": 13,
+                    "assists": 2,
+                    "kast": 41,
+                    "adr": 41,
+                    "headshot_percent": 10,
+                    "first_kills": 0,
+                    "first_deaths": 3,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "5129",
+                    "name": "ban",
+                    "team": "TALON",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 0.37,
+                    "acs": 93,
+                    "kills": 5,
+                    "deaths": 15,
+                    "assists": 4,
+                    "kast": 59,
+                    "adr": 68,
+                    "headshot_percent": 44,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "3980",
+                    "name": "Governor",
+                    "team": "TALON",
+                    "agents": [
+                        {
+                            "title": "Neon",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/neon.png"
+                        }
+                    ],
+                    "rating": 0.2,
+                    "acs": 94,
+                    "kills": 5,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 59,
+                    "adr": 66,
+                    "headshot_percent": 29,
+                    "first_kills": 1,
+                    "first_deaths": 5,
+                    "first_kills_diff": -4
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "3-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "4-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "4-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "5-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "5-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "6-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "6-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "7-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "7-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "8-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "9-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "10-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "11-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "12-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "13-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "DRX",
+                    "score": 2
+                },
+                {
+                    "name": "TALON",
+                    "score": 1
+                }
+            ],
+            "match_id": "314357"
+        },
+        {
+            "teams": [
+                {
+                    "name": "DRX",
+                    "score": 2
+                },
+                {
+                    "name": "TALON",
+                    "score": 0
+                }
+            ],
+            "match_id": "296732"
+        },
+        {
+            "teams": [
+                {
+                    "name": "DRX",
+                    "score": 2
+                },
+                {
+                    "name": "TALON",
+                    "score": 0
+                }
+            ],
+            "match_id": "184470"
+        },
+        {
+            "teams": [
+                {
+                    "name": "DRX",
+                    "score": 2
+                },
+                {
+                    "name": "TALON",
+                    "score": 1
+                }
+            ],
+            "match_id": "167361"
+        },
+        {
+            "teams": [
+                {
+                    "name": "DRX",
+                    "score": 3
+                },
+                {
+                    "name": "TALON",
+                    "score": 0
+                }
+            ],
+            "match_id": "159144"
+        }
+    ]
+}

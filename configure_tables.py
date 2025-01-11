@@ -23,15 +23,15 @@ from json_to_df import *
 
 def player_stats_all():
     player_stats = na_kck.unionAll(na_s1).unionAll(na_s2).unionAll(madrid).unionAll(shanghai).unionAll(champs).unionAll(ch_kck).unionAll(ch_s1).unionAll(ch_s2).unionAll(emea_kck).unionAll(emea_s1).unionAll(emea_s2).unionAll(pac_kck).unionAll(pac_s1).unionAll(pac_s2)
-    # player_stats.toPandas().to_csv('full_player_stats.csv')
+    player_stats.toPandas().to_csv('full_player_stats.csv')
     # new_df = na_player_stats.select('player', 'assists_per_round').where(na_player_stats.player == 'mwzera')
     # print(new_df.show(3))
 
-    player_stats.createOrReplaceTempView("player_stats")
-    player_stats = spark.sql("SELECT * from player_stats ")
-    player_stats = spark.sql("SELECT player as player, collect_set(org) as org, collect_set(region) as region, SUM(rounds) as rounds, AVG(rating) as rating, AVG(average_combat_score) as ACS, AVG(kill_deaths) as KD, AVG(kill_assists_survived_traded) as KAST, AVG(average_damage_per_round) as ADR, AVG(kills_per_round) as KPR, AVG(assists_per_round) as APR, AVG(first_kills_per_round) as FKPR, AVG(first_deaths_per_round) as FDPR, AVG(headshot_percentage) as HS, AVG(clutch_success_percentage) as CS, MAX(kmax) as KMAX, SUM(kills) as KILLS, SUM(deaths) as DEATHS, SUM(assists) as ASSISTS, SUM(fk) as FK, SUM(fd) as FD, collect_set(event) as event FROM player_stats GROUP by player")
+    # player_stats.createOrReplaceTempView("player_stats")
+    # player_stats = spark.sql("SELECT * from player_stats ")
+    # player_stats = spark.sql("SELECT player as player, collect_set(org) as org, collect_set(region) as region, SUM(rounds) as rounds, AVG(rating) as rating, AVG(average_combat_score) as ACS, AVG(kill_deaths) as KD, AVG(kill_assists_survived_traded) as KAST, AVG(average_damage_per_round) as ADR, AVG(kills_per_round) as KPR, AVG(assists_per_round) as APR, AVG(first_kills_per_round) as FKPR, AVG(first_deaths_per_round) as FDPR, AVG(headshot_percentage) as HS, AVG(clutch_success_percentage) as CS, MAX(kmax) as KMAX, SUM(kills) as KILLS, SUM(deaths) as DEATHS, SUM(assists) as ASSISTS, SUM(fk) as FK, SUM(fd) as FD, collect_set(event) as event FROM player_stats GROUP by player")
     # print(sqlDF.show(10))
-    player_stats.toPandas().to_csv('player_stats.csv')
+    # player_stats.toPandas().to_csv('player_stats.csv')
     # return player_stats
 
 
@@ -188,7 +188,7 @@ def specific_param_stats(event, region):
 
     return final_stats1.toPandas()
 
-# player_stats_all()
+player_stats_all()
 # champion_stats()
 
 # df = specific_param_stats(["KICKOFF"], ["EMEA"])
@@ -208,3 +208,4 @@ def specific_param_stats(event, region):
 
 # sample()
 
+#

@@ -1,0 +1,1250 @@
+{
+    "teams": [
+        {
+            "name": "GIANTX",
+            "score": 1,
+            "img": "https://owcdn.net/img/657b2f3fcd199.png",
+            "id": "14419"
+        },
+        {
+            "name": "Karmine Corp",
+            "score": 2,
+            "img": "https://owcdn.net/img/627403a0d9e48.png",
+            "id": "8877"
+        }
+    ],
+    "bans": [
+        "KC ban Ascent",
+        "GX ban Bind",
+        "KC pick Split",
+        "GX pick Sunset",
+        "KC ban Breeze",
+        "GX ban Icebox",
+        "Lotus remains"
+    ],
+    "event": {
+        "id": "1925",
+        "img": "https://owcdn.net/img/65ab59620a233.png",
+        "series": "Champions Tour 2024: EMEA Kickoff",
+        "stage": "Group Stage: Opening (A)",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "Valorant EMEA",
+                "url": "https://www.twitch.tv/valorant_emea"
+            },
+            {
+                "name": "VCT EMEA (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsEMEA/live"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/2hPklN_k1KI?list=PLTlFZO3kdyGDVFQ7hbjMJ5pgm-77ty5Lv&t=1674"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/KcwOCwLEgIg?list=PLTlFZO3kdyGDVFQ7hbjMJ5pgm-77ty5Lv&t=473"
+            },
+            {
+                "name": "Map 3",
+                "url": "https://youtu.be/CBlmv0rRNoA?list=PLTlFZO3kdyGDVFQ7hbjMJ5pgm-77ty5Lv&t=405"
+            }
+        ]
+    },
+    "map_count": 3,
+    "data": [
+        {
+            "map": "Split",
+            "teams": [
+                {
+                    "name": "GIANTX",
+                    "score": 11
+                },
+                {
+                    "name": "Karmine Corp",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "4181",
+                    "name": "Cloud",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Breach",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/breach.png"
+                        }
+                    ],
+                    "rating": 1.18,
+                    "acs": 251,
+                    "kills": 21,
+                    "deaths": 20,
+                    "assists": 13,
+                    "kast": 67,
+                    "adr": 152,
+                    "headshot_percent": 37,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "292",
+                    "name": "Fit1nho",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.13,
+                    "acs": 240,
+                    "kills": 21,
+                    "deaths": 17,
+                    "assists": 2,
+                    "kast": 71,
+                    "adr": 156,
+                    "headshot_percent": 28,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "1427",
+                    "name": "Redgar",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.99,
+                    "acs": 162,
+                    "kills": 14,
+                    "deaths": 12,
+                    "assists": 6,
+                    "kast": 83,
+                    "adr": 101,
+                    "headshot_percent": 26,
+                    "first_kills": 3,
+                    "first_deaths": 3,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "3070",
+                    "name": "nukkye",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 0.87,
+                    "acs": 174,
+                    "kills": 14,
+                    "deaths": 18,
+                    "assists": 9,
+                    "kast": 63,
+                    "adr": 117,
+                    "headshot_percent": 33,
+                    "first_kills": 3,
+                    "first_deaths": 4,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "2690",
+                    "name": "hoody",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Skye",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/skye.png"
+                        }
+                    ],
+                    "rating": 0.79,
+                    "acs": 144,
+                    "kills": 11,
+                    "deaths": 16,
+                    "assists": 9,
+                    "kast": 71,
+                    "adr": 98,
+                    "headshot_percent": 21,
+                    "first_kills": 1,
+                    "first_deaths": 4,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "36245",
+                    "name": "N4RRATE",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.25,
+                    "acs": 295,
+                    "kills": 23,
+                    "deaths": 18,
+                    "assists": 4,
+                    "kast": 79,
+                    "adr": 179,
+                    "headshot_percent": 20,
+                    "first_kills": 3,
+                    "first_deaths": 3,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "2173",
+                    "name": "MAGNUM",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 1.11,
+                    "acs": 186,
+                    "kills": 18,
+                    "deaths": 14,
+                    "assists": 5,
+                    "kast": 67,
+                    "adr": 123,
+                    "headshot_percent": 24,
+                    "first_kills": 3,
+                    "first_deaths": 2,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "10307",
+                    "name": "marteen",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Yoru",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/yoru.png"
+                        }
+                    ],
+                    "rating": 0.91,
+                    "acs": 210,
+                    "kills": 16,
+                    "deaths": 17,
+                    "assists": 6,
+                    "kast": 58,
+                    "adr": 138,
+                    "headshot_percent": 29,
+                    "first_kills": 3,
+                    "first_deaths": 3,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "2625",
+                    "name": "sh1n",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Astra",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/astra.png"
+                        }
+                    ],
+                    "rating": 0.9,
+                    "acs": 128,
+                    "kills": 12,
+                    "deaths": 14,
+                    "assists": 7,
+                    "kast": 71,
+                    "adr": 72,
+                    "headshot_percent": 28,
+                    "first_kills": 4,
+                    "first_deaths": 1,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "19691",
+                    "name": "tomaszy",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.85,
+                    "acs": 182,
+                    "kills": 14,
+                    "deaths": 18,
+                    "assists": 8,
+                    "kast": 75,
+                    "adr": 126,
+                    "headshot_percent": 39,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "3-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "3-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "4-1",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "4-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "4-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "4-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "5-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "5-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "5-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "6-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "6-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "6-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "7-8",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "7-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "7-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "7-11",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "8-11",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "9-11",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "9-12",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "10-12",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 23,
+                    "round_score": "11-12",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 24,
+                    "round_score": "11-13",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Sunset",
+            "teams": [
+                {
+                    "name": "GIANTX",
+                    "score": 13
+                },
+                {
+                    "name": "Karmine Corp",
+                    "score": 10
+                }
+            ],
+            "members": [
+                {
+                    "id": "2690",
+                    "name": "hoody",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Breach",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/breach.png"
+                        }
+                    ],
+                    "rating": 1.29,
+                    "acs": 203,
+                    "kills": 15,
+                    "deaths": 12,
+                    "assists": 14,
+                    "kast": 78,
+                    "adr": 124,
+                    "headshot_percent": 20,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "1427",
+                    "name": "Redgar",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.25,
+                    "acs": 248,
+                    "kills": 22,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 61,
+                    "adr": 172,
+                    "headshot_percent": 31,
+                    "first_kills": 1,
+                    "first_deaths": 4,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "4181",
+                    "name": "Cloud",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 1.22,
+                    "acs": 254,
+                    "kills": 22,
+                    "deaths": 16,
+                    "assists": 12,
+                    "kast": 70,
+                    "adr": 153,
+                    "headshot_percent": 28,
+                    "first_kills": 4,
+                    "first_deaths": 3,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "3070",
+                    "name": "nukkye",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Sage",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sage.png"
+                        }
+                    ],
+                    "rating": 1.17,
+                    "acs": 217,
+                    "kills": 17,
+                    "deaths": 15,
+                    "assists": 13,
+                    "kast": 83,
+                    "adr": 140,
+                    "headshot_percent": 33,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "292",
+                    "name": "Fit1nho",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.32,
+                    "acs": 94,
+                    "kills": 6,
+                    "deaths": 18,
+                    "assists": 3,
+                    "kast": 65,
+                    "adr": 65,
+                    "headshot_percent": 16,
+                    "first_kills": 3,
+                    "first_deaths": 2,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "19691",
+                    "name": "tomaszy",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.15,
+                    "acs": 228,
+                    "kills": 19,
+                    "deaths": 16,
+                    "assists": 7,
+                    "kast": 74,
+                    "adr": 147,
+                    "headshot_percent": 34,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "2173",
+                    "name": "MAGNUM",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 1.14,
+                    "acs": 221,
+                    "kills": 18,
+                    "deaths": 16,
+                    "assists": 4,
+                    "kast": 65,
+                    "adr": 152,
+                    "headshot_percent": 25,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "36245",
+                    "name": "N4RRATE",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 1.0,
+                    "acs": 214,
+                    "kills": 15,
+                    "deaths": 18,
+                    "assists": 7,
+                    "kast": 65,
+                    "adr": 150,
+                    "headshot_percent": 28,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "10307",
+                    "name": "marteen",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.87,
+                    "acs": 151,
+                    "kills": 12,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 70,
+                    "adr": 102,
+                    "headshot_percent": 17,
+                    "first_kills": 4,
+                    "first_deaths": 3,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "2625",
+                    "name": "sh1n",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.79,
+                    "acs": 155,
+                    "kills": 12,
+                    "deaths": 17,
+                    "assists": 7,
+                    "kast": 74,
+                    "adr": 101,
+                    "headshot_percent": 41,
+                    "first_kills": 0,
+                    "first_deaths": 3,
+                    "first_kills_diff": -3
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "0-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "1-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "1-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "2-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "3-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "4-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "5-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "6-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "7-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "7-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "7-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "8-5",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "9-5",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "10-5",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "11-5",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "12-5",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "12-6",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "12-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "12-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "12-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "12-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 23,
+                    "round_score": "13-10",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                }
+            ]
+        },
+        {
+            "map": "Lotus",
+            "teams": [
+                {
+                    "name": "GIANTX",
+                    "score": 4
+                },
+                {
+                    "name": "Karmine Corp",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "4181",
+                    "name": "Cloud",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Skye",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/skye.png"
+                        }
+                    ],
+                    "rating": 1.28,
+                    "acs": 260,
+                    "kills": 14,
+                    "deaths": 12,
+                    "assists": 8,
+                    "kast": 71,
+                    "adr": 172,
+                    "headshot_percent": 24,
+                    "first_kills": 1,
+                    "first_deaths": 0,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "3070",
+                    "name": "nukkye",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.81,
+                    "acs": 171,
+                    "kills": 10,
+                    "deaths": 13,
+                    "assists": 0,
+                    "kast": 71,
+                    "adr": 113,
+                    "headshot_percent": 26,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "292",
+                    "name": "Fit1nho",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.54,
+                    "acs": 145,
+                    "kills": 6,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 53,
+                    "adr": 104,
+                    "headshot_percent": 14,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "1427",
+                    "name": "Redgar",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.47,
+                    "acs": 126,
+                    "kills": 6,
+                    "deaths": 16,
+                    "assists": 4,
+                    "kast": 53,
+                    "adr": 87,
+                    "headshot_percent": 28,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "2690",
+                    "name": "hoody",
+                    "team": "GIANTX",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.31,
+                    "acs": 101,
+                    "kills": 6,
+                    "deaths": 15,
+                    "assists": 0,
+                    "kast": 35,
+                    "adr": 71,
+                    "headshot_percent": 18,
+                    "first_kills": 1,
+                    "first_deaths": 6,
+                    "first_kills_diff": -5
+                },
+                {
+                    "id": "36245",
+                    "name": "N4RRATE",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 1.73,
+                    "acs": 303,
+                    "kills": 18,
+                    "deaths": 8,
+                    "assists": 6,
+                    "kast": 88,
+                    "adr": 205,
+                    "headshot_percent": 30,
+                    "first_kills": 1,
+                    "first_deaths": 0,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "2173",
+                    "name": "MAGNUM",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 1.41,
+                    "acs": 250,
+                    "kills": 17,
+                    "deaths": 8,
+                    "assists": 3,
+                    "kast": 82,
+                    "adr": 189,
+                    "headshot_percent": 30,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "19691",
+                    "name": "tomaszy",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.26,
+                    "acs": 215,
+                    "kills": 14,
+                    "deaths": 8,
+                    "assists": 3,
+                    "kast": 76,
+                    "adr": 134,
+                    "headshot_percent": 41,
+                    "first_kills": 4,
+                    "first_deaths": 1,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "10307",
+                    "name": "marteen",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.23,
+                    "acs": 238,
+                    "kills": 15,
+                    "deaths": 10,
+                    "assists": 4,
+                    "kast": 76,
+                    "adr": 146,
+                    "headshot_percent": 16,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "2625",
+                    "name": "sh1n",
+                    "team": "Karmine Corp",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.88,
+                    "acs": 110,
+                    "kills": 7,
+                    "deaths": 8,
+                    "assists": 8,
+                    "kast": 88,
+                    "adr": 80,
+                    "headshot_percent": 37,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "0-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "0-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "0-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "0-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "0-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "0-7",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "1-7",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "1-8",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "2-8",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "2-9",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "3-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "3-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "3-11",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "4-11",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "4-12",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "4-13",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "GIANTX",
+                    "score": 2
+                },
+                {
+                    "name": "Karmine Corp",
+                    "score": 0
+                }
+            ],
+            "match_id": "235366"
+        },
+        {
+            "teams": [
+                {
+                    "name": "GIANTX",
+                    "score": 2
+                },
+                {
+                    "name": "Karmine Corp",
+                    "score": 0
+                }
+            ],
+            "match_id": "184059"
+        }
+    ]
+}

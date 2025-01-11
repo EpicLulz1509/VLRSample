@@ -1,0 +1,816 @@
+{
+    "teams": [
+        {
+            "name": "100 Thieves",
+            "score": 2,
+            "img": "https://owcdn.net/img/603c00d5c5a08.png",
+            "id": "120"
+        },
+        {
+            "name": "LOUD",
+            "score": 0,
+            "img": "https://owcdn.net/img/62bbec8dc1b9f.png",
+            "id": "6961"
+        }
+    ],
+    "bans": [
+        "100T ban Lotus",
+        "LOUD ban Split",
+        "100T pick Bind",
+        "LOUD pick Icebox",
+        "100T ban Breeze",
+        "LOUD ban Sunset",
+        "Ascent remains"
+    ],
+    "event": {
+        "id": "2004",
+        "img": "https://owcdn.net/img/640f5ab71dfbb.png",
+        "series": "Champions Tour 2024: Americas Stage 1",
+        "stage": "Playoffs: Knockout Round",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "VCT Americas",
+                "url": "https://www.twitch.tv/valorant_americas"
+            },
+            {
+                "name": "Valorant Brazil",
+                "url": "https://www.twitch.tv/valorant_br"
+            },
+            {
+                "name": "Valorant LATAM",
+                "url": "https://www.twitch.tv/valorant_la"
+            },
+            {
+                "name": "VCT Americas (YT)",
+                "url": "https://www.youtube.com/@valorant_americas/live"
+            },
+            {
+                "name": "VAL Esports BR (YT)",
+                "url": "https://www.youtube.com/@valorantesportsbr/live"
+            },
+            {
+                "name": "VAL Esports LA (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/Q3eFhR_PaSE?t=891"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/khD2QKRXXvQ?t=427"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Bind",
+            "teams": [
+                {
+                    "name": "100 Thieves",
+                    "score": 13
+                },
+                {
+                    "name": "LOUD",
+                    "score": 6
+                }
+            ],
+            "members": [
+                {
+                    "id": "4147",
+                    "name": "Cryocells",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Brimstone",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/brimstone.png"
+                        }
+                    ],
+                    "rating": 1.94,
+                    "acs": 319,
+                    "kills": 25,
+                    "deaths": 8,
+                    "assists": 4,
+                    "kast": 95,
+                    "adr": 203,
+                    "headshot_percent": 28,
+                    "first_kills": 2,
+                    "first_deaths": 0,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "601",
+                    "name": "Asuna",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.36,
+                    "acs": 346,
+                    "kills": 23,
+                    "deaths": 16,
+                    "assists": 3,
+                    "kast": 89,
+                    "adr": 226,
+                    "headshot_percent": 31,
+                    "first_kills": 5,
+                    "first_deaths": 1,
+                    "first_kills_diff": 4
+                },
+                {
+                    "id": "796",
+                    "name": "eeiu",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 1.0,
+                    "acs": 142,
+                    "kills": 9,
+                    "deaths": 9,
+                    "assists": 9,
+                    "kast": 79,
+                    "adr": 82,
+                    "headshot_percent": 50,
+                    "first_kills": 2,
+                    "first_deaths": 0,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "3880",
+                    "name": "bang",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.84,
+                    "acs": 163,
+                    "kills": 11,
+                    "deaths": 12,
+                    "assists": 5,
+                    "kast": 74,
+                    "adr": 108,
+                    "headshot_percent": 19,
+                    "first_kills": 2,
+                    "first_deaths": 4,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "604",
+                    "name": "Boostio",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.31,
+                    "acs": 126,
+                    "kills": 7,
+                    "deaths": 17,
+                    "assists": 7,
+                    "kast": 58,
+                    "adr": 97,
+                    "headshot_percent": 23,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "2408",
+                    "name": "tuyz",
+                    "team": "LOUD",
+                    "agents": [
+                        {
+                            "title": "Brimstone",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/brimstone.png"
+                        }
+                    ],
+                    "rating": 1.31,
+                    "acs": 220,
+                    "kills": 16,
+                    "deaths": 14,
+                    "assists": 10,
+                    "kast": 89,
+                    "adr": 125,
+                    "headshot_percent": 40,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "8447",
+                    "name": "Less",
+                    "team": "LOUD",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.04,
+                    "acs": 179,
+                    "kills": 10,
+                    "deaths": 13,
+                    "assists": 6,
+                    "kast": 74,
+                    "adr": 120,
+                    "headshot_percent": 19,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "6193",
+                    "name": "cauanzin",
+                    "team": "LOUD",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.91,
+                    "acs": 213,
+                    "kills": 14,
+                    "deaths": 17,
+                    "assists": 9,
+                    "kast": 74,
+                    "adr": 121,
+                    "headshot_percent": 18,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "727",
+                    "name": "saadhak",
+                    "team": "LOUD",
+                    "agents": [
+                        {
+                            "title": "Breach",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/breach.png"
+                        }
+                    ],
+                    "rating": 0.9,
+                    "acs": 162,
+                    "kills": 11,
+                    "deaths": 13,
+                    "assists": 5,
+                    "kast": 74,
+                    "adr": 119,
+                    "headshot_percent": 24,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "1575",
+                    "name": "Quick",
+                    "team": "LOUD",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.49,
+                    "acs": 169,
+                    "kills": 11,
+                    "deaths": 18,
+                    "assists": 2,
+                    "kast": 58,
+                    "adr": 113,
+                    "headshot_percent": 19,
+                    "first_kills": 3,
+                    "first_deaths": 7,
+                    "first_kills_diff": -4
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "0-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "0-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "1-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "2-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "3-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "4-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "5-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "6-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "7-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "8-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "8-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "8-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "8-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "9-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "10-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "11-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "12-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "13-6",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Icebox",
+            "teams": [
+                {
+                    "name": "100 Thieves",
+                    "score": 13
+                },
+                {
+                    "name": "LOUD",
+                    "score": 4
+                }
+            ],
+            "members": [
+                {
+                    "id": "4147",
+                    "name": "Cryocells",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.75,
+                    "acs": 355,
+                    "kills": 22,
+                    "deaths": 7,
+                    "assists": 1,
+                    "kast": 71,
+                    "adr": 211,
+                    "headshot_percent": 17,
+                    "first_kills": 6,
+                    "first_deaths": 2,
+                    "first_kills_diff": 4
+                },
+                {
+                    "id": "3880",
+                    "name": "bang",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.41,
+                    "acs": 234,
+                    "kills": 16,
+                    "deaths": 8,
+                    "assists": 6,
+                    "kast": 82,
+                    "adr": 163,
+                    "headshot_percent": 40,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "601",
+                    "name": "Asuna",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 1.19,
+                    "acs": 174,
+                    "kills": 13,
+                    "deaths": 8,
+                    "assists": 3,
+                    "kast": 82,
+                    "adr": 101,
+                    "headshot_percent": 13,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "796",
+                    "name": "eeiu",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 1.07,
+                    "acs": 132,
+                    "kills": 7,
+                    "deaths": 6,
+                    "assists": 9,
+                    "kast": 94,
+                    "adr": 103,
+                    "headshot_percent": 24,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "604",
+                    "name": "Boostio",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 1.03,
+                    "acs": 220,
+                    "kills": 13,
+                    "deaths": 11,
+                    "assists": 2,
+                    "kast": 82,
+                    "adr": 152,
+                    "headshot_percent": 24,
+                    "first_kills": 3,
+                    "first_deaths": 2,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "2408",
+                    "name": "tuyz",
+                    "team": "LOUD",
+                    "agents": [
+                        {
+                            "title": "Harbor",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/harbor.png"
+                        }
+                    ],
+                    "rating": 0.95,
+                    "acs": 166,
+                    "kills": 10,
+                    "deaths": 13,
+                    "assists": 3,
+                    "kast": 59,
+                    "adr": 106,
+                    "headshot_percent": 32,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "727",
+                    "name": "saadhak",
+                    "team": "LOUD",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.86,
+                    "acs": 200,
+                    "kills": 10,
+                    "deaths": 14,
+                    "assists": 2,
+                    "kast": 59,
+                    "adr": 141,
+                    "headshot_percent": 21,
+                    "first_kills": 0,
+                    "first_deaths": 3,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "6193",
+                    "name": "cauanzin",
+                    "team": "LOUD",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.67,
+                    "acs": 149,
+                    "kills": 8,
+                    "deaths": 14,
+                    "assists": 3,
+                    "kast": 53,
+                    "adr": 89,
+                    "headshot_percent": 33,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "8447",
+                    "name": "Less",
+                    "team": "LOUD",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.59,
+                    "acs": 124,
+                    "kills": 7,
+                    "deaths": 14,
+                    "assists": 4,
+                    "kast": 47,
+                    "adr": 88,
+                    "headshot_percent": 22,
+                    "first_kills": 0,
+                    "first_deaths": 3,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "1575",
+                    "name": "Quick",
+                    "team": "LOUD",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 0.25,
+                    "acs": 87,
+                    "kills": 5,
+                    "deaths": 16,
+                    "assists": 1,
+                    "kast": 41,
+                    "adr": 45,
+                    "headshot_percent": 30,
+                    "first_kills": 0,
+                    "first_deaths": 3,
+                    "first_kills_diff": -3
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "3-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "4-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "5-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "6-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "6-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "7-1",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "7-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "8-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "9-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "10-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "10-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "10-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "11-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "12-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "13-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "100 Thieves",
+                    "score": 0
+                },
+                {
+                    "name": "LOUD",
+                    "score": 2
+                }
+            ],
+            "match_id": "183809"
+        }
+    ]
+}

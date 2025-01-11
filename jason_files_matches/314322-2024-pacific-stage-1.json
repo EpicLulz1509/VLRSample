@@ -1,0 +1,975 @@
+{
+    "teams": [
+        {
+            "name": "Gen.G",
+            "score": 2,
+            "img": "https://owcdn.net/img/654cc858ea9f5.png",
+            "id": "17"
+        },
+        {
+            "name": "ZETA DIVISION",
+            "score": 0,
+            "img": "https://owcdn.net/img/62a411783d94d.png",
+            "id": "5448"
+        }
+    ],
+    "bans": [
+        "ZETA ban Breeze",
+        "GEN ban Sunset",
+        "ZETA pick Split",
+        "GEN pick Ascent",
+        "ZETA ban Icebox",
+        "GEN ban Bind",
+        "Lotus remains"
+    ],
+    "event": {
+        "id": "2002",
+        "img": "https://owcdn.net/img/640f5ae002674.png",
+        "series": "Champions Tour 2024: Pacific Stage 1",
+        "stage": "Regular Season: Week 3",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "Valorant Pacific",
+                "url": "https://www.twitch.tv/valorant_pacific"
+            },
+            {
+                "name": "Valorant Japan",
+                "url": "https://www.twitch.tv/valorant_jpn"
+            },
+            {
+                "name": "Valorant Korea",
+                "url": "https://www.twitch.tv/valorant_kr"
+            },
+            {
+                "name": "Valorant ID",
+                "url": "https://www.twitch.tv/valorant_id"
+            },
+            {
+                "name": "PPGL VCT PH",
+                "url": "https://www.twitch.tv/ppgl_vctph"
+            },
+            {
+                "name": "Valorant TH",
+                "url": "https://www.twitch.tv/valorant_th"
+            },
+            {
+                "name": "Valorant TW",
+                "url": "https://www.twitch.tv/valorant_tw"
+            },
+            {
+                "name": "VCT Pacific (YT)",
+                "url": "https://www.youtube.com/@VCTPacific/live"
+            },
+            {
+                "name": "Valorant Japan (YT)",
+                "url": "https://www.youtube.com/@VALORANTjp/live"
+            },
+            {
+                "name": "VCT KR (YT)",
+                "url": "https://www.youtube.com/@VCTkr/live"
+            },
+            {
+                "name": "VAL Esports ID (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsIndonesia/live"
+            },
+            {
+                "name": "VAL Esports PH (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsPH/live"
+            },
+            {
+                "name": "PPGL (YT)",
+                "url": "https://www.youtube.com/@PPGLGG/live"
+            },
+            {
+                "name": "VAL Esports TH (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsTH/live"
+            },
+            {
+                "name": "VAL Esports TW (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsTW/live"
+            },
+            {
+                "name": "VCT Vietnam (YT)",
+                "url": "https://www.youtube.com/@VALORANTChampionsTourVietnam/live"
+            },
+            {
+                "name": "VAL Esports SA (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsSA/live"
+            },
+            {
+                "name": "Valorant (AFTV)",
+                "url": "https://play.afreecatv.com/valoranten"
+            },
+            {
+                "name": "Valorant KR (SOOP)",
+                "url": "https://play.sooplive.co.kr/valorant"
+            },
+            {
+                "name": "Valorant TH (AFTV)",
+                "url": "https://play.afreecatv.com/valorantth"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/u-pQ6C-YTmk?t=12185"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/u-pQ6C-YTmk?t=15613"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Split",
+            "teams": [
+                {
+                    "name": "Gen.G",
+                    "score": 13
+                },
+                {
+                    "name": "ZETA DIVISION",
+                    "score": 8
+                }
+            ],
+            "members": [
+                {
+                    "id": "34974",
+                    "name": "Karon",
+                    "team": "Gen.G",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.68,
+                    "acs": 272,
+                    "kills": 22,
+                    "deaths": 8,
+                    "assists": 6,
+                    "kast": 90,
+                    "adr": 163,
+                    "headshot_percent": 27,
+                    "first_kills": 2,
+                    "first_deaths": 0,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "13039",
+                    "name": "Meteor",
+                    "team": "Gen.G",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.42,
+                    "acs": 284,
+                    "kills": 22,
+                    "deaths": 11,
+                    "assists": 3,
+                    "kast": 71,
+                    "adr": 166,
+                    "headshot_percent": 16,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "773",
+                    "name": "Lakia",
+                    "team": "Gen.G",
+                    "agents": [
+                        {
+                            "title": "Skye",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/skye.png"
+                        }
+                    ],
+                    "rating": 1.17,
+                    "acs": 193,
+                    "kills": 15,
+                    "deaths": 12,
+                    "assists": 12,
+                    "kast": 81,
+                    "adr": 132,
+                    "headshot_percent": 24,
+                    "first_kills": 0,
+                    "first_deaths": 2,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "9196",
+                    "name": "t3xture",
+                    "team": "Gen.G",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.78,
+                    "acs": 170,
+                    "kills": 13,
+                    "deaths": 14,
+                    "assists": 3,
+                    "kast": 57,
+                    "adr": 114,
+                    "headshot_percent": 24,
+                    "first_kills": 3,
+                    "first_deaths": 3,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "2489",
+                    "name": "Munchkin",
+                    "team": "Gen.G",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.62,
+                    "acs": 107,
+                    "kills": 5,
+                    "deaths": 12,
+                    "assists": 8,
+                    "kast": 71,
+                    "adr": 85,
+                    "headshot_percent": 8,
+                    "first_kills": 1,
+                    "first_deaths": 6,
+                    "first_kills_diff": -5
+                },
+                {
+                    "id": "29840",
+                    "name": "yuran",
+                    "team": "ZETA DIVISION",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.21,
+                    "acs": 204,
+                    "kills": 14,
+                    "deaths": 14,
+                    "assists": 5,
+                    "kast": 67,
+                    "adr": 153,
+                    "headshot_percent": 21,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "424",
+                    "name": "Dep",
+                    "team": "ZETA DIVISION",
+                    "agents": [
+                        {
+                            "title": "Yoru",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/yoru.png"
+                        }
+                    ],
+                    "rating": 0.95,
+                    "acs": 223,
+                    "kills": 17,
+                    "deaths": 17,
+                    "assists": 2,
+                    "kast": 71,
+                    "adr": 149,
+                    "headshot_percent": 32,
+                    "first_kills": 5,
+                    "first_deaths": 4,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "999",
+                    "name": "Laz",
+                    "team": "ZETA DIVISION",
+                    "agents": [
+                        {
+                            "title": "Chamber",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/chamber.png"
+                        }
+                    ],
+                    "rating": 0.91,
+                    "acs": 158,
+                    "kills": 11,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 57,
+                    "adr": 117,
+                    "headshot_percent": 27,
+                    "first_kills": 4,
+                    "first_deaths": 1,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "6668",
+                    "name": "SugarZ3ro",
+                    "team": "ZETA DIVISION",
+                    "agents": [
+                        {
+                            "title": "Astra",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/astra.png"
+                        }
+                    ],
+                    "rating": 0.76,
+                    "acs": 144,
+                    "kills": 9,
+                    "deaths": 15,
+                    "assists": 5,
+                    "kast": 62,
+                    "adr": 96,
+                    "headshot_percent": 31,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "10588",
+                    "name": "hiroronn",
+                    "team": "ZETA DIVISION",
+                    "agents": [
+                        {
+                            "title": "Breach",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/breach.png"
+                        }
+                    ],
+                    "rating": 0.51,
+                    "acs": 92,
+                    "kills": 6,
+                    "deaths": 16,
+                    "assists": 6,
+                    "kast": 67,
+                    "adr": 58,
+                    "headshot_percent": 21,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "1-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "1-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "2-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "2-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "2-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "3-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "4-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "5-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "6-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "7-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "7-5",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "8-5",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "9-5",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "10-5",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "11-5",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "12-5",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "12-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "12-7",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "12-8",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "13-8",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Ascent",
+            "teams": [
+                {
+                    "name": "Gen.G",
+                    "score": 14
+                },
+                {
+                    "name": "ZETA DIVISION",
+                    "score": 12
+                }
+            ],
+            "members": [
+                {
+                    "id": "9196",
+                    "name": "t3xture",
+                    "team": "Gen.G",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.19,
+                    "acs": 235,
+                    "kills": 21,
+                    "deaths": 17,
+                    "assists": 4,
+                    "kast": 73,
+                    "adr": 156,
+                    "headshot_percent": 25,
+                    "first_kills": 7,
+                    "first_deaths": 2,
+                    "first_kills_diff": 5
+                },
+                {
+                    "id": "2489",
+                    "name": "Munchkin",
+                    "team": "Gen.G",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 1.1,
+                    "acs": 191,
+                    "kills": 18,
+                    "deaths": 15,
+                    "assists": 11,
+                    "kast": 62,
+                    "adr": 127,
+                    "headshot_percent": 27,
+                    "first_kills": 0,
+                    "first_deaths": 2,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "773",
+                    "name": "Lakia",
+                    "team": "Gen.G",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 1.07,
+                    "acs": 174,
+                    "kills": 14,
+                    "deaths": 16,
+                    "assists": 13,
+                    "kast": 73,
+                    "adr": 116,
+                    "headshot_percent": 21,
+                    "first_kills": 2,
+                    "first_deaths": 4,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "13039",
+                    "name": "Meteor",
+                    "team": "Gen.G",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.98,
+                    "acs": 236,
+                    "kills": 22,
+                    "deaths": 20,
+                    "assists": 5,
+                    "kast": 58,
+                    "adr": 160,
+                    "headshot_percent": 40,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "34974",
+                    "name": "Karon",
+                    "team": "Gen.G",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.96,
+                    "acs": 174,
+                    "kills": 16,
+                    "deaths": 18,
+                    "assists": 12,
+                    "kast": 62,
+                    "adr": 121,
+                    "headshot_percent": 29,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "424",
+                    "name": "Dep",
+                    "team": "ZETA DIVISION",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.55,
+                    "acs": 321,
+                    "kills": 29,
+                    "deaths": 18,
+                    "assists": 1,
+                    "kast": 77,
+                    "adr": 213,
+                    "headshot_percent": 28,
+                    "first_kills": 7,
+                    "first_deaths": 2,
+                    "first_kills_diff": 5
+                },
+                {
+                    "id": "6668",
+                    "name": "SugarZ3ro",
+                    "team": "ZETA DIVISION",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.05,
+                    "acs": 206,
+                    "kills": 19,
+                    "deaths": 18,
+                    "assists": 9,
+                    "kast": 69,
+                    "adr": 130,
+                    "headshot_percent": 41,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "999",
+                    "name": "Laz",
+                    "team": "ZETA DIVISION",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 1.01,
+                    "acs": 174,
+                    "kills": 16,
+                    "deaths": 14,
+                    "assists": 3,
+                    "kast": 69,
+                    "adr": 123,
+                    "headshot_percent": 25,
+                    "first_kills": 0,
+                    "first_deaths": 3,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "29840",
+                    "name": "yuran",
+                    "team": "ZETA DIVISION",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.85,
+                    "acs": 196,
+                    "kills": 17,
+                    "deaths": 21,
+                    "assists": 8,
+                    "kast": 58,
+                    "adr": 118,
+                    "headshot_percent": 23,
+                    "first_kills": 4,
+                    "first_deaths": 3,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "10588",
+                    "name": "hiroronn",
+                    "team": "ZETA DIVISION",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.39,
+                    "acs": 68,
+                    "kills": 5,
+                    "deaths": 20,
+                    "assists": 13,
+                    "kast": 62,
+                    "adr": 48,
+                    "headshot_percent": 8,
+                    "first_kills": 0,
+                    "first_deaths": 5,
+                    "first_kills_diff": -5
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "0-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "1-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "2-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "3-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "4-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "4-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "4-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "5-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "6-4",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "6-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "7-5",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "8-5",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "9-5",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "9-6",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "9-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "9-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "9-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "10-9",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "11-9",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "12-9",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "12-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 23,
+                    "round_score": "12-11",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 24,
+                    "round_score": "12-12",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 25,
+                    "round_score": "13-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 26,
+                    "round_score": "14-12",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "Gen.G",
+                    "score": 2
+                },
+                {
+                    "name": "ZETA DIVISION",
+                    "score": 0
+                }
+            ],
+            "match_id": "297255"
+        },
+        {
+            "teams": [
+                {
+                    "name": "Gen.G",
+                    "score": 1
+                },
+                {
+                    "name": "ZETA DIVISION",
+                    "score": 2
+                }
+            ],
+            "match_id": "184498"
+        },
+        {
+            "teams": [
+                {
+                    "name": "Gen.G",
+                    "score": 0
+                },
+                {
+                    "name": "ZETA DIVISION",
+                    "score": 2
+                }
+            ],
+            "match_id": "159149"
+        }
+    ]
+}

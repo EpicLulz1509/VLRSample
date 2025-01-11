@@ -1,0 +1,851 @@
+{
+    "teams": [
+        {
+            "name": "G2 Esports",
+            "score": 0,
+            "img": "https://owcdn.net/img/633822848a741.png",
+            "id": "11058"
+        },
+        {
+            "name": "100 Thieves",
+            "score": 2,
+            "img": "https://owcdn.net/img/603c00d5c5a08.png",
+            "id": "120"
+        }
+    ],
+    "bans": [
+        "100T ban Lotus",
+        "G2 ban Sunset",
+        "100T pick Bind",
+        "G2 pick Split",
+        "100T ban Breeze",
+        "G2 ban Ascent",
+        "Icebox remains"
+    ],
+    "event": {
+        "id": "2004",
+        "img": "https://owcdn.net/img/640f5ab71dfbb.png",
+        "series": "Champions Tour 2024: Americas Stage 1",
+        "stage": "Regular Season: Week 2",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "VCT Americas",
+                "url": "https://www.twitch.tv/valorant_americas"
+            },
+            {
+                "name": "Valorant Brazil",
+                "url": "https://www.twitch.tv/valorant_br"
+            },
+            {
+                "name": "Valorant LATAM",
+                "url": "https://www.twitch.tv/valorant_la"
+            },
+            {
+                "name": "VCT Americas (YT)",
+                "url": "https://www.youtube.com/@valorant_americas/live"
+            },
+            {
+                "name": "VAL Esports BR (YT)",
+                "url": "https://www.youtube.com/@valorantesportsbr/live"
+            },
+            {
+                "name": "VAL Esports LA (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/BEv_wljC2gU?t=2279"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/GZJcxStwphA?t=520"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Bind",
+            "teams": [
+                {
+                    "name": "G2 Esports",
+                    "score": 9
+                },
+                {
+                    "name": "100 Thieves",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "4581",
+                    "name": "JonahP",
+                    "team": "G2 Esports",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 1.07,
+                    "acs": 171,
+                    "kills": 11,
+                    "deaths": 13,
+                    "assists": 16,
+                    "kast": 86,
+                    "adr": 118,
+                    "headshot_percent": 18,
+                    "first_kills": 2,
+                    "first_deaths": 0,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "15500",
+                    "name": "trent",
+                    "team": "G2 Esports",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 1.06,
+                    "acs": 233,
+                    "kills": 16,
+                    "deaths": 17,
+                    "assists": 18,
+                    "kast": 82,
+                    "adr": 151,
+                    "headshot_percent": 37,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "3885",
+                    "name": "valyn",
+                    "team": "G2 Esports",
+                    "agents": [
+                        {
+                            "title": "Brimstone",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/brimstone.png"
+                        }
+                    ],
+                    "rating": 0.97,
+                    "acs": 204,
+                    "kills": 17,
+                    "deaths": 15,
+                    "assists": 7,
+                    "kast": 82,
+                    "adr": 117,
+                    "headshot_percent": 24,
+                    "first_kills": 3,
+                    "first_deaths": 2,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "8402",
+                    "name": "icy",
+                    "team": "G2 Esports",
+                    "agents": [
+                        {
+                            "title": "Yoru",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/yoru.png"
+                        }
+                    ],
+                    "rating": 0.95,
+                    "acs": 225,
+                    "kills": 17,
+                    "deaths": 17,
+                    "assists": 4,
+                    "kast": 68,
+                    "adr": 136,
+                    "headshot_percent": 21,
+                    "first_kills": 4,
+                    "first_deaths": 5,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "7873",
+                    "name": "leaf",
+                    "team": "G2 Esports",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.93,
+                    "acs": 186,
+                    "kills": 13,
+                    "deaths": 15,
+                    "assists": 6,
+                    "kast": 59,
+                    "adr": 129,
+                    "headshot_percent": 37,
+                    "first_kills": 1,
+                    "first_deaths": 0,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "4147",
+                    "name": "Cryocells",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Brimstone",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/brimstone.png"
+                        }
+                    ],
+                    "rating": 1.34,
+                    "acs": 235,
+                    "kills": 18,
+                    "deaths": 14,
+                    "assists": 15,
+                    "kast": 77,
+                    "adr": 156,
+                    "headshot_percent": 30,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "796",
+                    "name": "eeiu",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 1.32,
+                    "acs": 204,
+                    "kills": 18,
+                    "deaths": 12,
+                    "assists": 4,
+                    "kast": 68,
+                    "adr": 130,
+                    "headshot_percent": 28,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "3880",
+                    "name": "bang",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.17,
+                    "acs": 224,
+                    "kills": 17,
+                    "deaths": 15,
+                    "assists": 8,
+                    "kast": 77,
+                    "adr": 143,
+                    "headshot_percent": 35,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "604",
+                    "name": "Boostio",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 1.04,
+                    "acs": 174,
+                    "kills": 14,
+                    "deaths": 16,
+                    "assists": 5,
+                    "kast": 82,
+                    "adr": 116,
+                    "headshot_percent": 30,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "601",
+                    "name": "Asuna",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.54,
+                    "acs": 147,
+                    "kills": 10,
+                    "deaths": 17,
+                    "assists": 5,
+                    "kast": 45,
+                    "adr": 105,
+                    "headshot_percent": 16,
+                    "first_kills": 5,
+                    "first_deaths": 8,
+                    "first_kills_diff": -3
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "0-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "1-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "2-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "2-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "2-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "2-5",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "2-6",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "2-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "3-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "4-7",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "4-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "5-8",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "6-8",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "6-9",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "7-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "7-10",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "7-11",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "7-12",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "8-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "9-12",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "9-13",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Split",
+            "teams": [
+                {
+                    "name": "G2 Esports",
+                    "score": 8
+                },
+                {
+                    "name": "100 Thieves",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "15500",
+                    "name": "trent",
+                    "team": "G2 Esports",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.21,
+                    "acs": 258,
+                    "kills": 19,
+                    "deaths": 16,
+                    "assists": 5,
+                    "kast": 62,
+                    "adr": 173,
+                    "headshot_percent": 34,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "7873",
+                    "name": "leaf",
+                    "team": "G2 Esports",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 0.9,
+                    "acs": 199,
+                    "kills": 14,
+                    "deaths": 16,
+                    "assists": 2,
+                    "kast": 71,
+                    "adr": 130,
+                    "headshot_percent": 25,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "3885",
+                    "name": "valyn",
+                    "team": "G2 Esports",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.78,
+                    "acs": 126,
+                    "kills": 12,
+                    "deaths": 15,
+                    "assists": 1,
+                    "kast": 67,
+                    "adr": 78,
+                    "headshot_percent": 30,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "4581",
+                    "name": "JonahP",
+                    "team": "G2 Esports",
+                    "agents": [
+                        {
+                            "title": "Breach",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/breach.png"
+                        }
+                    ],
+                    "rating": 0.72,
+                    "acs": 134,
+                    "kills": 9,
+                    "deaths": 14,
+                    "assists": 9,
+                    "kast": 71,
+                    "adr": 87,
+                    "headshot_percent": 13,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "8402",
+                    "name": "icy",
+                    "team": "G2 Esports",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.55,
+                    "acs": 133,
+                    "kills": 7,
+                    "deaths": 15,
+                    "assists": 7,
+                    "kast": 67,
+                    "adr": 97,
+                    "headshot_percent": 17,
+                    "first_kills": 2,
+                    "first_deaths": 7,
+                    "first_kills_diff": -5
+                },
+                {
+                    "id": "601",
+                    "name": "Asuna",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.46,
+                    "acs": 301,
+                    "kills": 21,
+                    "deaths": 13,
+                    "assists": 6,
+                    "kast": 71,
+                    "adr": 205,
+                    "headshot_percent": 23,
+                    "first_kills": 7,
+                    "first_deaths": 5,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "3880",
+                    "name": "bang",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.27,
+                    "acs": 206,
+                    "kills": 14,
+                    "deaths": 10,
+                    "assists": 13,
+                    "kast": 81,
+                    "adr": 133,
+                    "headshot_percent": 22,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "796",
+                    "name": "eeiu",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 1.17,
+                    "acs": 182,
+                    "kills": 15,
+                    "deaths": 11,
+                    "assists": 3,
+                    "kast": 71,
+                    "adr": 124,
+                    "headshot_percent": 26,
+                    "first_kills": 1,
+                    "first_deaths": 0,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "4147",
+                    "name": "Cryocells",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Astra",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/astra.png"
+                        }
+                    ],
+                    "rating": 1.13,
+                    "acs": 223,
+                    "kills": 16,
+                    "deaths": 14,
+                    "assists": 7,
+                    "kast": 76,
+                    "adr": 150,
+                    "headshot_percent": 18,
+                    "first_kills": 2,
+                    "first_deaths": 0,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "604",
+                    "name": "Boostio",
+                    "team": "100 Thieves",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.71,
+                    "acs": 119,
+                    "kills": 9,
+                    "deaths": 13,
+                    "assists": 2,
+                    "kast": 67,
+                    "adr": 80,
+                    "headshot_percent": 20,
+                    "first_kills": 0,
+                    "first_deaths": 2,
+                    "first_kills_diff": -2
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "3-1",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "4-1",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "4-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "4-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "4-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "4-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "4-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "4-7",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "4-8",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "5-8",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "6-8",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "6-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "6-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "7-10",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "7-11",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "8-11",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "8-12",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "8-13",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": []
+}

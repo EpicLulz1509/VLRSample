@@ -1,0 +1,851 @@
+{
+    "teams": [
+        {
+            "name": "BLEED",
+            "score": 0,
+            "img": "https://owcdn.net/img/662f72ad88211.png",
+            "id": "6387"
+        },
+        {
+            "name": "Rex Regum Qeon",
+            "score": 2,
+            "img": "https://owcdn.net/img/629f17f51e7a3.png",
+            "id": "878"
+        }
+    ],
+    "bans": [
+        "BLD ban Ascent",
+        "RRQ ban Sunset",
+        "BLD pick Lotus",
+        "RRQ pick Icebox",
+        "BLD ban Split",
+        "RRQ ban Bind",
+        "Breeze remains"
+    ],
+    "event": {
+        "id": "2002",
+        "img": "https://owcdn.net/img/640f5ae002674.png",
+        "series": "Champions Tour 2024: Pacific Stage 1",
+        "stage": "Regular Season: Week 2",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "Valorant Pacific",
+                "url": "https://www.twitch.tv/valorant_pacific"
+            },
+            {
+                "name": "Valorant Japan",
+                "url": "https://www.twitch.tv/valorant_jpn"
+            },
+            {
+                "name": "Valorant Korea",
+                "url": "https://www.twitch.tv/valorant_kr"
+            },
+            {
+                "name": "Valorant ID",
+                "url": "https://www.twitch.tv/valorant_id"
+            },
+            {
+                "name": "PPGL VCT PH",
+                "url": "https://www.twitch.tv/ppgl_vctph"
+            },
+            {
+                "name": "Valorant TH",
+                "url": "https://www.twitch.tv/valorant_th"
+            },
+            {
+                "name": "Valorant TW",
+                "url": "https://www.twitch.tv/valorant_tw"
+            },
+            {
+                "name": "VCT Pacific (YT)",
+                "url": "https://www.youtube.com/@VCTPacific/live"
+            },
+            {
+                "name": "Valorant Japan (YT)",
+                "url": "https://www.youtube.com/@VALORANTjp/live"
+            },
+            {
+                "name": "VCT KR (YT)",
+                "url": "https://www.youtube.com/@VCTkr/live"
+            },
+            {
+                "name": "VAL Esports ID (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsIndonesia/live"
+            },
+            {
+                "name": "VAL Esports PH (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsPH/live"
+            },
+            {
+                "name": "PPGL (YT)",
+                "url": "https://www.youtube.com/@PPGLGG/live"
+            },
+            {
+                "name": "VAL Esports TH (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsTH/live"
+            },
+            {
+                "name": "VAL Esports TW (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsTW/live"
+            },
+            {
+                "name": "VCT Vietnam (YT)",
+                "url": "https://www.youtube.com/@VALORANTChampionsTourVietnam/live"
+            },
+            {
+                "name": "VAL Esports SA (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsSA/live"
+            },
+            {
+                "name": "Valorant (AFTV)",
+                "url": "https://play.afreecatv.com/valoranten"
+            },
+            {
+                "name": "Valorant KR (SOOP)",
+                "url": "https://play.sooplive.co.kr/valorant"
+            },
+            {
+                "name": "Valorant TH (AFTV)",
+                "url": "https://play.afreecatv.com/valorantth"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/DRCfmZjbsdM?t=15066"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/DRCfmZjbsdM?t=17930"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Lotus",
+            "teams": [
+                {
+                    "name": "BLEED",
+                    "score": 2
+                },
+                {
+                    "name": "Rex Regum Qeon",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "4382",
+                    "name": "sScary",
+                    "team": "BLEED",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.04,
+                    "acs": 217,
+                    "kills": 12,
+                    "deaths": 12,
+                    "assists": 3,
+                    "kast": 67,
+                    "adr": 143,
+                    "headshot_percent": 26,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "2361",
+                    "name": "Retla",
+                    "team": "BLEED",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.76,
+                    "acs": 169,
+                    "kills": 9,
+                    "deaths": 12,
+                    "assists": 1,
+                    "kast": 67,
+                    "adr": 118,
+                    "headshot_percent": 43,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "9152",
+                    "name": "Deryeon",
+                    "team": "BLEED",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.54,
+                    "acs": 176,
+                    "kills": 8,
+                    "deaths": 13,
+                    "assists": 2,
+                    "kast": 53,
+                    "adr": 110,
+                    "headshot_percent": 42,
+                    "first_kills": 1,
+                    "first_deaths": 0,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "881",
+                    "name": "yay",
+                    "team": "BLEED",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 0.51,
+                    "acs": 152,
+                    "kills": 5,
+                    "deaths": 13,
+                    "assists": 4,
+                    "kast": 60,
+                    "adr": 116,
+                    "headshot_percent": 23,
+                    "first_kills": 2,
+                    "first_deaths": 5,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "772",
+                    "name": "Zest",
+                    "team": "BLEED",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 0.14,
+                    "acs": 53,
+                    "kills": 2,
+                    "deaths": 12,
+                    "assists": 3,
+                    "kast": 47,
+                    "adr": 37,
+                    "headshot_percent": 25,
+                    "first_kills": 0,
+                    "first_deaths": 3,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "24895",
+                    "name": "Jemkin",
+                    "team": "Rex Regum Qeon",
+                    "agents": [
+                        {
+                            "title": "Raze",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/raze.png"
+                        }
+                    ],
+                    "rating": 1.51,
+                    "acs": 259,
+                    "kills": 14,
+                    "deaths": 7,
+                    "assists": 3,
+                    "kast": 100,
+                    "adr": 176,
+                    "headshot_percent": 18,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "7764",
+                    "name": "Lmemore",
+                    "team": "Rex Regum Qeon",
+                    "agents": [
+                        {
+                            "title": "Fade",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/fade.png"
+                        }
+                    ],
+                    "rating": 1.37,
+                    "acs": 217,
+                    "kills": 12,
+                    "deaths": 7,
+                    "assists": 6,
+                    "kast": 93,
+                    "adr": 141,
+                    "headshot_percent": 39,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "4871",
+                    "name": "xffero",
+                    "team": "Rex Regum Qeon",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 1.33,
+                    "acs": 239,
+                    "kills": 13,
+                    "deaths": 8,
+                    "assists": 3,
+                    "kast": 93,
+                    "adr": 148,
+                    "headshot_percent": 21,
+                    "first_kills": 5,
+                    "first_deaths": 0,
+                    "first_kills_diff": 5
+                },
+                {
+                    "id": "25025",
+                    "name": "Estrella",
+                    "team": "Rex Regum Qeon",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.27,
+                    "acs": 190,
+                    "kills": 13,
+                    "deaths": 7,
+                    "assists": 4,
+                    "kast": 87,
+                    "adr": 134,
+                    "headshot_percent": 31,
+                    "first_kills": 1,
+                    "first_deaths": 0,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "7045",
+                    "name": "fl1pzjder",
+                    "team": "Rex Regum Qeon",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.05,
+                    "acs": 188,
+                    "kills": 10,
+                    "deaths": 7,
+                    "assists": 6,
+                    "kast": 67,
+                    "adr": 132,
+                    "headshot_percent": 29,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "0-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "0-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "0-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "0-5",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "0-6",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "0-7",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "0-8",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "0-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "0-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "1-10",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "2-10",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "2-11",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "2-12",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "2-13",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                }
+            ]
+        },
+        {
+            "map": "Icebox",
+            "teams": [
+                {
+                    "name": "BLEED",
+                    "score": 5
+                },
+                {
+                    "name": "Rex Regum Qeon",
+                    "score": 13
+                }
+            ],
+            "members": [
+                {
+                    "id": "4382",
+                    "name": "sScary",
+                    "team": "BLEED",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.16,
+                    "acs": 258,
+                    "kills": 16,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 78,
+                    "adr": 161,
+                    "headshot_percent": 22,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "9152",
+                    "name": "Deryeon",
+                    "team": "BLEED",
+                    "agents": [
+                        {
+                            "title": "Kayo",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/kayo.png"
+                        }
+                    ],
+                    "rating": 0.86,
+                    "acs": 159,
+                    "kills": 9,
+                    "deaths": 15,
+                    "assists": 14,
+                    "kast": 83,
+                    "adr": 98,
+                    "headshot_percent": 27,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "881",
+                    "name": "yay",
+                    "team": "BLEED",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 0.8,
+                    "acs": 208,
+                    "kills": 12,
+                    "deaths": 15,
+                    "assists": 2,
+                    "kast": 61,
+                    "adr": 143,
+                    "headshot_percent": 34,
+                    "first_kills": 3,
+                    "first_deaths": 4,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "772",
+                    "name": "Zest",
+                    "team": "BLEED",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.63,
+                    "acs": 166,
+                    "kills": 10,
+                    "deaths": 16,
+                    "assists": 3,
+                    "kast": 61,
+                    "adr": 114,
+                    "headshot_percent": 39,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "2361",
+                    "name": "Retla",
+                    "team": "BLEED",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.4,
+                    "acs": 96,
+                    "kills": 7,
+                    "deaths": 14,
+                    "assists": 0,
+                    "kast": 44,
+                    "adr": 62,
+                    "headshot_percent": 30,
+                    "first_kills": 0,
+                    "first_deaths": 2,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "7764",
+                    "name": "Lmemore",
+                    "team": "Rex Regum Qeon",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 2.22,
+                    "acs": 440,
+                    "kills": 30,
+                    "deaths": 10,
+                    "assists": 3,
+                    "kast": 83,
+                    "adr": 276,
+                    "headshot_percent": 30,
+                    "first_kills": 4,
+                    "first_deaths": 2,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "4871",
+                    "name": "xffero",
+                    "team": "Rex Regum Qeon",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 1.71,
+                    "acs": 313,
+                    "kills": 23,
+                    "deaths": 9,
+                    "assists": 1,
+                    "kast": 89,
+                    "adr": 216,
+                    "headshot_percent": 34,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "24895",
+                    "name": "Jemkin",
+                    "team": "Rex Regum Qeon",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 1.14,
+                    "acs": 199,
+                    "kills": 14,
+                    "deaths": 10,
+                    "assists": 0,
+                    "kast": 78,
+                    "adr": 123,
+                    "headshot_percent": 50,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "25025",
+                    "name": "Estrella",
+                    "team": "Rex Regum Qeon",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.53,
+                    "acs": 149,
+                    "kills": 8,
+                    "deaths": 14,
+                    "assists": 7,
+                    "kast": 78,
+                    "adr": 94,
+                    "headshot_percent": 18,
+                    "first_kills": 1,
+                    "first_deaths": 2,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "7045",
+                    "name": "fl1pzjder",
+                    "team": "Rex Regum Qeon",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 0.33,
+                    "acs": 29,
+                    "kills": 0,
+                    "deaths": 11,
+                    "assists": 5,
+                    "kast": 78,
+                    "adr": 28,
+                    "headshot_percent": 7,
+                    "first_kills": 0,
+                    "first_deaths": 2,
+                    "first_kills_diff": -2
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "2-1",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "2-2",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "2-3",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "3-3",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "3-4",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "3-5",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Time out"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "3-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "3-7",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "3-8",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "4-8",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "4-9",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "4-10",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "4-11",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "5-11",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "5-12",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "5-13",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "BLEED",
+                    "score": 2
+                },
+                {
+                    "name": "Rex Regum Qeon",
+                    "score": 1
+                }
+            ],
+            "match_id": "104847"
+        }
+    ]
+}

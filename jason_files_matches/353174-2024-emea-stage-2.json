@@ -1,0 +1,859 @@
+{
+    "teams": [
+        {
+            "name": "FNATIC",
+            "score": 2,
+            "img": "https://owcdn.net/img/62a40cc2b5e29.png",
+            "id": "2593"
+        },
+        {
+            "name": "Team Liquid",
+            "score": 0,
+            "img": "https://owcdn.net/img/640c381f0603f.png",
+            "id": "474"
+        }
+    ],
+    "bans": [
+        "TL ban Lotus",
+        "FNC ban Sunset",
+        "TL pick Icebox",
+        "FNC pick Haven",
+        "TL ban Split",
+        "FNC ban Bind",
+        "Ascent remains"
+    ],
+    "event": {
+        "id": "2094",
+        "img": "https://owcdn.net/img/65ab59620a233.png",
+        "series": "Champions Tour 2024: EMEA Stage 2",
+        "stage": "Regular Season: Week 4",
+        "date": null,
+        "patch": null,
+        "status": "final"
+    },
+    "videos": {
+        "streams": [
+            {
+                "name": "Valorant EMEA",
+                "url": "https://www.twitch.tv/valorant_emea"
+            },
+            {
+                "name": "VCT EMEA (YT)",
+                "url": "https://www.youtube.com/@VALORANTEsportsEMEA/live"
+            }
+        ],
+        "vods": [
+            {
+                "name": "Map 1",
+                "url": "https://youtu.be/JrfGQPLvSs0?list=PLTlFZO3kdyGATptohoT-WptkTH7G4yo1J&t=880"
+            },
+            {
+                "name": "Map 2",
+                "url": "https://youtu.be/A43q3ZzPVQ8?list=PLTlFZO3kdyGATptohoT-WptkTH7G4yo1J&t=308"
+            }
+        ]
+    },
+    "map_count": 2,
+    "data": [
+        {
+            "map": "Icebox",
+            "teams": [
+                {
+                    "name": "FNATIC",
+                    "score": 13
+                },
+                {
+                    "name": "Team Liquid",
+                    "score": 2
+                }
+            ],
+            "members": [
+                {
+                    "id": "5022",
+                    "name": "Derke",
+                    "team": "FNATIC",
+                    "agents": [
+                        {
+                            "title": "Iso",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/iso.png"
+                        }
+                    ],
+                    "rating": 1.84,
+                    "acs": 367,
+                    "kills": 21,
+                    "deaths": 8,
+                    "assists": 7,
+                    "kast": 87,
+                    "adr": 247,
+                    "headshot_percent": 33,
+                    "first_kills": 5,
+                    "first_deaths": 1,
+                    "first_kills_diff": 4
+                },
+                {
+                    "id": "29867",
+                    "name": "hiro",
+                    "team": "FNATIC",
+                    "agents": [
+                        {
+                            "title": "Gekko",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/gekko.png"
+                        }
+                    ],
+                    "rating": 1.56,
+                    "acs": 243,
+                    "kills": 15,
+                    "deaths": 7,
+                    "assists": 4,
+                    "kast": 87,
+                    "adr": 159,
+                    "headshot_percent": 34,
+                    "first_kills": 2,
+                    "first_deaths": 1,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "438",
+                    "name": "Boaster",
+                    "team": "FNATIC",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 1.47,
+                    "acs": 214,
+                    "kills": 11,
+                    "deaths": 5,
+                    "assists": 8,
+                    "kast": 100,
+                    "adr": 161,
+                    "headshot_percent": 29,
+                    "first_kills": 3,
+                    "first_deaths": 1,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "9810",
+                    "name": "Alfajer",
+                    "team": "FNATIC",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 1.33,
+                    "acs": 197,
+                    "kills": 11,
+                    "deaths": 6,
+                    "assists": 1,
+                    "kast": 87,
+                    "adr": 138,
+                    "headshot_percent": 23,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "458",
+                    "name": "Chronicle",
+                    "team": "FNATIC",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 1.23,
+                    "acs": 180,
+                    "kills": 10,
+                    "deaths": 7,
+                    "assists": 6,
+                    "kast": 80,
+                    "adr": 139,
+                    "headshot_percent": 22,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "11494",
+                    "name": "Keiko",
+                    "team": "Team Liquid",
+                    "agents": [
+                        {
+                            "title": "Reyna",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/reyna.png"
+                        }
+                    ],
+                    "rating": 0.74,
+                    "acs": 194,
+                    "kills": 10,
+                    "deaths": 13,
+                    "assists": 3,
+                    "kast": 53,
+                    "adr": 134,
+                    "headshot_percent": 50,
+                    "first_kills": 2,
+                    "first_deaths": 3,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "457",
+                    "name": "nAts",
+                    "team": "Team Liquid",
+                    "agents": [
+                        {
+                            "title": "Viper",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/viper.png"
+                        }
+                    ],
+                    "rating": 0.67,
+                    "acs": 186,
+                    "kills": 10,
+                    "deaths": 14,
+                    "assists": 0,
+                    "kast": 67,
+                    "adr": 118,
+                    "headshot_percent": 28,
+                    "first_kills": 1,
+                    "first_deaths": 3,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "9780",
+                    "name": "Jamppi",
+                    "team": "Team Liquid",
+                    "agents": [
+                        {
+                            "title": "Chamber",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/chamber.png"
+                        }
+                    ],
+                    "rating": 0.56,
+                    "acs": 151,
+                    "kills": 7,
+                    "deaths": 14,
+                    "assists": 2,
+                    "kast": 53,
+                    "adr": 91,
+                    "headshot_percent": 42,
+                    "first_kills": 0,
+                    "first_deaths": 1,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "114",
+                    "name": "Enzo",
+                    "team": "Team Liquid",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.51,
+                    "acs": 94,
+                    "kills": 3,
+                    "deaths": 13,
+                    "assists": 3,
+                    "kast": 53,
+                    "adr": 70,
+                    "headshot_percent": 15,
+                    "first_kills": 0,
+                    "first_deaths": 0,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "1457",
+                    "name": "Mistic",
+                    "team": "Team Liquid",
+                    "agents": [
+                        {
+                            "title": "Sage",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sage.png"
+                        }
+                    ],
+                    "rating": 0.07,
+                    "acs": 63,
+                    "kills": 3,
+                    "deaths": 14,
+                    "assists": 1,
+                    "kast": 40,
+                    "adr": 42,
+                    "headshot_percent": 36,
+                    "first_kills": 1,
+                    "first_deaths": 4,
+                    "first_kills_diff": -3
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "0-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "0-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "1-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "2-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "3-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "4-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "5-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "6-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "7-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "8-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "9-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "10-2",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "11-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "12-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "13-2",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        },
+        {
+            "map": "Haven",
+            "teams": [
+                {
+                    "name": "FNATIC",
+                    "score": 13
+                },
+                {
+                    "name": "Team Liquid",
+                    "score": 9
+                }
+            ],
+            "members": [
+                {
+                    "id": "458",
+                    "name": "Chronicle",
+                    "team": "FNATIC",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 1.38,
+                    "acs": 257,
+                    "kills": 19,
+                    "deaths": 12,
+                    "assists": 6,
+                    "kast": 82,
+                    "adr": 173,
+                    "headshot_percent": 29,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "5022",
+                    "name": "Derke",
+                    "team": "FNATIC",
+                    "agents": [
+                        {
+                            "title": "Yoru",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/yoru.png"
+                        }
+                    ],
+                    "rating": 1.2,
+                    "acs": 248,
+                    "kills": 21,
+                    "deaths": 14,
+                    "assists": 5,
+                    "kast": 68,
+                    "adr": 159,
+                    "headshot_percent": 33,
+                    "first_kills": 1,
+                    "first_deaths": 4,
+                    "first_kills_diff": -3
+                },
+                {
+                    "id": "9810",
+                    "name": "Alfajer",
+                    "team": "FNATIC",
+                    "agents": [
+                        {
+                            "title": "Iso",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/iso.png"
+                        }
+                    ],
+                    "rating": 1.2,
+                    "acs": 247,
+                    "kills": 18,
+                    "deaths": 13,
+                    "assists": 5,
+                    "kast": 64,
+                    "adr": 162,
+                    "headshot_percent": 41,
+                    "first_kills": 4,
+                    "first_deaths": 1,
+                    "first_kills_diff": 3
+                },
+                {
+                    "id": "29867",
+                    "name": "hiro",
+                    "team": "FNATIC",
+                    "agents": [
+                        {
+                            "title": "Cypher",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/cypher.png"
+                        }
+                    ],
+                    "rating": 1.01,
+                    "acs": 168,
+                    "kills": 14,
+                    "deaths": 13,
+                    "assists": 6,
+                    "kast": 82,
+                    "adr": 110,
+                    "headshot_percent": 38,
+                    "first_kills": 4,
+                    "first_deaths": 2,
+                    "first_kills_diff": 2
+                },
+                {
+                    "id": "438",
+                    "name": "Boaster",
+                    "team": "FNATIC",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 0.92,
+                    "acs": 110,
+                    "kills": 8,
+                    "deaths": 10,
+                    "assists": 13,
+                    "kast": 77,
+                    "adr": 82,
+                    "headshot_percent": 19,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "1457",
+                    "name": "Mistic",
+                    "team": "Team Liquid",
+                    "agents": [
+                        {
+                            "title": "Omen",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/omen.png"
+                        }
+                    ],
+                    "rating": 1.01,
+                    "acs": 156,
+                    "kills": 14,
+                    "deaths": 15,
+                    "assists": 3,
+                    "kast": 77,
+                    "adr": 95,
+                    "headshot_percent": 22,
+                    "first_kills": 3,
+                    "first_deaths": 2,
+                    "first_kills_diff": 1
+                },
+                {
+                    "id": "114",
+                    "name": "Enzo",
+                    "team": "Team Liquid",
+                    "agents": [
+                        {
+                            "title": "Sova",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/sova.png"
+                        }
+                    ],
+                    "rating": 0.96,
+                    "acs": 194,
+                    "kills": 15,
+                    "deaths": 15,
+                    "assists": 4,
+                    "kast": 45,
+                    "adr": 116,
+                    "headshot_percent": 8,
+                    "first_kills": 1,
+                    "first_deaths": 3,
+                    "first_kills_diff": -2
+                },
+                {
+                    "id": "457",
+                    "name": "nAts",
+                    "team": "Team Liquid",
+                    "agents": [
+                        {
+                            "title": "Killjoy",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/killjoy.png"
+                        }
+                    ],
+                    "rating": 0.88,
+                    "acs": 146,
+                    "kills": 11,
+                    "deaths": 15,
+                    "assists": 4,
+                    "kast": 64,
+                    "adr": 97,
+                    "headshot_percent": 22,
+                    "first_kills": 1,
+                    "first_deaths": 1,
+                    "first_kills_diff": 0
+                },
+                {
+                    "id": "11494",
+                    "name": "Keiko",
+                    "team": "Team Liquid",
+                    "agents": [
+                        {
+                            "title": "Jett",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/jett.png"
+                        }
+                    ],
+                    "rating": 0.81,
+                    "acs": 196,
+                    "kills": 14,
+                    "deaths": 17,
+                    "assists": 3,
+                    "kast": 77,
+                    "adr": 123,
+                    "headshot_percent": 34,
+                    "first_kills": 3,
+                    "first_deaths": 4,
+                    "first_kills_diff": -1
+                },
+                {
+                    "id": "9780",
+                    "name": "Jamppi",
+                    "team": "Team Liquid",
+                    "agents": [
+                        {
+                            "title": "Breach",
+                            "img": "https://www.vlr.gg/img/vlr/game/agents/breach.png"
+                        }
+                    ],
+                    "rating": 0.52,
+                    "acs": 118,
+                    "kills": 8,
+                    "deaths": 18,
+                    "assists": 7,
+                    "kast": 50,
+                    "adr": 72,
+                    "headshot_percent": 29,
+                    "first_kills": 2,
+                    "first_deaths": 2,
+                    "first_kills_diff": 0
+                }
+            ],
+            "rounds": [
+                {
+                    "round_number": 1,
+                    "round_score": "1-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 2,
+                    "round_score": "2-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 3,
+                    "round_score": "3-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 4,
+                    "round_score": "4-0",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 5,
+                    "round_score": "4-1",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 6,
+                    "round_score": "4-2",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 7,
+                    "round_score": "4-3",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 8,
+                    "round_score": "5-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 9,
+                    "round_score": "6-3",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 10,
+                    "round_score": "6-4",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 11,
+                    "round_score": "7-4",
+                    "winner": "team1",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 12,
+                    "round_score": "7-5",
+                    "winner": "team2",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 13,
+                    "round_score": "7-6",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 14,
+                    "round_score": "7-7",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 15,
+                    "round_score": "8-7",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 16,
+                    "round_score": "8-8",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 17,
+                    "round_score": "8-9",
+                    "winner": "team2",
+                    "side": "defense",
+                    "win_type": "Defused"
+                },
+                {
+                    "round_number": 18,
+                    "round_score": "9-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 19,
+                    "round_score": "10-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 20,
+                    "round_score": "11-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                },
+                {
+                    "round_number": 21,
+                    "round_score": "12-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Spike exploded"
+                },
+                {
+                    "round_number": 22,
+                    "round_score": "13-9",
+                    "winner": "team1",
+                    "side": "attack",
+                    "win_type": "Elimination"
+                }
+            ]
+        }
+    ],
+    "previous_encounters": [
+        {
+            "teams": [
+                {
+                    "name": "FNATIC",
+                    "score": 2
+                },
+                {
+                    "name": "Team Liquid",
+                    "score": 1
+                }
+            ],
+            "match_id": "341816"
+        },
+        {
+            "teams": [
+                {
+                    "name": "FNATIC",
+                    "score": 1
+                },
+                {
+                    "name": "Team Liquid",
+                    "score": 3
+                }
+            ],
+            "match_id": "213198"
+        },
+        {
+            "teams": [
+                {
+                    "name": "FNATIC",
+                    "score": 2
+                },
+                {
+                    "name": "Team Liquid",
+                    "score": 0
+                }
+            ],
+            "match_id": "213197"
+        },
+        {
+            "teams": [
+                {
+                    "name": "FNATIC",
+                    "score": 2
+                },
+                {
+                    "name": "Team Liquid",
+                    "score": 0
+                }
+            ],
+            "match_id": "183951"
+        },
+        {
+            "teams": [
+                {
+                    "name": "FNATIC",
+                    "score": 2
+                },
+                {
+                    "name": "Team Liquid",
+                    "score": 0
+                }
+            ],
+            "match_id": "130687"
+        }
+    ]
+}
